@@ -1,0 +1,255 @@
+BYBITINVERSE:
+  btcusd_bybit:
+    basecurrency: BTC
+    contractSize: 1.0
+    lotSize: 1.0
+    minOrderSize: 1.0
+    quotecurrency: USD
+    symbol: BTCUSD
+    tickSize: 0.5
+    tickerOnly: true
+  btcusdu21_bybit:
+    basecurrency: BTC
+    contractSize: 1.0
+    lotSize: 1.0
+    minOrderSize: 1.0
+    quotecurrency: USD
+    symbol: BTCUSDU21
+    tickSize: 0.5
+    tickerOnly: true
+  btcusdz21_bybit:
+    basecurrency: BTC
+    contractSize: 1.0
+    lotSize: 1.0
+    minOrderSize: 1.0
+    quotecurrency: USD
+    symbol: BTCUSDZ21
+    tickSize: 0.5
+    tickerOnly: true
+  eosusd_bybit:
+    basecurrency: EOS
+    contractSize: 1.0
+    lotSize: 1.0
+    minOrderSize: 1.0
+    quotecurrency: USD
+    symbol: EOSUSD
+    tickSize: 0.001
+    tickerOnly: true
+  ethusd_bybit:
+    basecurrency: ETH
+    contractSize: 1.0
+    lotSize: 1.0
+    minOrderSize: 1.0
+    quotecurrency: USD
+    symbol: ETHUSD
+    tickSize: 0.05
+    tickerOnly: true
+  ethusdu21_bybit:
+    basecurrency: ETH
+    contractSize: 1.0
+    lotSize: 1.0
+    minOrderSize: 1.0
+    quotecurrency: USD
+    symbol: ETHUSDU21
+    tickSize: 0.05
+    tickerOnly: true
+  ethusdz21_bybit:
+    basecurrency: ETH
+    contractSize: 1.0
+    lotSize: 1.0
+    minOrderSize: 1.0
+    quotecurrency: USD
+    symbol: ETHUSDZ21
+    tickSize: 0.05
+    tickerOnly: true
+  xrpusd_bybit:
+    basecurrency: XRP
+    contractSize: 1.0
+    lotSize: 1.0
+    minOrderSize: 1.0
+    quotecurrency: USD
+    symbol: XRPUSD
+    tickSize: 0.0001
+    tickerOnly: true
+BYBITUSDT:
+  aaveusdt_bybit:
+    basecurrency: AAVE
+    contractSize: 1.0
+    lotSize: 0.01
+    minOrderSize: 0.01
+    quotecurrency: USDT
+    symbol: AAVEUSDT
+    tickSize: 0.05
+    tickerOnly: true
+  adausdt_bybit:
+    basecurrency: ADA
+    contractSize: 1.0
+    lotSize: 1.0
+    minOrderSize: 1.0
+    quotecurrency: USDT
+    symbol: ADAUSDT
+    tickSize: 0.0001
+    tickerOnly: true
+  bchusdt_bybit:
+    basecurrency: BCH
+    contractSize: 1.0
+    lotSize: 0.01
+    minOrderSize: 0.01
+    quotecurrency: USDT
+    symbol: BCHUSDT
+    tickSize: 0.05
+    tickerOnly: true
+  bnbusdt_bybit:
+    basecurrency: BNB
+    contractSize: 1.0
+    lotSize: 0.01
+    minOrderSize: 0.01
+    quotecurrency: USDT
+    symbol: BNBUSDT
+    tickSize: 0.05
+    tickerOnly: true
+  btcusdt_bybit:
+    basecurrency: BTC
+    contractSize: 1.0
+    lotSize: 0.001
+    minOrderSize: 0.001
+    quotecurrency: USDT
+    symbol: BTCUSDT
+    tickSize: 0.5
+    tickerOnly: true
+  dogeusdt_bybit:
+    basecurrency: DOGE
+    contractSize: 1.0
+    lotSize: 1.0
+    minOrderSize: 1.0
+    quotecurrency: USDT
+    symbol: DOGEUSDT
+    tickSize: 0.0001
+    tickerOnly: true
+  dotusdt_bybit:
+    basecurrency: DOT
+    contractSize: 1.0
+    lotSize: 0.1
+    minOrderSize: 0.1
+    quotecurrency: USDT
+    symbol: DOTUSDT
+    tickSize: 0.005
+    tickerOnly: true
+  eosusdt_bybit:
+    basecurrency: EOS
+    contractSize: 1.0
+    lotSize: 0.1
+    minOrderSize: 0.1
+    quotecurrency: USDT
+    symbol: EOSUSDT
+    tickSize: 0.001
+    tickerOnly: true
+  etcusdt_bybit:
+    basecurrency: ETC
+    contractSize: 1.0
+    lotSize: 0.1
+    minOrderSize: 0.1
+    quotecurrency: USDT
+    symbol: ETCUSDT
+    tickSize: 0.005
+    tickerOnly: true
+  ethusdt_bybit:
+    basecurrency: ETH
+    contractSize: 1.0
+    lotSize: 0.01
+    minOrderSize: 0.01
+    quotecurrency: USDT
+    symbol: ETHUSDT
+    tickSize: 0.05
+    tickerOnly: true
+  filusdt_bybit:
+    basecurrency: FIL
+    contractSize: 1.0
+    lotSize: 0.1
+    minOrderSize: 0.1
+    quotecurrency: USDT
+    symbol: FILUSDT
+    tickSize: 0.01
+    tickerOnly: true
+  linkusdt_bybit:
+    basecurrency: LINK
+    contractSize: 1.0
+    lotSize: 0.1
+    minOrderSize: 0.1
+    quotecurrency: USDT
+    symbol: LINKUSDT
+    tickSize: 0.001
+    tickerOnly: true
+  ltcusdt_bybit:
+    basecurrency: LTC
+    contractSize: 1.0
+    lotSize: 0.1
+    minOrderSize: 0.1
+    quotecurrency: USDT
+    symbol: LTCUSDT
+    tickSize: 0.01
+    tickerOnly: true
+  maticusdt_bybit:
+    basecurrency: MATIC
+    contractSize: 1.0
+    lotSize: 1.0
+    minOrderSize: 1.0
+    quotecurrency: USDT
+    symbol: MATICUSDT
+    tickSize: 0.0001
+    tickerOnly: true
+  solusdt_bybit:
+    basecurrency: SOL
+    contractSize: 1.0
+    lotSize: 0.1
+    minOrderSize: 0.1
+    quotecurrency: USDT
+    symbol: SOLUSDT
+    tickSize: 0.005
+    tickerOnly: true
+  sushiusdt_bybit:
+    basecurrency: SUSHI
+    contractSize: 1.0
+    lotSize: 0.1
+    minOrderSize: 0.1
+    quotecurrency: USDT
+    symbol: SUSHIUSDT
+    tickSize: 0.001
+    tickerOnly: true
+  uniusdt_bybit:
+    basecurrency: UNI
+    contractSize: 1.0
+    lotSize: 0.1
+    minOrderSize: 0.1
+    quotecurrency: USDT
+    symbol: UNIUSDT
+    tickSize: 0.001
+    tickerOnly: true
+  xemusdt_bybit:
+    basecurrency: XEM
+    contractSize: 1.0
+    lotSize: 1.0
+    minOrderSize: 1.0
+    quotecurrency: USDT
+    symbol: XEMUSDT
+    tickSize: 0.0001
+    tickerOnly: true
+  xrpusdt_bybit:
+    basecurrency: XRP
+    contractSize: 1.0
+    lotSize: 1.0
+    minOrderSize: 1.0
+    quotecurrency: USDT
+    symbol: XRPUSDT
+    tickSize: 0.0001
+    tickerOnly: true
+  xtzusdt_bybit:
+    basecurrency: XTZ
+    contractSize: 1.0
+    lotSize: 0.1
+    minOrderSize: 0.1
+    quotecurrency: USDT
+    symbol: XTZUSDT
+    tickSize: 0.001
+    tickerOnly: true
+

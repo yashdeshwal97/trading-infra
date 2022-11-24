@@ -1,0 +1,18 @@
+package constants.enums
+
+enum class PrivateMessageType {
+    TRADE,
+    FIX_ORDER_RESPONSE,
+    ORDER_RESPONSE,
+    POSITION,
+    MARGIN,
+    WALLET,
+    INIT,
+    ORDER_ERROR,
+    REST_NEW_ORDER_SUCCESS,
+    REST_CANCEL_SUCCESS,
+    REST_NEW_ORDER_EXCEPTION,
+    REST_CANCEL_EXCEPTION,
+    REST_ORDER_SUCCESS,
+    REST_ORDER_EXCEPTION
+}

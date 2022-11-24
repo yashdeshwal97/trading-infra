@@ -1,0 +1,38 @@
+strategies:
+  TWAP:
+    BTC:
+      btc_usd_spot_ftx:
+        symbol: BTC/USD
+        exchangeId: "ftx"
+        perOrderSize: 0.01
+    ETH:
+      eth_usd_spot_ftx:
+        symbol: ETH/USD
+        exchangeId: "ftx"
+        perOrderSize: 0.01
+    USDT:
+      usdt_usd_spot_ftx:
+        symbol: USDT/USD
+        exchangeId: "ftx"
+        perOrderSize: 100.0
+    SOL:
+      sol_usd_spot_ftx:
+        symbol: SOL/USD
+        exchangeId: "ftx"
+        perOrderSize: 0.01
+    BNB:
+      bnb_usd_spot_ftx:
+        symbol: BNB/USD
+        exchangeId: "ftx"
+        perOrderSize: 0.01
+    TRX:
+      trx_usd_spot_ftx:
+        symbol: TRX/USD
+        exchangeId: "ftx"
+        perOrderSize: 0.01
+
+
+
+
+
+

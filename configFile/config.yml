@@ -1,0 +1,31 @@
+exchanges:
+  auth:
+    ftx:
+      exchangeName: FTX
+      apiKey: "eUiOSuFzzsJ8BkJApWQw41XHVLBVD5r4xVwNwx3E"
+      secret: "4IPyKCfZ6QZiOezSKpedSJW7zQvDzC-6mTxINaAP"
+      enabled: True
+      count: 2
+      intervalSeconds: 0.2
+      publishLevels: 20
+      log: False
+      subaccount: Sub1
+      currenciesFile: "./currencies/ftx.yaml"
+      publishOnTopOnly: True
+      ob: True
+  md:
+    ftx:
+      enabled: True
+      currenciesFile: "./currencies/ftx.yaml"
+      publishOnTopOnly: True
+      ob: True
+      arb: False
+
+
+
+
+
+
+
+
+

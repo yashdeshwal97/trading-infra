@@ -1,0 +1,14 @@
+QUOINEX:
+  btcjpy_quoinex:
+    symbol: "BTCJPY"
+    tickSize: 1.0
+    minOrderSize: 0.001
+    lotSize: 0.001
+    contractSize: 1
+
+  btcusd_p_quoinex:
+    symbol: "P-BTCUSD"
+    tickSize: 0.5
+    minOrderSize: 0.001
+    lotSize: 0.001
+    contractSize: 1

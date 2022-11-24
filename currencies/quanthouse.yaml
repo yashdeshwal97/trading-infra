@@ -1,0 +1,322 @@
+QUANTHOUSE:
+  aapl_quanthouse:
+    code: AAPL
+    contractSize: 1.0
+    instrumentCode: 692061165
+    lotSize: 1.0e-06
+    market: XNAS
+    minOrderSize: 1.0e-06
+    symbol: AAPL
+    tickSize: 1.0e-06
+    tickerOnly: true
+  abnb_quanthouse:
+    code: ABNB
+    contractSize: 1.0
+    instrumentCode: 692179143
+    lotSize: 1.0e-06
+    market: XNAS
+    minOrderSize: 1.0e-06
+    symbol: ABNB
+    tickSize: 1.0e-06
+    tickerOnly: true
+  acb_quanthouse:
+    code: ACB
+    contractSize: 1.0
+    instrumentCode: 692175785
+    lotSize: 1.0e-06
+    market: XNAS
+    minOrderSize: 1.0e-06
+    symbol: ACB
+    tickSize: 1.0e-06
+    tickerOnly: true
+  amc_quanthouse:
+    code: AMC
+    contractSize: 1.0
+    instrumentCode: 692091916
+    lotSize: 1.0e-06
+    market: XNAS
+    minOrderSize: 1.0e-06
+    symbol: AMC
+    tickSize: 1.0e-06
+    tickerOnly: true
+  amd_quanthouse:
+    code: AMD
+    contractSize: 1.0
+    instrumentCode: 692091918
+    lotSize: 1.0e-06
+    market: XNAS
+    minOrderSize: 1.0e-06
+    symbol: AMD
+    tickSize: 1.0e-06
+    tickerOnly: true
+  amzn_quanthouse:
+    code: AMZN
+    contractSize: 1.0
+    instrumentCode: 692061337
+    lotSize: 1.0e-06
+    market: XNAS
+    minOrderSize: 1.0e-06
+    symbol: AMZN
+    tickSize: 1.0e-06
+    tickerOnly: true
+  apha_quanthouse:
+    code: APHA
+    contractSize: 1.0
+    instrumentCode: 692175836
+    lotSize: 1.0e-06
+    market: XNAS
+    minOrderSize: 1.0e-06
+    symbol: APHA
+    tickSize: 1.0e-06
+    tickerOnly: true
+  arkk_quanthouse:
+    code: ARKK
+    contractSize: 1.0
+    instrumentCode: 692167285
+    lotSize: 1.0e-06
+    market: XNAS
+    minOrderSize: 1.0e-06
+    symbol: ARKK
+    tickSize: 1.0e-06
+    tickerOnly: true
+  baba_quanthouse:
+    code: BABA
+    contractSize: 1.0
+    instrumentCode: 692166643
+    lotSize: 1.0e-06
+    market: XNAS
+    minOrderSize: 1.0e-06
+    symbol: BABA
+    tickSize: 1.0e-06
+    tickerOnly: true
+  bb_quanthouse:
+    code: BB
+    contractSize: 1.0
+    instrumentCode: 692173492
+    lotSize: 1.0e-06
+    market: XNAS
+    minOrderSize: 1.0e-06
+    symbol: BB
+    tickSize: 1.0e-06
+    tickerOnly: true
+  bili_quanthouse:
+    code: BILI
+    contractSize: 1.0
+    instrumentCode: 692174433
+    lotSize: 1.0e-06
+    market: XNAS
+    minOrderSize: 1.0e-06
+    symbol: BILI
+    tickSize: 1.0e-06
+    tickerOnly: true
+  bntx_quanthouse:
+    code: BNTX
+    contractSize: 1.0
+    instrumentCode: 692177074
+    lotSize: 1.0e-06
+    market: XNAS
+    minOrderSize: 1.0e-06
+    symbol: BNTX
+    tickSize: 1.0e-06
+    tickerOnly: true
+  bynd_quanthouse:
+    code: BYND
+    contractSize: 1.0
+    instrumentCode: 692176506
+    lotSize: 1.0e-06
+    market: XNAS
+    minOrderSize: 1.0e-06
+    symbol: BYND
+    tickSize: 1.0e-06
+    tickerOnly: true
+  cgc_quanthouse:
+    code: CGC
+    contractSize: 1.0
+    instrumentCode: 692102296
+    lotSize: 1.0e-06
+    market: XNAS
+    minOrderSize: 1.0e-06
+    symbol: CGC
+    tickSize: 1.0e-06
+    tickerOnly: true
+  cron_quanthouse:
+    code: CRON
+    contractSize: 1.0
+    instrumentCode: 692174211
+    lotSize: 1.0e-06
+    market: XNAS
+    minOrderSize: 1.0e-06
+    symbol: CRON
+    tickSize: 1.0e-06
+    tickerOnly: true
+  fb_quanthouse:
+    code: FB
+    contractSize: 1.0
+    instrumentCode: 692112934
+    lotSize: 1.0e-06
+    market: XNAS
+    minOrderSize: 1.0e-06
+    symbol: FB
+    tickSize: 1.0e-06
+    tickerOnly: true
+  gme_quanthouse:
+    code: GME
+    contractSize: 1.0
+    instrumentCode: 692093672
+    lotSize: 1.0e-06
+    market: XNAS
+    minOrderSize: 1.0e-06
+    symbol: GME
+    tickSize: 1.0e-06
+    tickerOnly: true
+  googl_quanthouse:
+    code: GOOGL
+    contractSize: 1.0
+    instrumentCode: 692163427
+    lotSize: 1.0e-06
+    market: XNAS
+    minOrderSize: 1.0e-06
+    symbol: GOOGL
+    tickSize: 1.0e-06
+    tickerOnly: true
+  mrna_quanthouse:
+    code: MRNA
+    contractSize: 1.0
+    instrumentCode: 692090843
+    lotSize: 1.0e-06
+    market: XNAS
+    minOrderSize: 1.0e-06
+    symbol: MRNA
+    tickSize: 1.0e-06
+    tickerOnly: true
+  mstr_quanthouse:
+    code: MSTR
+    contractSize: 1.0
+    instrumentCode: 692063062
+    lotSize: 1.0e-06
+    market: XNAS
+    minOrderSize: 1.0e-06
+    symbol: MSTR
+    tickSize: 1.0e-06
+    tickerOnly: true
+  nflx_quanthouse:
+    code: NFLX
+    contractSize: 1.0
+    instrumentCode: 692063148
+    lotSize: 1.0e-06
+    market: XNAS
+    minOrderSize: 1.0e-06
+    symbol: NFLX
+    tickSize: 1.0e-06
+    tickerOnly: true
+  nio_quanthouse:
+    code: NIO
+    contractSize: 1.0
+    instrumentCode: 692095024
+    lotSize: 1.0e-06
+    market: XNAS
+    minOrderSize: 1.0e-06
+    symbol: NIO
+    tickSize: 1.0e-06
+    tickerOnly: true
+  nvda_quanthouse:
+    code: NVDA
+    contractSize: 1.0
+    instrumentCode: 692063227
+    lotSize: 1.0e-06
+    market: XNAS
+    minOrderSize: 1.0e-06
+    symbol: NVDA
+    tickSize: 1.0e-06
+    tickerOnly: true
+  pfe_quanthouse:
+    code: PFE
+    contractSize: 1.0
+    instrumentCode: 692095396
+    lotSize: 1.0e-06
+    market: XNAS
+    minOrderSize: 1.0e-06
+    symbol: PFE
+    tickSize: 1.0e-06
+    tickerOnly: true
+  pypl_quanthouse:
+    code: PYPL
+    contractSize: 1.0
+    instrumentCode: 692168903
+    lotSize: 1.0e-06
+    market: XNAS
+    minOrderSize: 1.0e-06
+    symbol: PYPL
+    tickSize: 1.0e-06
+    tickerOnly: true
+  spy_quanthouse:
+    code: SPY
+    contractSize: 1.0
+    instrumentCode: 692096175
+    lotSize: 1.0e-06
+    market: XNAS
+    minOrderSize: 1.0e-06
+    symbol: SPY
+    tickSize: 1.0e-06
+    tickerOnly: true
+  sq_quanthouse:
+    code: SQ
+    contractSize: 1.0
+    instrumentCode: 692170061
+    lotSize: 1.0e-06
+    market: XNAS
+    minOrderSize: 1.0e-06
+    symbol: SQ
+    tickSize: 1.0e-06
+    tickerOnly: true
+  tlry_quanthouse:
+    code: TLRY
+    contractSize: 1.0
+    instrumentCode: 692174992
+    lotSize: 1.0e-06
+    market: XNAS
+    minOrderSize: 1.0e-06
+    symbol: TLRY
+    tickSize: 1.0e-06
+    tickerOnly: true
+  tsla_quanthouse:
+    code: TSLA
+    contractSize: 1.0
+    instrumentCode: 692104167
+    lotSize: 1.0e-06
+    market: XNAS
+    minOrderSize: 1.0e-06
+    symbol: TSLA
+    tickSize: 1.0e-06
+    tickerOnly: true
+  twtr_quanthouse:
+    code: TWTR
+    contractSize: 1.0
+    instrumentCode: 692147363
+    lotSize: 1.0e-06
+    market: XNAS
+    minOrderSize: 1.0e-06
+    symbol: TWTR
+    tickSize: 1.0e-06
+    tickerOnly: true
+  uber_quanthouse:
+    code: UBER
+    contractSize: 1.0
+    instrumentCode: 692176560
+    lotSize: 1.0e-06
+    market: XNAS
+    minOrderSize: 1.0e-06
+    symbol: UBER
+    tickSize: 1.0e-06
+    tickerOnly: true
+  zm_quanthouse:
+    code: ZM
+    contractSize: 1.0
+    instrumentCode: 692176480
+    lotSize: 1.0e-06
+    market: XNAS
+    minOrderSize: 1.0e-06
+    symbol: ZM
+    tickSize: 1.0e-06
+    tickerOnly: true
+

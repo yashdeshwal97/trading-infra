@@ -1,0 +1,425 @@
+DBINANCE:
+  aave_fb_perp:
+    contractSize: 10.0
+    isLinear: false
+    lotSize: 1.0
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: AAVEUSD_PERP
+    tickSize: 0.01
+    tickerOnly: true
+  ada_fb_bq:
+    contractSize: 10.0
+    isLinear: false
+    lotSize: 1.0
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: ADAUSD_220624
+    tickSize: 1.0e-05
+    tickerOnly: true
+  ada_fb_cq:
+    contractSize: 10.0
+    isLinear: false
+    lotSize: 1.0
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: ADAUSD_220325
+    tickSize: 1.0e-05
+    tickerOnly: true
+  ada_fb_perp:
+    contractSize: 10.0
+    isLinear: false
+    lotSize: 1.0
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: ADAUSD_PERP
+    tickSize: 1.0e-05
+    tickerOnly: true
+  atom_fb_perp:
+    contractSize: 10.0
+    isLinear: false
+    lotSize: 1.0
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: ATOMUSD_PERP
+    tickSize: 0.001
+    tickerOnly: true
+  avax_fb_perp:
+    contractSize: 10.0
+    isLinear: false
+    lotSize: 1.0
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: AVAXUSD_PERP
+    tickSize: 0.01
+    tickerOnly: true
+  bch_fb_bq:
+    contractSize: 10.0
+    isLinear: false
+    lotSize: 1.0
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: BCHUSD_220624
+    tickSize: 0.01
+    tickerOnly: true
+  bch_fb_cq:
+    contractSize: 10.0
+    isLinear: false
+    lotSize: 1.0
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: BCHUSD_220325
+    tickSize: 0.01
+    tickerOnly: true
+  bch_fb_perp:
+    contractSize: 10.0
+    isLinear: false
+    lotSize: 1.0
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: BCHUSD_PERP
+    tickSize: 0.01
+    tickerOnly: true
+  bnb_fb_bq:
+    contractSize: 10.0
+    isLinear: false
+    lotSize: 1.0
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: BNBUSD_220624
+    tickSize: 0.001
+    tickerOnly: true
+  bnb_fb_cq:
+    contractSize: 10.0
+    isLinear: false
+    lotSize: 1.0
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: BNBUSD_220325
+    tickSize: 0.001
+    tickerOnly: true
+  bnb_fb_perp:
+    contractSize: 10.0
+    isLinear: false
+    lotSize: 1.0
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: BNBUSD_PERP
+    tickSize: 0.001
+    tickerOnly: true
+  btc_fb_bq:
+    contractSize: 100.0
+    isLinear: false
+    lotSize: 1.0
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: BTCUSD_220624
+    tickSize: 0.1
+    tickerOnly: true
+  btc_fb_cq:
+    contractSize: 100.0
+    isLinear: false
+    lotSize: 1.0
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: BTCUSD_220325
+    tickSize: 0.1
+    tickerOnly: true
+  btc_fb_perp:
+    contractSize: 100.0
+    isLinear: false
+    lotSize: 1.0
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: BTCUSD_PERP
+    tickSize: 0.1
+    tickerOnly: true
+  doge_fb_perp:
+    contractSize: 10.0
+    isLinear: false
+    lotSize: 1.0
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: DOGEUSD_PERP
+    tickSize: 1.0e-06
+    tickerOnly: true
+  dot_fb_bq:
+    contractSize: 10.0
+    isLinear: false
+    lotSize: 1.0
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: DOTUSD_220624
+    tickSize: 0.001
+    tickerOnly: true
+  dot_fb_cq:
+    contractSize: 10.0
+    isLinear: false
+    lotSize: 1.0
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: DOTUSD_220325
+    tickSize: 0.001
+    tickerOnly: true
+  dot_fb_perp:
+    contractSize: 10.0
+    isLinear: false
+    lotSize: 1.0
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: DOTUSD_PERP
+    tickSize: 0.001
+    tickerOnly: true
+  egld_fb_perp:
+    contractSize: 10.0
+    isLinear: false
+    lotSize: 1.0
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: EGLDUSD_PERP
+    tickSize: 0.001
+    tickerOnly: true
+  eos_fb_perp:
+    contractSize: 10.0
+    isLinear: false
+    lotSize: 1.0
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: EOSUSD_PERP
+    tickSize: 0.001
+    tickerOnly: true
+  etc_fb_perp:
+    contractSize: 10.0
+    isLinear: false
+    lotSize: 1.0
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: ETCUSD_PERP
+    tickSize: 0.001
+    tickerOnly: true
+  eth_fb_bq:
+    contractSize: 10.0
+    isLinear: false
+    lotSize: 1.0
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: ETHUSD_220624
+    tickSize: 0.01
+    tickerOnly: true
+  eth_fb_cq:
+    contractSize: 10.0
+    isLinear: false
+    lotSize: 1.0
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: ETHUSD_220325
+    tickSize: 0.01
+    tickerOnly: true
+  eth_fb_perp:
+    contractSize: 10.0
+    isLinear: false
+    lotSize: 1.0
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: ETHUSD_PERP
+    tickSize: 0.01
+    tickerOnly: true
+  fil_fb_perp:
+    contractSize: 10.0
+    isLinear: false
+    lotSize: 1.0
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: FILUSD_PERP
+    tickSize: 0.001
+    tickerOnly: true
+  ftm_fb_perp:
+    contractSize: 10.0
+    isLinear: false
+    lotSize: 1.0
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: FTMUSD_PERP
+    tickSize: 0.0001
+    tickerOnly: true
+  gala_fb_perp:
+    contractSize: 10.0
+    isLinear: false
+    lotSize: 1.0
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: GALAUSD_PERP
+    tickSize: 1.0e-05
+    tickerOnly: true
+  link_fb_bq:
+    contractSize: 10.0
+    isLinear: false
+    lotSize: 1.0
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: LINKUSD_220624
+    tickSize: 0.001
+    tickerOnly: true
+  link_fb_cq:
+    contractSize: 10.0
+    isLinear: false
+    lotSize: 1.0
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: LINKUSD_220325
+    tickSize: 0.001
+    tickerOnly: true
+  link_fb_perp:
+    contractSize: 10.0
+    isLinear: false
+    lotSize: 1.0
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: LINKUSD_PERP
+    tickSize: 0.001
+    tickerOnly: true
+  ltc_fb_bq:
+    contractSize: 10.0
+    isLinear: false
+    lotSize: 1.0
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: LTCUSD_220624
+    tickSize: 0.01
+    tickerOnly: true
+  ltc_fb_cq:
+    contractSize: 10.0
+    isLinear: false
+    lotSize: 1.0
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: LTCUSD_220325
+    tickSize: 0.01
+    tickerOnly: true
+  ltc_fb_perp:
+    contractSize: 10.0
+    isLinear: false
+    lotSize: 1.0
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: LTCUSD_PERP
+    tickSize: 0.01
+    tickerOnly: true
+  luna_fb_perp:
+    contractSize: 10.0
+    isLinear: false
+    lotSize: 1.0
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: LUNAUSD_PERP
+    tickSize: 0.001
+    tickerOnly: true
+  mana_fb_perp:
+    contractSize: 10.0
+    isLinear: false
+    lotSize: 1.0
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: MANAUSD_PERP
+    tickSize: 0.0001
+    tickerOnly: true
+  matic_fb_perp:
+    contractSize: 10.0
+    isLinear: false
+    lotSize: 1.0
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: MATICUSD_PERP
+    tickSize: 0.0001
+    tickerOnly: true
+  near_fb_perp:
+    contractSize: 10.0
+    isLinear: false
+    lotSize: 1.0
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: NEARUSD_PERP
+    tickSize: 0.001
+    tickerOnly: true
+  sand_fb_perp:
+    contractSize: 10.0
+    isLinear: false
+    lotSize: 1.0
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: SANDUSD_PERP
+    tickSize: 0.0001
+    tickerOnly: true
+  sol_fb_perp:
+    contractSize: 10.0
+    isLinear: false
+    lotSize: 1.0
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: SOLUSD_PERP
+    tickSize: 0.001
+    tickerOnly: true
+  theta_fb_perp:
+    contractSize: 10.0
+    isLinear: false
+    lotSize: 1.0
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: THETAUSD_PERP
+    tickSize: 0.001
+    tickerOnly: true
+  trx_fb_perp:
+    contractSize: 10.0
+    isLinear: false
+    lotSize: 1.0
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: TRXUSD_PERP
+    tickSize: 1.0e-05
+    tickerOnly: true
+  uni_fb_perp:
+    contractSize: 10.0
+    isLinear: false
+    lotSize: 1.0
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: UNIUSD_PERP
+    tickSize: 0.001
+    tickerOnly: true
+  xlm_fb_perp:
+    contractSize: 10.0
+    isLinear: false
+    lotSize: 1.0
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: XLMUSD_PERP
+    tickSize: 1.0e-05
+    tickerOnly: true
+  xrp_fb_bq:
+    contractSize: 10.0
+    isLinear: false
+    lotSize: 1.0
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: XRPUSD_220624
+    tickSize: 0.0001
+    tickerOnly: true
+  xrp_fb_cq:
+    contractSize: 10.0
+    isLinear: false
+    lotSize: 1.0
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: XRPUSD_220325
+    tickSize: 0.0001
+    tickerOnly: true
+  xrp_fb_perp:
+    contractSize: 10.0
+    isLinear: false
+    lotSize: 1.0
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: XRPUSD_PERP
+    tickSize: 0.0001
+    tickerOnly: true
+

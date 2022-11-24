@@ -1,0 +1,85 @@
+FTX:
+  usdt_usd_spot_ftx:
+    symbol: USDT/USD
+    tickSize: 0.0001
+    minOrderSize: 0.01
+    lotSize: 0.01
+    contractSize: 1
+    isLinear: true
+    maxOrderSize: 99999999
+    rebate: 0.01
+    type: SPOT
+    base: USDT
+    quote: USD
+    margin: USD
+  eth_usd_spot_ftx:
+    symbol: ETH/USD
+    tickSize: 0.1
+    minOrderSize: 0.001
+    lotSize: 0.001
+    contractSize: 1
+    isLinear: true
+    maxOrderSize: 99999999
+    rebate: 0.01
+    type: SPOT
+    base: ETH
+    quote: USD
+    margin: USD
+  btc_usd_spot_ftx:
+    symbol: BTC/USD
+    tickSize: 1.0
+    minOrderSize: 0.0001
+    lotSize: 0.0001
+    contractSize: 1
+    isLinear: true
+    maxOrderSize: 99999999
+    rebate: 0.01
+    type: SPOT
+    base: BTC
+    quote: USD
+    margin: USD
+  sol_usd_spot_ftx:
+    symbol: SOL/USD
+    tickSize: 0.0025
+    minOrderSize: 0.01
+    lotSize: 0.01
+    contractSize: 1
+    basecurrency: SOL
+    quotecurrency: USD
+    isLinear: true
+    maxOrderSize: 99999999
+    rebate: 0.01
+    type: SPOT
+    base: SOL
+    quote: USD
+    margin: USD
+  bnb_usd_spot_ftx:
+    symbol: BNB/USD
+    tickSize: 0.001
+    minOrderSize: 0.01
+    lotSize: 0.01
+    contractSize: 1
+    basecurrency: BNB
+    quotecurrency: USD
+    isLinear: true
+    maxOrderSize: 99999999
+    rebate: 0.01
+    type: SPOT
+    base: BNB
+    quote: USD
+    margin: USD
+  trx_usd_spot_ftx:
+    symbol: TRX/USD
+    tickSize: 2.5e-06
+    minOrderSize: 1.0
+    lotSize: 1.0
+    contractSize: 1
+    basecurrency: TRX
+    quotecurrency: USD
+    isLinear: true
+    maxOrderSize: 99999999
+    rebate: 0.01
+    type: SPOT
+    base: TRX
+    quote: USD
+    margin: USD

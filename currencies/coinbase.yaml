@@ -1,0 +1,308 @@
+COINBASE:
+  1inch_usd_coinbase:
+    contractSize: 1.0
+    lotSize: 0.01
+    minOrderSize: 0.1
+    symbol: 1INCH-USD
+    tickSize: 0.001
+  aave_usd_coinbase:
+    contractSize: 1.0
+    lotSize: 0.001
+    minOrderSize: 0.01
+    symbol: AAVE-USD
+    tickSize: 0.001
+  ada_usd_coinbase:
+    contractSize: 1.0
+    lotSize: 0.01
+    minOrderSize: 1.0
+    symbol: ADA-USD
+    tickSize: 0.0001
+  algo_usd_coinbase:
+    contractSize: 1.0
+    lotSize: 1.0
+    minOrderSize: 1.0
+    symbol: ALGO-USD
+    tickSize: 0.0001
+  ankr_usd_coinbase:
+    contractSize: 1.0
+    lotSize: 1.0
+    minOrderSize: 10.0
+    symbol: ANKR-USD
+    tickSize: 1.0e-05
+  atom_usd_coinbase:
+    contractSize: 1.0
+    lotSize: 0.1
+    minOrderSize: 0.1
+    symbol: ATOM-USD
+    tickSize: 0.001
+  bal_usd_coinbase:
+    contractSize: 1.0
+    lotSize: 0.001
+    minOrderSize: 0.1
+    symbol: BAL-USD
+    tickSize: 1.0e-05
+  band_usd_coinbase:
+    contractSize: 1.0
+    lotSize: 0.01
+    minOrderSize: 0.1
+    symbol: BAND-USD
+    tickSize: 0.0001
+  bat_usd_coinbase:
+    contractSize: 1.0
+    lotSize: 0.01
+    minOrderSize: 0.1
+    symbol: BAT-USD
+    tickSize: 0.001
+  bch_usd_coinbase:
+    contractSize: 1.0
+    lotSize: 1.0e-08
+    minOrderSize: 0.01
+    symbol: BCH-USD
+    tickSize: 0.01
+  bnt_usd_coinbase:
+    contractSize: 1.0
+    lotSize: 1.0e-06
+    minOrderSize: 1.0
+    symbol: BNT-USD
+    tickSize: 0.0001
+  btc_usd_coinbase:
+    contractSize: 1.0
+    lotSize: 1.0e-08
+    minOrderSize: 0.0001
+    symbol: BTC-USD
+    tickSize: 0.01
+  cgld_usd_coinbase:
+    contractSize: 1.0
+    lotSize: 0.01
+    minOrderSize: 0.1
+    symbol: CGLD-USD
+    tickSize: 0.0001
+  comp_usd_coinbase:
+    contractSize: 1.0
+    lotSize: 0.001
+    minOrderSize: 0.01
+    symbol: COMP-USD
+    tickSize: 0.01
+  crv_usd_coinbase:
+    contractSize: 1.0
+    lotSize: 0.01
+    minOrderSize: 0.5
+    symbol: CRV-USD
+    tickSize: 0.0001
+  dai_usd_coinbase:
+    contractSize: 1.0
+    lotSize: 1.0e-05
+    minOrderSize: 1.0
+    symbol: DAI-USD
+    tickSize: 1.0e-06
+  dash_usd_coinbase:
+    contractSize: 1.0
+    lotSize: 0.001
+    minOrderSize: 0.01
+    symbol: DASH-USD
+    tickSize: 0.001
+  enj_usd_coinbase:
+    contractSize: 1.0
+    lotSize: 0.01
+    minOrderSize: 0.1
+    symbol: ENJ-USD
+    tickSize: 0.001
+  eos_usd_coinbase:
+    contractSize: 1.0
+    lotSize: 0.1
+    minOrderSize: 0.1
+    symbol: EOS-USD
+    tickSize: 0.001
+  etc_usd_coinbase:
+    contractSize: 1.0
+    lotSize: 1.0e-08
+    minOrderSize: 0.1
+    symbol: ETC-USD
+    tickSize: 0.001
+  eth_usd_coinbase:
+    contractSize: 1.0
+    lotSize: 1.0e-08
+    minOrderSize: 0.001
+    symbol: ETH-USD
+    tickSize: 0.01
+  fil_usd_coinbase:
+    contractSize: 1.0
+    lotSize: 0.001
+    minOrderSize: 0.01
+    symbol: FIL-USD
+    tickSize: 0.0001
+  forth_usd_coinbase:
+    contractSize: 1.0
+    lotSize: 0.001
+    minOrderSize: 0.01
+    symbol: FORTH-USD
+    tickSize: 0.001
+  grt_usd_coinbase:
+    contractSize: 1.0
+    lotSize: 0.01
+    minOrderSize: 10.0
+    symbol: GRT-USD
+    tickSize: 0.0001
+  knc_usd_coinbase:
+    contractSize: 1.0
+    lotSize: 0.1
+    minOrderSize: 1.0
+    symbol: KNC-USD
+    tickSize: 0.0001
+  link_usd_coinbase:
+    contractSize: 1.0
+    lotSize: 0.01
+    minOrderSize: 0.1
+    symbol: LINK-USD
+    tickSize: 1.0e-05
+  lrc_usd_coinbase:
+    contractSize: 1.0
+    lotSize: 1.0e-06
+    minOrderSize: 1.0
+    symbol: LRC-USD
+    tickSize: 0.0001
+  ltc_usd_coinbase:
+    contractSize: 1.0
+    lotSize: 1.0e-08
+    minOrderSize: 0.01
+    symbol: LTC-USD
+    tickSize: 0.01
+  mana_usd_coinbase:
+    contractSize: 1.0
+    lotSize: 0.01
+    minOrderSize: 0.1
+    symbol: MANA-USD
+    tickSize: 0.001
+  matic_usd_coinbase:
+    contractSize: 1.0
+    lotSize: 0.1
+    minOrderSize: 5.0
+    symbol: MATIC-USD
+    tickSize: 0.0001
+  mkr_usd_coinbase:
+    contractSize: 1.0
+    lotSize: 1.0e-06
+    minOrderSize: 0.001
+    symbol: MKR-USD
+    tickSize: 0.0001
+  nkn_usd_coinbase:
+    contractSize: 1.0
+    lotSize: 0.1
+    minOrderSize: 1.0
+    symbol: NKN-USD
+    tickSize: 0.0001
+  nmr_usd_coinbase:
+    contractSize: 1.0
+    lotSize: 0.001
+    minOrderSize: 0.01
+    symbol: NMR-USD
+    tickSize: 0.0001
+  nu_usd_coinbase:
+    contractSize: 1.0
+    lotSize: 1.0e-06
+    minOrderSize: 10.0
+    symbol: NU-USD
+    tickSize: 0.0001
+  ogn_usd_coinbase:
+    contractSize: 1.0
+    lotSize: 0.01
+    minOrderSize: 0.1
+    symbol: OGN-USD
+    tickSize: 0.001
+  omg_usd_coinbase:
+    contractSize: 1.0
+    lotSize: 0.1
+    minOrderSize: 1.0
+    symbol: OMG-USD
+    tickSize: 0.0001
+  oxt_usd_coinbase:
+    contractSize: 1.0
+    lotSize: 1.0
+    minOrderSize: 1.0
+    symbol: OXT-USD
+    tickSize: 0.0001
+  ren_usd_coinbase:
+    contractSize: 1.0
+    lotSize: 1.0e-06
+    minOrderSize: 1.0
+    symbol: REN-USD
+    tickSize: 0.0001
+  rep_usd_coinbase:
+    contractSize: 1.0
+    lotSize: 1.0e-06
+    minOrderSize: 0.1
+    symbol: REP-USD
+    tickSize: 0.01
+  skl_usd_coinbase:
+    contractSize: 1.0
+    lotSize: 0.1
+    minOrderSize: 5.0
+    symbol: SKL-USD
+    tickSize: 0.0001
+  snx_usd_coinbase:
+    contractSize: 1.0
+    lotSize: 0.001
+    minOrderSize: 0.1
+    symbol: SNX-USD
+    tickSize: 0.0001
+  storj_usd_coinbase:
+    contractSize: 1.0
+    lotSize: 0.01
+    minOrderSize: 1.0
+    symbol: STORJ-USD
+    tickSize: 0.0001
+  sushi_usd_coinbase:
+    contractSize: 1.0
+    lotSize: 0.01
+    minOrderSize: 0.1
+    symbol: SUSHI-USD
+    tickSize: 0.001
+  uma_usd_coinbase:
+    contractSize: 1.0
+    lotSize: 0.001
+    minOrderSize: 0.01
+    symbol: UMA-USD
+    tickSize: 0.001
+  uni_usd_coinbase:
+    contractSize: 1.0
+    lotSize: 1.0e-06
+    minOrderSize: 0.1
+    symbol: UNI-USD
+    tickSize: 0.0001
+  wbtc_usd_coinbase:
+    contractSize: 1.0
+    lotSize: 1.0e-08
+    minOrderSize: 0.0001
+    symbol: WBTC-USD
+    tickSize: 0.01
+  xlm_usd_coinbase:
+    contractSize: 1.0
+    lotSize: 1.0
+    minOrderSize: 1.0
+    symbol: XLM-USD
+    tickSize: 1.0e-06
+  xtz_usd_coinbase:
+    contractSize: 1.0
+    lotSize: 0.01
+    minOrderSize: 1.0
+    symbol: XTZ-USD
+    tickSize: 0.0001
+  yfi_usd_coinbase:
+    contractSize: 1.0
+    lotSize: 1.0e-06
+    minOrderSize: 1.0e-05
+    symbol: YFI-USD
+    tickSize: 0.01
+  zec_usd_coinbase:
+    contractSize: 1.0
+    lotSize: 1.0e-05
+    minOrderSize: 0.01
+    symbol: ZEC-USD
+    tickSize: 0.01
+  zrx_usd_coinbase:
+    contractSize: 1.0
+    lotSize: 1.0e-05
+    minOrderSize: 1.0
+    symbol: ZRX-USD
+    tickSize: 1.0e-06
+

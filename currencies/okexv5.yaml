@@ -1,0 +1,5837 @@
+OKEXV5:
+  1inch_eth_okex:
+    isLinear: true
+    lotSize: 1.0e-08
+    minOrderSize: 0.1
+    rebate: 0.01
+    symbol: 1INCH-ETH
+    tickSize: 1.0e-06
+  1inch_okex_swap:
+    contractSize: 10.0
+    isLinear: false
+    lotSize: 1.0
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: 1INCH-USD-SWAP
+    tickSize: 0.0001
+  1inch_usdt_okex:
+    isLinear: true
+    lotSize: 1.0e-06
+    minOrderSize: 0.1
+    rebate: 0.01
+    symbol: 1INCH-USDT
+    tickSize: 0.0001
+  1inch_usdt_okex_swap:
+    contractSize: 1.0
+    isLinear: true
+    lotSize: 1.0
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: 1INCH-USDT-SWAP
+    tickSize: 0.0001
+  aac_usdt_okex:
+    isLinear: true
+    lotSize: 1.0e-06
+    minOrderSize: 1000.0
+    rebate: 0.01
+    symbol: AAC-USDT
+    tickSize: 1.0e-06
+  aave_btc_okex:
+    isLinear: true
+    lotSize: 0.0001
+    minOrderSize: 0.01
+    rebate: 0.01
+    symbol: AAVE-BTC
+    tickSize: 1.0e-06
+  aave_eth_okex:
+    isLinear: true
+    lotSize: 0.0001
+    minOrderSize: 0.01
+    rebate: 0.01
+    symbol: AAVE-ETH
+    tickSize: 0.0001
+  aave_usdt_okex:
+    isLinear: true
+    lotSize: 1.0e-06
+    minOrderSize: 0.01
+    rebate: 0.01
+    symbol: AAVE-USDT
+    tickSize: 0.01
+  aave_usdt_okex_swap:
+    contractSize: 0.1
+    isLinear: true
+    lotSize: 1.0
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: AAVE-USDT-SWAP
+    tickSize: 0.01
+  abt_usdt_okex:
+    isLinear: true
+    lotSize: 1.0e-06
+    minOrderSize: 10.0
+    rebate: 0.01
+    symbol: ABT-USDT
+    tickSize: 0.0001
+  act_btc_okex:
+    isLinear: true
+    lotSize: 0.001
+    minOrderSize: 100.0
+    rebate: 0.01
+    symbol: ACT-BTC
+    tickSize: 1.0e-09
+  act_usdt_okex:
+    isLinear: true
+    lotSize: 1.0e-06
+    minOrderSize: 100.0
+    rebate: 0.01
+    symbol: ACT-USDT
+    tickSize: 1.0e-05
+  ada_btc_okex:
+    isLinear: true
+    lotSize: 1.0e-08
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: ADA-BTC
+    tickSize: 1.0e-08
+  ada_eth_okex:
+    isLinear: true
+    lotSize: 1.0e-08
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: ADA-ETH
+    tickSize: 1.0e-06
+  ada_okex_bq:
+    contractSize: 10.0
+    isLinear: false
+    lotSize: 1.0
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: ADA-USD-220624
+    tickSize: 1.0e-05
+  ada_okex_cq:
+    contractSize: 10.0
+    isLinear: false
+    lotSize: 1.0
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: ADA-USD-220325
+    tickSize: 1.0e-05
+  ada_okex_cw:
+    contractSize: 10.0
+    isLinear: false
+    lotSize: 1.0
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: ADA-USD-220128
+    tickSize: 1.0e-05
+  ada_okex_nw:
+    contractSize: 10.0
+    isLinear: false
+    lotSize: 1.0
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: ADA-USD-220204
+    tickSize: 1.0e-05
+  ada_okex_swap:
+    contractSize: 10.0
+    isLinear: false
+    lotSize: 1.0
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: ADA-USD-SWAP
+    tickSize: 1.0e-05
+  ada_usdt_okex:
+    isLinear: true
+    lotSize: 1.0e-08
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: ADA-USDT
+    tickSize: 1.0e-05
+  ada_usdt_okex_bq:
+    contractSize: 100.0
+    isLinear: true
+    lotSize: 1.0
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: ADA-USDT-220624
+    tickSize: 1.0e-05
+  ada_usdt_okex_cq:
+    contractSize: 100.0
+    isLinear: true
+    lotSize: 1.0
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: ADA-USDT-220325
+    tickSize: 1.0e-05
+  ada_usdt_okex_cw:
+    contractSize: 100.0
+    isLinear: true
+    lotSize: 1.0
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: ADA-USDT-220128
+    tickSize: 1.0e-05
+  ada_usdt_okex_nw:
+    contractSize: 100.0
+    isLinear: true
+    lotSize: 1.0
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: ADA-USDT-220204
+    tickSize: 1.0e-05
+  ada_usdt_okex_swap:
+    contractSize: 100.0
+    isLinear: true
+    lotSize: 1.0
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: ADA-USDT-SWAP
+    tickSize: 1.0e-05
+  ae_btc_okex:
+    isLinear: true
+    lotSize: 1.0e-08
+    minOrderSize: 10.0
+    rebate: 0.01
+    symbol: AE-BTC
+    tickSize: 1.0e-08
+  ae_usdt_okex:
+    isLinear: true
+    lotSize: 1.0e-06
+    minOrderSize: 10.0
+    rebate: 0.01
+    symbol: AE-USDT
+    tickSize: 0.0001
+  aergo_usdt_okex:
+    isLinear: true
+    lotSize: 1.0e-06
+    minOrderSize: 10.0
+    rebate: 0.01
+    symbol: AERGO-USDT
+    tickSize: 0.0001
+  agld_usdt_okex:
+    isLinear: true
+    lotSize: 1.0e-06
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: AGLD-USDT
+    tickSize: 0.0001
+  agld_usdt_okex_swap:
+    contractSize: 1.0
+    isLinear: true
+    lotSize: 1.0
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: AGLD-USDT-SWAP
+    tickSize: 0.0001
+  akita_usdt_okex:
+    isLinear: true
+    lotSize: 1.0
+    minOrderSize: 1000000.0
+    rebate: 0.01
+    symbol: AKITA-USDT
+    tickSize: 1.0e-08
+  alcx_usdt_okex:
+    isLinear: true
+    lotSize: 1.0e-06
+    minOrderSize: 0.01
+    rebate: 0.01
+    symbol: ALCX-USDT
+    tickSize: 0.01
+  algo_btc_okex:
+    isLinear: true
+    lotSize: 0.0001
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: ALGO-BTC
+    tickSize: 1.0e-07
+  algo_okex_swap:
+    contractSize: 10.0
+    isLinear: false
+    lotSize: 1.0
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: ALGO-USD-SWAP
+    tickSize: 0.0001
+  algo_usdt_okex:
+    isLinear: true
+    lotSize: 1.0e-06
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: ALGO-USDT
+    tickSize: 0.0001
+  algo_usdt_okex_swap:
+    contractSize: 10.0
+    isLinear: true
+    lotSize: 1.0
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: ALGO-USDT-SWAP
+    tickSize: 0.0001
+  alpha_btc_okex:
+    isLinear: true
+    lotSize: 1.0e-08
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: ALPHA-BTC
+    tickSize: 1.0e-08
+  alpha_usdt_okex:
+    isLinear: true
+    lotSize: 1.0e-06
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: ALPHA-USDT
+    tickSize: 0.0001
+  alpha_usdt_okex_swap:
+    contractSize: 1.0
+    isLinear: true
+    lotSize: 1.0
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: ALPHA-USDT-SWAP
+    tickSize: 0.0001
+  alv_usdt_okex:
+    isLinear: true
+    lotSize: 1.0e-06
+    minOrderSize: 1000.0
+    rebate: 0.01
+    symbol: ALV-USDT
+    tickSize: 1.0e-06
+  anc_usdt_okex:
+    isLinear: true
+    lotSize: 1.0e-06
+    minOrderSize: 0.1
+    rebate: 0.01
+    symbol: ANC-USDT
+    tickSize: 0.0001
+  anc_usdt_okex_swap:
+    contractSize: 1.0
+    isLinear: true
+    lotSize: 1.0
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: ANC-USDT-SWAP
+    tickSize: 0.0001
+  ant_btc_okex:
+    isLinear: true
+    lotSize: 0.0001
+    minOrderSize: 0.1
+    rebate: 0.01
+    symbol: ANT-BTC
+    tickSize: 1.0e-07
+  ant_usdt_okex:
+    isLinear: true
+    lotSize: 1.0e-06
+    minOrderSize: 0.1
+    rebate: 0.01
+    symbol: ANT-USDT
+    tickSize: 0.001
+  ant_usdt_okex_swap:
+    contractSize: 1.0
+    isLinear: true
+    lotSize: 1.0
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: ANT-USDT-SWAP
+    tickSize: 0.001
+  anw_usdt_okex:
+    isLinear: true
+    lotSize: 1.0e-06
+    minOrderSize: 10.0
+    rebate: 0.01
+    symbol: ANW-USDT
+    tickSize: 0.0001
+  api3_eth_okex:
+    isLinear: true
+    lotSize: 1.0e-06
+    minOrderSize: 0.1
+    rebate: 0.01
+    symbol: API3-ETH
+    tickSize: 1.0e-06
+  api3_usdt_okex:
+    isLinear: true
+    lotSize: 1.0e-06
+    minOrderSize: 0.1
+    rebate: 0.01
+    symbol: API3-USDT
+    tickSize: 0.0001
+  apix_usdt_okex:
+    isLinear: true
+    lotSize: 1.0e-06
+    minOrderSize: 10.0
+    rebate: 0.01
+    symbol: APIX-USDT
+    tickSize: 0.0001
+  apm_usdt_okex:
+    isLinear: true
+    lotSize: 1.0e-06
+    minOrderSize: 100.0
+    rebate: 0.01
+    symbol: APM-USDT
+    tickSize: 1.0e-05
+  ar_usdt_okex:
+    isLinear: true
+    lotSize: 1.0e-06
+    minOrderSize: 0.1
+    rebate: 0.01
+    symbol: AR-USDT
+    tickSize: 0.001
+  ardr_btc_okex:
+    isLinear: true
+    lotSize: 0.0001
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: ARDR-BTC
+    tickSize: 1.0e-08
+  ark_btc_okex:
+    isLinear: true
+    lotSize: 0.0001
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: ARK-BTC
+    tickSize: 1.0e-07
+  ark_usdt_okex:
+    isLinear: true
+    lotSize: 1.0e-06
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: ARK-USDT
+    tickSize: 0.001
+  ast_usdt_okex:
+    isLinear: true
+    lotSize: 1.0e-06
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: AST-USDT
+    tickSize: 0.0001
+  astr_usdt_okex:
+    isLinear: true
+    lotSize: 1.0e-06
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: ASTR-USDT
+    tickSize: 0.0001
+  atom_btc_okex:
+    isLinear: true
+    lotSize: 0.0001
+    minOrderSize: 0.1
+    rebate: 0.01
+    symbol: ATOM-BTC
+    tickSize: 1.0e-08
+  atom_eth_okex:
+    isLinear: true
+    lotSize: 0.0001
+    minOrderSize: 0.1
+    rebate: 0.01
+    symbol: ATOM-ETH
+    tickSize: 1.0e-06
+  atom_okex_swap:
+    contractSize: 10.0
+    isLinear: false
+    lotSize: 1.0
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: ATOM-USD-SWAP
+    tickSize: 0.001
+  atom_usdt_okex:
+    isLinear: true
+    lotSize: 1.0e-06
+    minOrderSize: 0.1
+    rebate: 0.01
+    symbol: ATOM-USDT
+    tickSize: 0.001
+  atom_usdt_okex_swap:
+    contractSize: 1.0
+    isLinear: true
+    lotSize: 1.0
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: ATOM-USDT-SWAP
+    tickSize: 0.001
+  auction_usdt_okex:
+    isLinear: true
+    lotSize: 1.0e-06
+    minOrderSize: 0.01
+    rebate: 0.01
+    symbol: AUCTION-USDT
+    tickSize: 0.01
+  avax_btc_okex:
+    isLinear: true
+    lotSize: 0.0001
+    minOrderSize: 0.01
+    rebate: 0.01
+    symbol: AVAX-BTC
+    tickSize: 1.0e-07
+  avax_eth_okex:
+    isLinear: true
+    lotSize: 0.0001
+    minOrderSize: 0.01
+    rebate: 0.01
+    symbol: AVAX-ETH
+    tickSize: 1.0e-05
+  avax_okex_swap:
+    contractSize: 10.0
+    isLinear: false
+    lotSize: 1.0
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: AVAX-USD-SWAP
+    tickSize: 0.001
+  avax_usdt_okex:
+    isLinear: true
+    lotSize: 1.0e-06
+    minOrderSize: 0.01
+    rebate: 0.01
+    symbol: AVAX-USDT
+    tickSize: 0.001
+  avax_usdt_okex_swap:
+    contractSize: 1.0
+    isLinear: true
+    lotSize: 1.0
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: AVAX-USDT-SWAP
+    tickSize: 0.001
+  axs_usdt_okex:
+    isLinear: true
+    lotSize: 1.0e-06
+    minOrderSize: 0.01
+    rebate: 0.01
+    symbol: AXS-USDT
+    tickSize: 0.001
+  axs_usdt_okex_swap:
+    contractSize: 0.1
+    isLinear: true
+    lotSize: 1.0
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: AXS-USDT-SWAP
+    tickSize: 0.001
+  babydoge_usdt_okex:
+    isLinear: true
+    lotSize: 1.0
+    minOrderSize: 1000000000.0
+    rebate: 0.01
+    symbol: BABYDOGE-USDT
+    tickSize: 1.0e-12
+  babydoge_usdt_okex_swap:
+    contractSize: 1000000000.0
+    isLinear: true
+    lotSize: 1.0
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: BABYDOGE-USDT-SWAP
+    tickSize: 1.0e-11
+  badger_btc_okex:
+    isLinear: true
+    lotSize: 1.0e-08
+    minOrderSize: 0.01
+    rebate: 0.01
+    symbol: BADGER-BTC
+    tickSize: 1.0e-07
+  badger_usdt_okex:
+    isLinear: true
+    lotSize: 1.0e-06
+    minOrderSize: 0.01
+    rebate: 0.01
+    symbol: BADGER-USDT
+    tickSize: 0.001
+  badger_usdt_okex_swap:
+    contractSize: 0.1
+    isLinear: true
+    lotSize: 1.0
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: BADGER-USDT-SWAP
+    tickSize: 0.001
+  bal_btc_okex:
+    isLinear: true
+    lotSize: 0.0001
+    minOrderSize: 0.01
+    rebate: 0.01
+    symbol: BAL-BTC
+    tickSize: 1.0e-06
+  bal_usdt_okex:
+    isLinear: true
+    lotSize: 1.0e-06
+    minOrderSize: 0.01
+    rebate: 0.01
+    symbol: BAL-USDT
+    tickSize: 0.001
+  bal_usdt_okex_swap:
+    contractSize: 0.1
+    isLinear: true
+    lotSize: 1.0
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: BAL-USDT-SWAP
+    tickSize: 0.001
+  band_usdt_okex:
+    isLinear: true
+    lotSize: 1.0e-06
+    minOrderSize: 0.1
+    rebate: 0.01
+    symbol: BAND-USDT
+    tickSize: 0.0001
+  band_usdt_okex_swap:
+    contractSize: 1.0
+    isLinear: true
+    lotSize: 1.0
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: BAND-USDT-SWAP
+    tickSize: 0.0001
+  bat_btc_okex:
+    isLinear: true
+    lotSize: 0.0001
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: BAT-BTC
+    tickSize: 1.0e-08
+  bat_usdt_okex:
+    isLinear: true
+    lotSize: 1.0e-06
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: BAT-USDT
+    tickSize: 0.0001
+  bat_usdt_okex_swap:
+    contractSize: 10.0
+    isLinear: true
+    lotSize: 1.0
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: BAT-USDT-SWAP
+    tickSize: 0.0001
+  bcd_btc_okex:
+    isLinear: true
+    lotSize: 0.0001
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: BCD-BTC
+    tickSize: 1.0e-07
+  bcd_usdt_okex:
+    isLinear: true
+    lotSize: 1.0e-06
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: BCD-USDT
+    tickSize: 0.001
+  bch_btc_okex:
+    isLinear: true
+    lotSize: 0.0001
+    minOrderSize: 0.001
+    rebate: 0.01
+    symbol: BCH-BTC
+    tickSize: 1.0e-05
+  bch_okex_bq:
+    contractSize: 10.0
+    isLinear: false
+    lotSize: 1.0
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: BCH-USD-220624
+    tickSize: 0.01
+  bch_okex_cq:
+    contractSize: 10.0
+    isLinear: false
+    lotSize: 1.0
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: BCH-USD-220325
+    tickSize: 0.01
+  bch_okex_cw:
+    contractSize: 10.0
+    isLinear: false
+    lotSize: 1.0
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: BCH-USD-220128
+    tickSize: 0.01
+  bch_okex_nw:
+    contractSize: 10.0
+    isLinear: false
+    lotSize: 1.0
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: BCH-USD-220204
+    tickSize: 0.01
+  bch_okex_swap:
+    contractSize: 10.0
+    isLinear: false
+    lotSize: 1.0
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: BCH-USD-SWAP
+    tickSize: 0.01
+  bch_usdc_okex:
+    isLinear: true
+    lotSize: 0.0001
+    minOrderSize: 0.001
+    rebate: 0.01
+    symbol: BCH-USDC
+    tickSize: 0.01
+  bch_usdk_okex:
+    isLinear: true
+    lotSize: 0.0001
+    minOrderSize: 0.001
+    rebate: 0.01
+    symbol: BCH-USDK
+    tickSize: 0.01
+  bch_usdt_okex:
+    isLinear: true
+    lotSize: 1.0e-06
+    minOrderSize: 0.001
+    rebate: 0.01
+    symbol: BCH-USDT
+    tickSize: 0.01
+  bch_usdt_okex_bq:
+    contractSize: 0.1
+    isLinear: true
+    lotSize: 1.0
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: BCH-USDT-220624
+    tickSize: 0.01
+  bch_usdt_okex_cq:
+    contractSize: 0.1
+    isLinear: true
+    lotSize: 1.0
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: BCH-USDT-220325
+    tickSize: 0.01
+  bch_usdt_okex_cw:
+    contractSize: 0.1
+    isLinear: true
+    lotSize: 1.0
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: BCH-USDT-220128
+    tickSize: 0.01
+  bch_usdt_okex_nw:
+    contractSize: 0.1
+    isLinear: true
+    lotSize: 1.0
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: BCH-USDT-220204
+    tickSize: 0.01
+  bch_usdt_okex_swap:
+    contractSize: 0.1
+    isLinear: true
+    lotSize: 1.0
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: BCH-USDT-SWAP
+    tickSize: 0.01
+  bcx_btc_okex:
+    isLinear: true
+    lotSize: 0.1
+    minOrderSize: 100.0
+    rebate: 0.01
+    symbol: BCX-BTC
+    tickSize: 1.0e-11
+  beth_eth_okex:
+    isLinear: true
+    lotSize: 1.0e-06
+    minOrderSize: 0.001
+    rebate: 0.01
+    symbol: BETH-ETH
+    tickSize: 0.0001
+  beth_usdt_okex:
+    isLinear: true
+    lotSize: 1.0e-06
+    minOrderSize: 0.001
+    rebate: 0.01
+    symbol: BETH-USDT
+    tickSize: 0.01
+  bhp_btc_okex:
+    isLinear: true
+    lotSize: 0.0001
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: BHP-BTC
+    tickSize: 1.0e-08
+  bhp_usdt_okex:
+    isLinear: true
+    lotSize: 1.0e-06
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: BHP-USDT
+    tickSize: 0.0001
+  bico_usdt_okex:
+    isLinear: true
+    lotSize: 1.0e-06
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: BICO-USDT
+    tickSize: 0.0001
+  bico_usdt_okex_swap:
+    contractSize: 1.0
+    isLinear: true
+    lotSize: 1.0
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: BICO-USDT-SWAP
+    tickSize: 0.0001
+  bloc_usdt_okex:
+    isLinear: true
+    lotSize: 1.0e-06
+    minOrderSize: 1000.0
+    rebate: 0.01
+    symbol: BLOC-USDT
+    tickSize: 1.0e-06
+  blok_usdt_okex:
+    isLinear: true
+    lotSize: 0.001
+    minOrderSize: 10.0
+    rebate: 0.01
+    symbol: BLOK-USDT
+    tickSize: 1.0e-06
+  bnt_btc_okex:
+    isLinear: true
+    lotSize: 0.0001
+    minOrderSize: 0.1
+    rebate: 0.01
+    symbol: BNT-BTC
+    tickSize: 1.0e-07
+  bnt_usdt_okex:
+    isLinear: true
+    lotSize: 1.0e-06
+    minOrderSize: 0.1
+    rebate: 0.01
+    symbol: BNT-USDT
+    tickSize: 0.0001
+  bnt_usdt_okex_swap:
+    contractSize: 10.0
+    isLinear: true
+    lotSize: 1.0
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: BNT-USDT-SWAP
+    tickSize: 0.0001
+  boring_usdt_okex:
+    isLinear: true
+    lotSize: 1.0e-06
+    minOrderSize: 10.0
+    rebate: 0.01
+    symbol: BORING-USDT
+    tickSize: 1.0e-05
+  box_usdt_okex:
+    isLinear: true
+    lotSize: 1.0e-06
+    minOrderSize: 0.1
+    rebate: 0.01
+    symbol: BOX-USDT
+    tickSize: 0.01
+  bsv_btc_okex:
+    isLinear: true
+    lotSize: 0.0001
+    minOrderSize: 0.01
+    rebate: 0.01
+    symbol: BSV-BTC
+    tickSize: 1.0e-06
+  bsv_okex_bq:
+    contractSize: 10.0
+    isLinear: false
+    lotSize: 1.0
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: BSV-USD-220624
+    tickSize: 0.01
+  bsv_okex_cq:
+    contractSize: 10.0
+    isLinear: false
+    lotSize: 1.0
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: BSV-USD-220325
+    tickSize: 0.01
+  bsv_okex_cw:
+    contractSize: 10.0
+    isLinear: false
+    lotSize: 1.0
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: BSV-USD-220128
+    tickSize: 0.01
+  bsv_okex_nw:
+    contractSize: 10.0
+    isLinear: false
+    lotSize: 1.0
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: BSV-USD-220204
+    tickSize: 0.01
+  bsv_okex_swap:
+    contractSize: 10.0
+    isLinear: false
+    lotSize: 1.0
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: BSV-USD-SWAP
+    tickSize: 0.01
+  bsv_usdc_okex:
+    isLinear: true
+    lotSize: 0.0001
+    minOrderSize: 0.01
+    rebate: 0.01
+    symbol: BSV-USDC
+    tickSize: 0.01
+  bsv_usdk_okex:
+    isLinear: true
+    lotSize: 0.0001
+    minOrderSize: 0.01
+    rebate: 0.01
+    symbol: BSV-USDK
+    tickSize: 0.01
+  bsv_usdt_okex:
+    isLinear: true
+    lotSize: 1.0e-06
+    minOrderSize: 0.01
+    rebate: 0.01
+    symbol: BSV-USDT
+    tickSize: 0.01
+  bsv_usdt_okex_bq:
+    contractSize: 1.0
+    isLinear: true
+    lotSize: 1.0
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: BSV-USDT-220624
+    tickSize: 0.01
+  bsv_usdt_okex_cq:
+    contractSize: 1.0
+    isLinear: true
+    lotSize: 1.0
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: BSV-USDT-220325
+    tickSize: 0.01
+  bsv_usdt_okex_cw:
+    contractSize: 1.0
+    isLinear: true
+    lotSize: 1.0
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: BSV-USDT-220128
+    tickSize: 0.01
+  bsv_usdt_okex_nw:
+    contractSize: 1.0
+    isLinear: true
+    lotSize: 1.0
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: BSV-USDT-220204
+    tickSize: 0.01
+  bsv_usdt_okex_swap:
+    contractSize: 1.0
+    isLinear: true
+    lotSize: 1.0
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: BSV-USDT-SWAP
+    tickSize: 0.01
+  btc_dai_okex:
+    isLinear: true
+    lotSize: 1.0e-08
+    minOrderSize: 1.0e-05
+    rebate: 0.01
+    symbol: BTC-DAI
+    tickSize: 0.1
+  btc_okex_bq:
+    contractSize: 100.0
+    isLinear: false
+    lotSize: 1.0
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: BTC-USD-220624
+    tickSize: 0.1
+  btc_okex_cq:
+    contractSize: 100.0
+    isLinear: false
+    lotSize: 1.0
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: BTC-USD-220325
+    tickSize: 0.1
+  btc_okex_cw:
+    contractSize: 100.0
+    isLinear: false
+    lotSize: 1.0
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: BTC-USD-220128
+    tickSize: 0.1
+  btc_okex_nw:
+    contractSize: 100.0
+    isLinear: false
+    lotSize: 1.0
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: BTC-USD-220204
+    tickSize: 0.1
+  btc_okex_swap:
+    contractSize: 100.0
+    isLinear: false
+    lotSize: 1.0
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: BTC-USD-SWAP
+    tickSize: 0.1
+  btc_usdc_okex:
+    isLinear: true
+    lotSize: 1.0e-08
+    minOrderSize: 1.0e-05
+    rebate: 0.01
+    symbol: BTC-USDC
+    tickSize: 0.1
+  btc_usdk_okex:
+    isLinear: true
+    lotSize: 1.0e-08
+    minOrderSize: 1.0e-05
+    rebate: 0.01
+    symbol: BTC-USDK
+    tickSize: 0.1
+  btc_usdt_okex:
+    isLinear: true
+    lotSize: 1.0e-08
+    minOrderSize: 1.0e-05
+    rebate: 0.01
+    symbol: BTC-USDT
+    tickSize: 0.1
+  btc_usdt_okex_bq:
+    contractSize: 0.01
+    isLinear: true
+    lotSize: 1.0
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: BTC-USDT-220624
+    tickSize: 0.1
+  btc_usdt_okex_cq:
+    contractSize: 0.01
+    isLinear: true
+    lotSize: 1.0
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: BTC-USDT-220325
+    tickSize: 0.1
+  btc_usdt_okex_cw:
+    contractSize: 0.01
+    isLinear: true
+    lotSize: 1.0
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: BTC-USDT-220128
+    tickSize: 0.1
+  btc_usdt_okex_nw:
+    contractSize: 0.01
+    isLinear: true
+    lotSize: 1.0
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: BTC-USDT-220204
+    tickSize: 0.1
+  btc_usdt_okex_swap:
+    contractSize: 0.01
+    isLinear: true
+    lotSize: 1.0
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: BTC-USDT-SWAP
+    tickSize: 0.1
+  btg_btc_okex:
+    isLinear: true
+    lotSize: 1.0e-05
+    minOrderSize: 0.01
+    rebate: 0.01
+    symbol: BTG-BTC
+    tickSize: 1.0e-06
+  btg_usdt_okex:
+    isLinear: true
+    lotSize: 1.0e-06
+    minOrderSize: 0.01
+    rebate: 0.01
+    symbol: BTG-USDT
+    tickSize: 0.01
+  btm_btc_okex:
+    isLinear: true
+    lotSize: 0.001
+    minOrderSize: 10.0
+    rebate: 0.01
+    symbol: BTM-BTC
+    tickSize: 1.0e-08
+  btm_eth_okex:
+    isLinear: true
+    lotSize: 0.001
+    minOrderSize: 10.0
+    rebate: 0.01
+    symbol: BTM-ETH
+    tickSize: 1.0e-07
+  btm_usdt_okex:
+    isLinear: true
+    lotSize: 1.0e-06
+    minOrderSize: 10.0
+    rebate: 0.01
+    symbol: BTM-USDT
+    tickSize: 1.0e-05
+  btm_usdt_okex_swap:
+    contractSize: 100.0
+    isLinear: true
+    lotSize: 1.0
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: BTM-USDT-SWAP
+    tickSize: 1.0e-05
+  bzz_usdt_okex:
+    isLinear: true
+    lotSize: 1.0e-06
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: BZZ-USDT
+    tickSize: 0.001
+  bzz_usdt_okex_swap:
+    contractSize: 0.1
+    isLinear: true
+    lotSize: 1.0
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: BZZ-USDT-SWAP
+    tickSize: 0.001
+  cel_usdt_okex:
+    isLinear: true
+    lotSize: 1.0e-06
+    minOrderSize: 0.1
+    rebate: 0.01
+    symbol: CEL-USDT
+    tickSize: 0.001
+  celo_btc_okex:
+    isLinear: true
+    lotSize: 0.0001
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: CELO-BTC
+    tickSize: 1.0e-07
+  celo_usdt_okex:
+    isLinear: true
+    lotSize: 1.0e-06
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: CELO-USDT
+    tickSize: 0.0001
+  celo_usdt_okex_swap:
+    contractSize: 1.0
+    isLinear: true
+    lotSize: 1.0
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: CELO-USDT-SWAP
+    tickSize: 0.0001
+  celr_usdt_okex:
+    isLinear: true
+    lotSize: 1.0e-06
+    minOrderSize: 10.0
+    rebate: 0.01
+    symbol: CELR-USDT
+    tickSize: 1.0e-06
+  celt_btc_okex:
+    isLinear: true
+    lotSize: 0.0001
+    minOrderSize: 10.0
+    rebate: 0.01
+    symbol: CELT-BTC
+    tickSize: 1.0e-08
+  celt_usdt_okex:
+    isLinear: true
+    lotSize: 1.0e-06
+    minOrderSize: 10.0
+    rebate: 0.01
+    symbol: CELT-USDT
+    tickSize: 1.0e-06
+  cfg_usdt_okex:
+    isLinear: true
+    lotSize: 1.0e-06
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: CFG-USDT
+    tickSize: 0.0001
+  cfx_usdt_okex:
+    isLinear: true
+    lotSize: 1.0e-06
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: CFX-USDT
+    tickSize: 1.0e-05
+  cfx_usdt_okex_swap:
+    contractSize: 10.0
+    isLinear: true
+    lotSize: 1.0
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: CFX-USDT-SWAP
+    tickSize: 1.0e-05
+  cgs_usdt_okex:
+    isLinear: true
+    lotSize: 1.0e-06
+    minOrderSize: 10.0
+    rebate: 0.01
+    symbol: CGS-USDT
+    tickSize: 1.0e-05
+  chat_usdt_okex:
+    isLinear: true
+    lotSize: 1.0e-06
+    minOrderSize: 100.0
+    rebate: 0.01
+    symbol: CHAT-USDT
+    tickSize: 1.0e-06
+  che_usdt_okex:
+    isLinear: true
+    lotSize: 1.0e-06
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: CHE-USDT
+    tickSize: 0.0001
+  chz_btc_okex:
+    isLinear: true
+    lotSize: 1.0e-08
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: CHZ-BTC
+    tickSize: 1.0e-09
+  chz_usdt_okex:
+    isLinear: true
+    lotSize: 1.0e-06
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: CHZ-USDT
+    tickSize: 1.0e-05
+  chz_usdt_okex_swap:
+    contractSize: 10.0
+    isLinear: true
+    lotSize: 1.0
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: CHZ-USDT-SWAP
+    tickSize: 1.0e-05
+  clv_usdt_okex:
+    isLinear: true
+    lotSize: 1.0e-06
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: CLV-USDT
+    tickSize: 0.0001
+  cmt_btc_okex:
+    isLinear: true
+    lotSize: 0.01
+    minOrderSize: 100.0
+    rebate: 0.01
+    symbol: CMT-BTC
+    tickSize: 1.0e-09
+  cmt_eth_okex:
+    isLinear: true
+    lotSize: 0.01
+    minOrderSize: 100.0
+    rebate: 0.01
+    symbol: CMT-ETH
+    tickSize: 1.0e-08
+  cmt_usdt_okex:
+    isLinear: true
+    lotSize: 1.0e-06
+    minOrderSize: 100.0
+    rebate: 0.01
+    symbol: CMT-USDT
+    tickSize: 1.0e-05
+  cntm_usdt_okex:
+    isLinear: true
+    lotSize: 1.0e-06
+    minOrderSize: 5.0
+    rebate: 0.01
+    symbol: CNTM-USDT
+    tickSize: 0.0001
+  comp_btc_okex:
+    isLinear: true
+    lotSize: 0.0001
+    minOrderSize: 0.001
+    rebate: 0.01
+    symbol: COMP-BTC
+    tickSize: 1.0e-06
+  comp_usdt_okex:
+    isLinear: true
+    lotSize: 1.0e-06
+    minOrderSize: 0.001
+    rebate: 0.01
+    symbol: COMP-USDT
+    tickSize: 0.01
+  comp_usdt_okex_swap:
+    contractSize: 0.1
+    isLinear: true
+    lotSize: 1.0
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: COMP-USDT-SWAP
+    tickSize: 0.01
+  conv_usdt_okex:
+    isLinear: true
+    lotSize: 1.0e-06
+    minOrderSize: 10.0
+    rebate: 0.01
+    symbol: CONV-USDT
+    tickSize: 1.0e-05
+  conv_usdt_okex_swap:
+    contractSize: 10.0
+    isLinear: true
+    lotSize: 1.0
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: CONV-USDT-SWAP
+    tickSize: 1.0e-05
+  cover_usdt_okex:
+    isLinear: true
+    lotSize: 1.0e-06
+    minOrderSize: 0.001
+    rebate: 0.01
+    symbol: COVER-USDT
+    tickSize: 0.01
+  cqt_btc_okex:
+    isLinear: true
+    lotSize: 1.0e-06
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: CQT-BTC
+    tickSize: 1.0e-08
+  cqt_usdt_okex:
+    isLinear: true
+    lotSize: 1.0e-06
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: CQT-USDT
+    tickSize: 0.001
+  cqt_usdt_okex_swap:
+    contractSize: 1.0
+    isLinear: true
+    lotSize: 1.0
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: CQT-USDT-SWAP
+    tickSize: 0.001
+  cro_btc_okex:
+    isLinear: true
+    lotSize: 0.0001
+    minOrderSize: 10.0
+    rebate: 0.01
+    symbol: CRO-BTC
+    tickSize: 1.0e-08
+  cro_usdk_okex:
+    isLinear: true
+    lotSize: 0.0001
+    minOrderSize: 10.0
+    rebate: 0.01
+    symbol: CRO-USDK
+    tickSize: 0.0001
+  cro_usdt_okex:
+    isLinear: true
+    lotSize: 1.0e-06
+    minOrderSize: 10.0
+    rebate: 0.01
+    symbol: CRO-USDT
+    tickSize: 1.0e-05
+  cro_usdt_okex_swap:
+    contractSize: 10.0
+    isLinear: true
+    lotSize: 1.0
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: CRO-USDT-SWAP
+    tickSize: 1.0e-05
+  crv_btc_okex:
+    isLinear: true
+    lotSize: 0.0001
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: CRV-BTC
+    tickSize: 1.0e-07
+  crv_eth_okex:
+    isLinear: true
+    lotSize: 0.0001
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: CRV-ETH
+    tickSize: 1.0e-06
+  crv_okex_swap:
+    contractSize: 10.0
+    isLinear: false
+    lotSize: 1.0
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: CRV-USD-SWAP
+    tickSize: 0.0001
+  crv_usdt_okex:
+    isLinear: true
+    lotSize: 1.0e-06
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: CRV-USDT
+    tickSize: 0.0001
+  crv_usdt_okex_swap:
+    contractSize: 1.0
+    isLinear: true
+    lotSize: 1.0
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: CRV-USDT-SWAP
+    tickSize: 0.0001
+  cspr_usdt_okex:
+    isLinear: true
+    lotSize: 1.0e-06
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: CSPR-USDT
+    tickSize: 0.0001
+  cspr_usdt_okex_swap:
+    contractSize: 1.0
+    isLinear: true
+    lotSize: 1.0
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: CSPR-USDT-SWAP
+    tickSize: 0.0001
+  ctc_btc_okex:
+    isLinear: true
+    lotSize: 0.0001
+    minOrderSize: 0.1
+    rebate: 0.01
+    symbol: CTC-BTC
+    tickSize: 1.0e-08
+  ctc_usdt_okex:
+    isLinear: true
+    lotSize: 1.0e-06
+    minOrderSize: 0.1
+    rebate: 0.01
+    symbol: CTC-USDT
+    tickSize: 0.001
+  ctxc_usdt_okex:
+    isLinear: true
+    lotSize: 1.0e-06
+    minOrderSize: 10.0
+    rebate: 0.01
+    symbol: CTXC-USDT
+    tickSize: 0.0001
+  cvc_btc_okex:
+    isLinear: true
+    lotSize: 0.001
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: CVC-BTC
+    tickSize: 1.0e-08
+  cvc_usdt_okex:
+    isLinear: true
+    lotSize: 1.0e-06
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: CVC-USDT
+    tickSize: 1.0e-05
+  cvc_usdt_okex_swap:
+    contractSize: 100.0
+    isLinear: true
+    lotSize: 1.0
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: CVC-USDT-SWAP
+    tickSize: 1.0e-05
+  cvp_usdt_okex:
+    isLinear: true
+    lotSize: 1.0e-06
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: CVP-USDT
+    tickSize: 0.001
+  cvt_btc_okex:
+    isLinear: true
+    lotSize: 0.001
+    minOrderSize: 10.0
+    rebate: 0.01
+    symbol: CVT-BTC
+    tickSize: 1.0e-08
+  cvt_usdt_okex:
+    isLinear: true
+    lotSize: 1.0e-06
+    minOrderSize: 10.0
+    rebate: 0.01
+    symbol: CVT-USDT
+    tickSize: 1.0e-05
+  cvx_usdt_okex:
+    isLinear: true
+    lotSize: 1.0e-06
+    minOrderSize: 0.1
+    rebate: 0.01
+    symbol: CVX-USDT
+    tickSize: 0.001
+  dai_usdt_okex:
+    isLinear: true
+    lotSize: 1.0e-06
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: DAI-USDT
+    tickSize: 0.0001
+  dao_usdt_okex:
+    isLinear: true
+    lotSize: 1.0e-06
+    minOrderSize: 0.1
+    rebate: 0.01
+    symbol: DAO-USDT
+    tickSize: 0.001
+  dash_btc_okex:
+    isLinear: true
+    lotSize: 1.0e-06
+    minOrderSize: 0.01
+    rebate: 0.01
+    symbol: DASH-BTC
+    tickSize: 1.0e-06
+  dash_eth_okex:
+    isLinear: true
+    lotSize: 1.0e-06
+    minOrderSize: 0.01
+    rebate: 0.01
+    symbol: DASH-ETH
+    tickSize: 0.0001
+  dash_okex_swap:
+    contractSize: 10.0
+    isLinear: false
+    lotSize: 1.0
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: DASH-USD-SWAP
+    tickSize: 0.01
+  dash_usdt_okex:
+    isLinear: true
+    lotSize: 1.0e-06
+    minOrderSize: 0.01
+    rebate: 0.01
+    symbol: DASH-USDT
+    tickSize: 0.01
+  dash_usdt_okex_swap:
+    contractSize: 0.1
+    isLinear: true
+    lotSize: 1.0
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: DASH-USDT-SWAP
+    tickSize: 0.01
+  dcr_btc_okex:
+    isLinear: true
+    lotSize: 1.0e-08
+    minOrderSize: 0.01
+    rebate: 0.01
+    symbol: DCR-BTC
+    tickSize: 1.0e-05
+  dcr_usdt_okex:
+    isLinear: true
+    lotSize: 1.0e-08
+    minOrderSize: 0.01
+    rebate: 0.01
+    symbol: DCR-USDT
+    tickSize: 0.01
+  dep_usdt_okex:
+    isLinear: true
+    lotSize: 1.0e-06
+    minOrderSize: 100.0
+    rebate: 0.01
+    symbol: DEP-USDT
+    tickSize: 0.0001
+  devt_usdt_okex:
+    isLinear: true
+    lotSize: 1.0e-06
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: DEVT-USDT
+    tickSize: 0.0001
+  dgb_btc_okex:
+    isLinear: true
+    lotSize: 0.01
+    minOrderSize: 10.0
+    rebate: 0.01
+    symbol: DGB-BTC
+    tickSize: 1.0e-09
+  dgb_usdt_okex:
+    isLinear: true
+    lotSize: 1.0e-06
+    minOrderSize: 10.0
+    rebate: 0.01
+    symbol: DGB-USDT
+    tickSize: 1.0e-05
+  dht_usdt_okex:
+    isLinear: true
+    lotSize: 1.0e-06
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: DHT-USDT
+    tickSize: 0.001
+  dia_usdt_okex:
+    isLinear: true
+    lotSize: 1.0e-06
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: DIA-USDT
+    tickSize: 0.001
+  dmd_usdt_okex:
+    isLinear: true
+    lotSize: 1.0e-06
+    minOrderSize: 0.01
+    rebate: 0.01
+    symbol: DMD-USDT
+    tickSize: 0.01
+  dmg_usdt_okex:
+    isLinear: true
+    lotSize: 1.0e-06
+    minOrderSize: 10.0
+    rebate: 0.01
+    symbol: DMG-USDT
+    tickSize: 1.0e-05
+  dna_btc_okex:
+    isLinear: true
+    lotSize: 0.0001
+    minOrderSize: 1000.0
+    rebate: 0.01
+    symbol: DNA-BTC
+    tickSize: 1.0e-10
+  dna_usdt_okex:
+    isLinear: true
+    lotSize: 1.0e-06
+    minOrderSize: 1000.0
+    rebate: 0.01
+    symbol: DNA-USDT
+    tickSize: 1.0e-07
+  doge_btc_okex:
+    isLinear: true
+    lotSize: 1.0e-08
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: DOGE-BTC
+    tickSize: 1.0e-08
+  doge_eth_okex:
+    isLinear: true
+    lotSize: 1.0e-08
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: DOGE-ETH
+    tickSize: 1.0e-07
+  doge_okex_swap:
+    contractSize: 10.0
+    isLinear: false
+    lotSize: 1.0
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: DOGE-USD-SWAP
+    tickSize: 1.0e-06
+  doge_usdk_okex:
+    isLinear: true
+    lotSize: 0.0001
+    minOrderSize: 10.0
+    rebate: 0.01
+    symbol: DOGE-USDK
+    tickSize: 1.0e-05
+  doge_usdt_okex:
+    isLinear: true
+    lotSize: 1.0e-06
+    minOrderSize: 10.0
+    rebate: 0.01
+    symbol: DOGE-USDT
+    tickSize: 1.0e-06
+  doge_usdt_okex_swap:
+    contractSize: 1000.0
+    isLinear: true
+    lotSize: 1.0
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: DOGE-USDT-SWAP
+    tickSize: 1.0e-06
+  dora_usdt_okex:
+    isLinear: true
+    lotSize: 1.0e-06
+    minOrderSize: 0.1
+    rebate: 0.01
+    symbol: DORA-USDT
+    tickSize: 0.001
+  dora_usdt_okex_swap:
+    contractSize: 0.1
+    isLinear: true
+    lotSize: 1.0
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: DORA-USDT-SWAP
+    tickSize: 0.001
+  dose_usdt_okex:
+    isLinear: true
+    lotSize: 1.0e-06
+    minOrderSize: 10.0
+    rebate: 0.01
+    symbol: DOSE-USDT
+    tickSize: 1.0e-05
+  dot_btc_okex:
+    isLinear: true
+    lotSize: 0.0001
+    minOrderSize: 0.1
+    rebate: 0.01
+    symbol: DOT-BTC
+    tickSize: 1.0e-07
+  dot_eth_okex:
+    isLinear: true
+    lotSize: 0.0001
+    minOrderSize: 0.1
+    rebate: 0.01
+    symbol: DOT-ETH
+    tickSize: 1.0e-06
+  dot_okex_bq:
+    contractSize: 10.0
+    isLinear: false
+    lotSize: 1.0
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: DOT-USD-220624
+    tickSize: 0.001
+  dot_okex_cq:
+    contractSize: 10.0
+    isLinear: false
+    lotSize: 1.0
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: DOT-USD-220325
+    tickSize: 0.001
+  dot_okex_cw:
+    contractSize: 10.0
+    isLinear: false
+    lotSize: 1.0
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: DOT-USD-220128
+    tickSize: 0.001
+  dot_okex_nw:
+    contractSize: 10.0
+    isLinear: false
+    lotSize: 1.0
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: DOT-USD-220204
+    tickSize: 0.001
+  dot_okex_swap:
+    contractSize: 10.0
+    isLinear: false
+    lotSize: 1.0
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: DOT-USD-SWAP
+    tickSize: 0.001
+  dot_usdt_okex:
+    isLinear: true
+    lotSize: 1.0e-06
+    minOrderSize: 0.1
+    rebate: 0.01
+    symbol: DOT-USDT
+    tickSize: 0.001
+  dot_usdt_okex_bq:
+    contractSize: 1.0
+    isLinear: true
+    lotSize: 1.0
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: DOT-USDT-220624
+    tickSize: 0.001
+  dot_usdt_okex_cq:
+    contractSize: 1.0
+    isLinear: true
+    lotSize: 1.0
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: DOT-USDT-220325
+    tickSize: 0.001
+  dot_usdt_okex_cw:
+    contractSize: 1.0
+    isLinear: true
+    lotSize: 1.0
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: DOT-USDT-220128
+    tickSize: 0.001
+  dot_usdt_okex_nw:
+    contractSize: 1.0
+    isLinear: true
+    lotSize: 1.0
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: DOT-USDT-220204
+    tickSize: 0.001
+  dot_usdt_okex_swap:
+    contractSize: 1.0
+    isLinear: true
+    lotSize: 1.0
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: DOT-USDT-SWAP
+    tickSize: 0.001
+  dydx_usdt_okex:
+    isLinear: true
+    lotSize: 1.0e-06
+    minOrderSize: 0.1
+    rebate: 0.01
+    symbol: DYDX-USDT
+    tickSize: 0.001
+  dydx_usdt_okex_swap:
+    contractSize: 1.0
+    isLinear: true
+    lotSize: 1.0
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: DYDX-USDT-SWAP
+    tickSize: 0.0001
+  ec_usdt_okex:
+    isLinear: true
+    lotSize: 1.0e-06
+    minOrderSize: 1000.0
+    rebate: 0.01
+    symbol: EC-USDT
+    tickSize: 1.0e-06
+  eden_usdt_okex:
+    isLinear: true
+    lotSize: 1.0e-06
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: EDEN-USDT
+    tickSize: 0.0001
+  efi_usdt_okex:
+    isLinear: true
+    lotSize: 1.0e-06
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: EFI-USDT
+    tickSize: 0.0001
+  efi_usdt_okex_swap:
+    contractSize: 1.0
+    isLinear: true
+    lotSize: 1.0
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: EFI-USDT-SWAP
+    tickSize: 0.0001
+  egld_btc_okex:
+    isLinear: true
+    lotSize: 0.0001
+    minOrderSize: 0.01
+    rebate: 0.01
+    symbol: EGLD-BTC
+    tickSize: 1.0e-07
+  egld_usdt_okex:
+    isLinear: true
+    lotSize: 1.0e-06
+    minOrderSize: 0.01
+    rebate: 0.01
+    symbol: EGLD-USDT
+    tickSize: 0.01
+  egld_usdt_okex_swap:
+    contractSize: 0.1
+    isLinear: true
+    lotSize: 1.0
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: EGLD-USDT-SWAP
+    tickSize: 0.01
+  egt_btc_okex:
+    isLinear: true
+    lotSize: 0.0001
+    minOrderSize: 100.0
+    rebate: 0.01
+    symbol: EGT-BTC
+    tickSize: 1.0e-10
+  egt_eth_okex:
+    isLinear: true
+    lotSize: 0.0001
+    minOrderSize: 100.0
+    rebate: 0.01
+    symbol: EGT-ETH
+    tickSize: 1.0e-09
+  egt_usdt_okex:
+    isLinear: true
+    lotSize: 1.0e-06
+    minOrderSize: 100.0
+    rebate: 0.01
+    symbol: EGT-USDT
+    tickSize: 1.0e-06
+  elf_btc_okex:
+    isLinear: true
+    lotSize: 0.001
+    minOrderSize: 10.0
+    rebate: 0.01
+    symbol: ELF-BTC
+    tickSize: 1.0e-08
+  elf_usdt_okex:
+    isLinear: true
+    lotSize: 1.0e-06
+    minOrderSize: 10.0
+    rebate: 0.01
+    symbol: ELF-USDT
+    tickSize: 0.0001
+  elon_usdt_okex:
+    isLinear: true
+    lotSize: 1.0
+    minOrderSize: 5000000.0
+    rebate: 0.01
+    symbol: ELON-USDT
+    tickSize: 1.0e-11
+  elon_usdt_okex_swap:
+    contractSize: 1000000.0
+    isLinear: true
+    lotSize: 1.0
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: ELON-USDT-SWAP
+    tickSize: 1.0e-09
+  em_usdt_okex:
+    isLinear: true
+    lotSize: 1.0e-06
+    minOrderSize: 100.0
+    rebate: 0.01
+    symbol: EM-USDT
+    tickSize: 1.0e-05
+  enj_btc_okex:
+    isLinear: true
+    lotSize: 1.0e-08
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: ENJ-BTC
+    tickSize: 1.0e-08
+  enj_usdt_okex:
+    isLinear: true
+    lotSize: 1.0e-06
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: ENJ-USDT
+    tickSize: 0.0001
+  enj_usdt_okex_swap:
+    contractSize: 1.0
+    isLinear: true
+    lotSize: 1.0
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: ENJ-USDT-SWAP
+    tickSize: 0.0001
+  ens_usdt_okex:
+    isLinear: true
+    lotSize: 1.0e-06
+    minOrderSize: 0.1
+    rebate: 0.01
+    symbol: ENS-USDT
+    tickSize: 0.0001
+  ens_usdt_okex_swap:
+    contractSize: 0.1
+    isLinear: true
+    lotSize: 1.0
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: ENS-USDT-SWAP
+    tickSize: 0.001
+  eos_btc_okex:
+    isLinear: true
+    lotSize: 0.0001
+    minOrderSize: 0.1
+    rebate: 0.01
+    symbol: EOS-BTC
+    tickSize: 1.0e-07
+  eos_eth_okex:
+    isLinear: true
+    lotSize: 0.0001
+    minOrderSize: 0.1
+    rebate: 0.01
+    symbol: EOS-ETH
+    tickSize: 1.0e-05
+  eos_okex_bq:
+    contractSize: 10.0
+    isLinear: false
+    lotSize: 1.0
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: EOS-USD-220624
+    tickSize: 0.0001
+  eos_okex_cq:
+    contractSize: 10.0
+    isLinear: false
+    lotSize: 1.0
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: EOS-USD-220325
+    tickSize: 0.0001
+  eos_okex_cw:
+    contractSize: 10.0
+    isLinear: false
+    lotSize: 1.0
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: EOS-USD-220128
+    tickSize: 0.0001
+  eos_okex_nw:
+    contractSize: 10.0
+    isLinear: false
+    lotSize: 1.0
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: EOS-USD-220204
+    tickSize: 0.0001
+  eos_okex_swap:
+    contractSize: 10.0
+    isLinear: false
+    lotSize: 1.0
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: EOS-USD-SWAP
+    tickSize: 0.0001
+  eos_usdc_okex:
+    isLinear: true
+    lotSize: 0.0001
+    minOrderSize: 0.1
+    rebate: 0.01
+    symbol: EOS-USDC
+    tickSize: 0.001
+  eos_usdk_okex:
+    isLinear: true
+    lotSize: 0.0001
+    minOrderSize: 0.1
+    rebate: 0.01
+    symbol: EOS-USDK
+    tickSize: 0.001
+  eos_usdt_okex:
+    isLinear: true
+    lotSize: 1.0e-06
+    minOrderSize: 0.1
+    rebate: 0.01
+    symbol: EOS-USDT
+    tickSize: 0.0001
+  eos_usdt_okex_bq:
+    contractSize: 10.0
+    isLinear: true
+    lotSize: 1.0
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: EOS-USDT-220624
+    tickSize: 0.0001
+  eos_usdt_okex_cq:
+    contractSize: 10.0
+    isLinear: true
+    lotSize: 1.0
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: EOS-USDT-220325
+    tickSize: 0.0001
+  eos_usdt_okex_cw:
+    contractSize: 10.0
+    isLinear: true
+    lotSize: 1.0
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: EOS-USDT-220128
+    tickSize: 0.0001
+  eos_usdt_okex_nw:
+    contractSize: 10.0
+    isLinear: true
+    lotSize: 1.0
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: EOS-USDT-220204
+    tickSize: 0.0001
+  eos_usdt_okex_swap:
+    contractSize: 10.0
+    isLinear: true
+    lotSize: 1.0
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: EOS-USDT-SWAP
+    tickSize: 0.0001
+  ern_usdt_okex:
+    isLinear: true
+    lotSize: 1.0e-06
+    minOrderSize: 0.1
+    rebate: 0.01
+    symbol: ERN-USDT
+    tickSize: 0.001
+  etc_btc_okex:
+    isLinear: true
+    lotSize: 1.0e-05
+    minOrderSize: 0.1
+    rebate: 0.01
+    symbol: ETC-BTC
+    tickSize: 1.0e-07
+  etc_eth_okex:
+    isLinear: true
+    lotSize: 1.0e-05
+    minOrderSize: 0.1
+    rebate: 0.01
+    symbol: ETC-ETH
+    tickSize: 1.0e-05
+  etc_okb_okex:
+    isLinear: true
+    lotSize: 1.0e-05
+    minOrderSize: 0.1
+    rebate: 0.01
+    symbol: ETC-OKB
+    tickSize: 0.001
+  etc_okex_bq:
+    contractSize: 10.0
+    isLinear: false
+    lotSize: 1.0
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: ETC-USD-220624
+    tickSize: 0.001
+  etc_okex_cq:
+    contractSize: 10.0
+    isLinear: false
+    lotSize: 1.0
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: ETC-USD-220325
+    tickSize: 0.001
+  etc_okex_cw:
+    contractSize: 10.0
+    isLinear: false
+    lotSize: 1.0
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: ETC-USD-220128
+    tickSize: 0.001
+  etc_okex_nw:
+    contractSize: 10.0
+    isLinear: false
+    lotSize: 1.0
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: ETC-USD-220204
+    tickSize: 0.001
+  etc_okex_swap:
+    contractSize: 10.0
+    isLinear: false
+    lotSize: 1.0
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: ETC-USD-SWAP
+    tickSize: 0.001
+  etc_usdc_okex:
+    isLinear: true
+    lotSize: 1.0e-05
+    minOrderSize: 0.1
+    rebate: 0.01
+    symbol: ETC-USDC
+    tickSize: 0.001
+  etc_usdk_okex:
+    isLinear: true
+    lotSize: 1.0e-05
+    minOrderSize: 0.1
+    rebate: 0.01
+    symbol: ETC-USDK
+    tickSize: 0.001
+  etc_usdt_okex:
+    isLinear: true
+    lotSize: 1.0e-06
+    minOrderSize: 0.1
+    rebate: 0.01
+    symbol: ETC-USDT
+    tickSize: 0.001
+  etc_usdt_okex_bq:
+    contractSize: 10.0
+    isLinear: true
+    lotSize: 1.0
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: ETC-USDT-220624
+    tickSize: 0.001
+  etc_usdt_okex_cq:
+    contractSize: 10.0
+    isLinear: true
+    lotSize: 1.0
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: ETC-USDT-220325
+    tickSize: 0.001
+  etc_usdt_okex_cw:
+    contractSize: 10.0
+    isLinear: true
+    lotSize: 1.0
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: ETC-USDT-220128
+    tickSize: 0.001
+  etc_usdt_okex_nw:
+    contractSize: 10.0
+    isLinear: true
+    lotSize: 1.0
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: ETC-USDT-220204
+    tickSize: 0.001
+  etc_usdt_okex_swap:
+    contractSize: 10.0
+    isLinear: true
+    lotSize: 1.0
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: ETC-USDT-SWAP
+    tickSize: 0.001
+  eth_btc_okex:
+    isLinear: true
+    lotSize: 1.0e-06
+    minOrderSize: 0.001
+    rebate: 0.01
+    symbol: ETH-BTC
+    tickSize: 1.0e-05
+  eth_dai_okex:
+    isLinear: true
+    lotSize: 1.0e-06
+    minOrderSize: 0.001
+    rebate: 0.01
+    symbol: ETH-DAI
+    tickSize: 1.0
+  eth_okex_bq:
+    contractSize: 10.0
+    isLinear: false
+    lotSize: 1.0
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: ETH-USD-220624
+    tickSize: 0.01
+  eth_okex_cq:
+    contractSize: 10.0
+    isLinear: false
+    lotSize: 1.0
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: ETH-USD-220325
+    tickSize: 0.01
+  eth_okex_cw:
+    contractSize: 10.0
+    isLinear: false
+    lotSize: 1.0
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: ETH-USD-220128
+    tickSize: 0.01
+  eth_okex_nw:
+    contractSize: 10.0
+    isLinear: false
+    lotSize: 1.0
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: ETH-USD-220204
+    tickSize: 0.01
+  eth_okex_swap:
+    contractSize: 10.0
+    isLinear: false
+    lotSize: 1.0
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: ETH-USD-SWAP
+    tickSize: 0.01
+  eth_usdc_okex:
+    isLinear: true
+    lotSize: 1.0e-06
+    minOrderSize: 0.001
+    rebate: 0.01
+    symbol: ETH-USDC
+    tickSize: 0.01
+  eth_usdk_okex:
+    isLinear: true
+    lotSize: 1.0e-06
+    minOrderSize: 0.001
+    rebate: 0.01
+    symbol: ETH-USDK
+    tickSize: 0.01
+  eth_usdt_okex:
+    isLinear: true
+    lotSize: 1.0e-06
+    minOrderSize: 0.001
+    rebate: 0.01
+    symbol: ETH-USDT
+    tickSize: 0.01
+  eth_usdt_okex_bq:
+    contractSize: 0.1
+    isLinear: true
+    lotSize: 1.0
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: ETH-USDT-220624
+    tickSize: 0.01
+  eth_usdt_okex_cq:
+    contractSize: 0.1
+    isLinear: true
+    lotSize: 1.0
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: ETH-USDT-220325
+    tickSize: 0.01
+  eth_usdt_okex_cw:
+    contractSize: 0.1
+    isLinear: true
+    lotSize: 1.0
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: ETH-USDT-220128
+    tickSize: 0.01
+  eth_usdt_okex_nw:
+    contractSize: 0.1
+    isLinear: true
+    lotSize: 1.0
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: ETH-USDT-220204
+    tickSize: 0.01
+  eth_usdt_okex_swap:
+    contractSize: 0.1
+    isLinear: true
+    lotSize: 1.0
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: ETH-USDT-SWAP
+    tickSize: 0.01
+  etm_usdt_okex:
+    isLinear: true
+    lotSize: 1.0e-06
+    minOrderSize: 100.0
+    rebate: 0.01
+    symbol: ETM-USDT
+    tickSize: 1.0e-05
+  exe_usdt_okex:
+    isLinear: true
+    lotSize: 1.0e-06
+    minOrderSize: 100.0
+    rebate: 0.01
+    symbol: EXE-USDT
+    tickSize: 1.0e-05
+  fair_usdt_okex:
+    isLinear: true
+    lotSize: 1.0e-06
+    minOrderSize: 100.0
+    rebate: 0.01
+    symbol: FAIR-USDT
+    tickSize: 1.0e-06
+  fil_btc_okex:
+    isLinear: true
+    lotSize: 1.0e-08
+    minOrderSize: 0.01
+    rebate: 0.01
+    symbol: FIL-BTC
+    tickSize: 1.0e-06
+  fil_eth_okex:
+    isLinear: true
+    lotSize: 1.0e-08
+    minOrderSize: 0.01
+    rebate: 0.01
+    symbol: FIL-ETH
+    tickSize: 0.0001
+  fil_okex_bq:
+    contractSize: 10.0
+    isLinear: false
+    lotSize: 1.0
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: FIL-USD-220624
+    tickSize: 0.001
+  fil_okex_cq:
+    contractSize: 10.0
+    isLinear: false
+    lotSize: 1.0
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: FIL-USD-220325
+    tickSize: 0.001
+  fil_okex_cw:
+    contractSize: 10.0
+    isLinear: false
+    lotSize: 1.0
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: FIL-USD-220128
+    tickSize: 0.001
+  fil_okex_nw:
+    contractSize: 10.0
+    isLinear: false
+    lotSize: 1.0
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: FIL-USD-220204
+    tickSize: 0.001
+  fil_okex_swap:
+    contractSize: 10.0
+    isLinear: false
+    lotSize: 1.0
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: FIL-USD-SWAP
+    tickSize: 0.001
+  fil_usdt_okex:
+    isLinear: true
+    lotSize: 1.0e-06
+    minOrderSize: 0.01
+    rebate: 0.01
+    symbol: FIL-USDT
+    tickSize: 0.001
+  fil_usdt_okex_bq:
+    contractSize: 0.1
+    isLinear: true
+    lotSize: 1.0
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: FIL-USDT-220624
+    tickSize: 0.001
+  fil_usdt_okex_cq:
+    contractSize: 0.1
+    isLinear: true
+    lotSize: 1.0
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: FIL-USDT-220325
+    tickSize: 0.001
+  fil_usdt_okex_cw:
+    contractSize: 0.1
+    isLinear: true
+    lotSize: 1.0
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: FIL-USDT-220128
+    tickSize: 0.001
+  fil_usdt_okex_nw:
+    contractSize: 0.1
+    isLinear: true
+    lotSize: 1.0
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: FIL-USDT-220204
+    tickSize: 0.001
+  fil_usdt_okex_swap:
+    contractSize: 0.1
+    isLinear: true
+    lotSize: 1.0
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: FIL-USDT-SWAP
+    tickSize: 0.001
+  flm_usdt_okex:
+    isLinear: true
+    lotSize: 1.0e-06
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: FLM-USDT
+    tickSize: 0.0001
+  flm_usdt_okex_swap:
+    contractSize: 10.0
+    isLinear: true
+    lotSize: 1.0
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: FLM-USDT-SWAP
+    tickSize: 0.0001
+  flow_btc_okex:
+    isLinear: true
+    lotSize: 1.0e-08
+    minOrderSize: 0.1
+    rebate: 0.01
+    symbol: FLOW-BTC
+    tickSize: 1.0e-07
+  flow_eth_okex:
+    isLinear: true
+    lotSize: 1.0e-08
+    minOrderSize: 0.1
+    rebate: 0.01
+    symbol: FLOW-ETH
+    tickSize: 1.0e-05
+  flow_usdt_okex:
+    isLinear: true
+    lotSize: 1.0e-06
+    minOrderSize: 0.1
+    rebate: 0.01
+    symbol: FLOW-USDT
+    tickSize: 0.001
+  fodl_usdt_okex:
+    isLinear: true
+    lotSize: 1.0e-06
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: FODL-USDT
+    tickSize: 0.0001
+  forth_usdt_okex:
+    isLinear: true
+    lotSize: 1.0e-06
+    minOrderSize: 0.1
+    rebate: 0.01
+    symbol: FORTH-USDT
+    tickSize: 0.01
+  front_usdt_okex:
+    isLinear: true
+    lotSize: 1.0e-06
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: FRONT-USDT
+    tickSize: 0.0001
+  fsn_usdt_okex:
+    isLinear: true
+    lotSize: 1.0e-06
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: FSN-USDT
+    tickSize: 0.001
+  ftm_usdt_okex:
+    isLinear: true
+    lotSize: 1.0e-06
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: FTM-USDT
+    tickSize: 1.0e-05
+  ftm_usdt_okex_swap:
+    contractSize: 10.0
+    isLinear: true
+    lotSize: 1.0
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: FTM-USDT-SWAP
+    tickSize: 1.0e-05
+  fun_btc_okex:
+    isLinear: true
+    lotSize: 0.01
+    minOrderSize: 10.0
+    rebate: 0.01
+    symbol: FUN-BTC
+    tickSize: 1.0e-09
+  gal_usdt_okex:
+    isLinear: true
+    lotSize: 1.0e-06
+    minOrderSize: 0.1
+    rebate: 0.01
+    symbol: GAL-USDT
+    tickSize: 0.001
+  gala_usdt_okex:
+    isLinear: true
+    lotSize: 1.0e-06
+    minOrderSize: 10.0
+    rebate: 0.01
+    symbol: GALA-USDT
+    tickSize: 1.0e-05
+  gala_usdt_okex_swap:
+    contractSize: 10.0
+    isLinear: true
+    lotSize: 1.0
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: GALA-USDT-SWAP
+    tickSize: 1.0e-05
+  gari_usdt_okex:
+    isLinear: true
+    lotSize: 1.0e-06
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: GARI-USDT
+    tickSize: 0.0001
+  gas_btc_okex:
+    isLinear: true
+    lotSize: 1.0e-05
+    minOrderSize: 0.1
+    rebate: 0.01
+    symbol: GAS-BTC
+    tickSize: 1.0e-07
+  gas_eth_okex:
+    isLinear: true
+    lotSize: 1.0e-05
+    minOrderSize: 0.1
+    rebate: 0.01
+    symbol: GAS-ETH
+    tickSize: 1.0e-05
+  gas_usdt_okex:
+    isLinear: true
+    lotSize: 1.0e-06
+    minOrderSize: 0.1
+    rebate: 0.01
+    symbol: GAS-USDT
+    tickSize: 0.001
+  gf_usdt_okex:
+    isLinear: true
+    lotSize: 1.0e-06
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: GF-USDT
+    tickSize: 0.0001
+  ghst_eth_okex:
+    isLinear: true
+    lotSize: 0.0001
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: GHST-ETH
+    tickSize: 1.0e-06
+  ghst_usdt_okex:
+    isLinear: true
+    lotSize: 1.0e-06
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: GHST-USDT
+    tickSize: 0.0001
+  glm_usdt_okex:
+    isLinear: true
+    lotSize: 1.0e-06
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: GLM-USDT
+    tickSize: 0.0001
+  glmr_usdt_okex:
+    isLinear: true
+    lotSize: 1.0e-06
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: GLMR-USDT
+    tickSize: 0.0001
+  gm_usdt_okex:
+    isLinear: true
+    lotSize: 1.0
+    minOrderSize: 10000.0
+    rebate: 0.01
+    symbol: GM-USDT
+    tickSize: 1.0e-08
+  gnx_btc_okex:
+    isLinear: true
+    lotSize: 0.001
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: GNX-BTC
+    tickSize: 1.0e-09
+  gods_usdt_okex:
+    isLinear: true
+    lotSize: 1.0e-06
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: GODS-USDT
+    tickSize: 0.0001
+  gods_usdt_okex_swap:
+    contractSize: 1.0
+    isLinear: true
+    lotSize: 1.0
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: GODS-USDT-SWAP
+    tickSize: 0.0001
+  gog_usdt_okex:
+    isLinear: true
+    lotSize: 1.0e-06
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: GOG-USDT
+    tickSize: 0.0001
+  grt_btc_okex:
+    isLinear: true
+    lotSize: 1.0e-08
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: GRT-BTC
+    tickSize: 1.0e-08
+  grt_okex_swap:
+    contractSize: 10.0
+    isLinear: false
+    lotSize: 1.0
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: GRT-USD-SWAP
+    tickSize: 1.0e-05
+  grt_usdt_okex:
+    isLinear: true
+    lotSize: 1.0e-06
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: GRT-USDT
+    tickSize: 1.0e-05
+  grt_usdt_okex_swap:
+    contractSize: 10.0
+    isLinear: true
+    lotSize: 1.0
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: GRT-USDT-SWAP
+    tickSize: 1.0e-05
+  gto_btc_okex:
+    isLinear: true
+    lotSize: 0.001
+    minOrderSize: 10.0
+    rebate: 0.01
+    symbol: GTO-BTC
+    tickSize: 1.0e-09
+  gto_usdt_okex:
+    isLinear: true
+    lotSize: 1.0e-06
+    minOrderSize: 10.0
+    rebate: 0.01
+    symbol: GTO-USDT
+    tickSize: 1.0e-05
+  gusd_usdt_okex:
+    isLinear: true
+    lotSize: 1.0e-06
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: GUSD-USDT
+    tickSize: 0.0001
+  hbar_btc_okex:
+    isLinear: true
+    lotSize: 0.0001
+    minOrderSize: 10.0
+    rebate: 0.01
+    symbol: HBAR-BTC
+    tickSize: 1.0e-08
+  hbar_usdk_okex:
+    isLinear: true
+    lotSize: 0.0001
+    minOrderSize: 10.0
+    rebate: 0.01
+    symbol: HBAR-USDK
+    tickSize: 0.0001
+  hbar_usdt_okex:
+    isLinear: true
+    lotSize: 1.0e-06
+    minOrderSize: 10.0
+    rebate: 0.01
+    symbol: HBAR-USDT
+    tickSize: 1.0e-05
+  hc_btc_okex:
+    isLinear: true
+    lotSize: 0.0001
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: HC-BTC
+    tickSize: 1.0e-07
+  hc_usdt_okex:
+    isLinear: true
+    lotSize: 1.0e-06
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: HC-USDT
+    tickSize: 0.0001
+  hdao_usdt_okex:
+    isLinear: true
+    lotSize: 1.0e-06
+    minOrderSize: 10.0
+    rebate: 0.01
+    symbol: HDAO-USDT
+    tickSize: 1.0e-06
+  hegic_eth_okex:
+    isLinear: true
+    lotSize: 1.0e-07
+    minOrderSize: 10.0
+    rebate: 0.01
+    symbol: HEGIC-ETH
+    tickSize: 1.0e-07
+  hegic_usdt_okex:
+    isLinear: true
+    lotSize: 1.0e-06
+    minOrderSize: 10.0
+    rebate: 0.01
+    symbol: HEGIC-USDT
+    tickSize: 0.0001
+  hyc_usdt_okex:
+    isLinear: true
+    lotSize: 1.0e-08
+    minOrderSize: 1000.0
+    rebate: 0.01
+    symbol: HYC-USDT
+    tickSize: 1.0e-07
+  icp_btc_okex:
+    isLinear: true
+    lotSize: 1.0e-08
+    minOrderSize: 0.01
+    rebate: 0.01
+    symbol: ICP-BTC
+    tickSize: 1.0e-06
+  icp_usdt_okex:
+    isLinear: true
+    lotSize: 1.0e-06
+    minOrderSize: 0.01
+    rebate: 0.01
+    symbol: ICP-USDT
+    tickSize: 0.01
+  icp_usdt_okex_swap:
+    contractSize: 0.01
+    isLinear: true
+    lotSize: 1.0
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: ICP-USDT-SWAP
+    tickSize: 0.01
+  icx_btc_okex:
+    isLinear: true
+    lotSize: 0.0001
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: ICX-BTC
+    tickSize: 1.0e-07
+  icx_usdt_okex:
+    isLinear: true
+    lotSize: 1.0e-06
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: ICX-USDT
+    tickSize: 0.0001
+  ilv_usdt_okex:
+    isLinear: true
+    lotSize: 1.0e-06
+    minOrderSize: 0.001
+    rebate: 0.01
+    symbol: ILV-USDT
+    tickSize: 0.01
+  imx_usdt_okex:
+    isLinear: true
+    lotSize: 1.0e-06
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: IMX-USDT
+    tickSize: 0.0001
+  imx_usdt_okex_swap:
+    contractSize: 1.0
+    isLinear: true
+    lotSize: 1.0
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: IMX-USDT-SWAP
+    tickSize: 0.0001
+  int_btc_okex:
+    isLinear: true
+    lotSize: 0.01
+    minOrderSize: 100.0
+    rebate: 0.01
+    symbol: INT-BTC
+    tickSize: 1.0e-09
+  int_eth_okex:
+    isLinear: true
+    lotSize: 0.01
+    minOrderSize: 100.0
+    rebate: 0.01
+    symbol: INT-ETH
+    tickSize: 1.0e-08
+  int_usdt_okex:
+    isLinear: true
+    lotSize: 1.0e-06
+    minOrderSize: 100.0
+    rebate: 0.01
+    symbol: INT-USDT
+    tickSize: 1.0e-05
+  inx_usdt_okex:
+    isLinear: true
+    lotSize: 1.0e-06
+    minOrderSize: 100.0
+    rebate: 0.01
+    symbol: INX-USDT
+    tickSize: 1.0e-06
+  iost_btc_okex:
+    isLinear: true
+    lotSize: 0.01
+    minOrderSize: 10.0
+    rebate: 0.01
+    symbol: IOST-BTC
+    tickSize: 1.0e-10
+  iost_eth_okex:
+    isLinear: true
+    lotSize: 0.01
+    minOrderSize: 10.0
+    rebate: 0.01
+    symbol: IOST-ETH
+    tickSize: 1.0e-08
+  iost_okex_swap:
+    contractSize: 10.0
+    isLinear: false
+    lotSize: 1.0
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: IOST-USD-SWAP
+    tickSize: 1.0e-06
+  iost_usdt_okex:
+    isLinear: true
+    lotSize: 1.0e-06
+    minOrderSize: 10.0
+    rebate: 0.01
+    symbol: IOST-USDT
+    tickSize: 1.0e-06
+  iost_usdt_okex_swap:
+    contractSize: 1000.0
+    isLinear: true
+    lotSize: 1.0
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: IOST-USDT-SWAP
+    tickSize: 1.0e-06
+  iota_btc_okex:
+    isLinear: true
+    lotSize: 0.001
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: IOTA-BTC
+    tickSize: 1.0e-07
+  iota_okex_swap:
+    contractSize: 10.0
+    isLinear: false
+    lotSize: 1.0
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: IOTA-USD-SWAP
+    tickSize: 0.0001
+  iota_usdt_okex:
+    isLinear: true
+    lotSize: 1.0e-06
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: IOTA-USDT
+    tickSize: 0.0001
+  iota_usdt_okex_swap:
+    contractSize: 10.0
+    isLinear: true
+    lotSize: 1.0
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: IOTA-USDT-SWAP
+    tickSize: 0.0001
+  iq_usdt_okex:
+    isLinear: true
+    lotSize: 1.0e-06
+    minOrderSize: 100.0
+    rebate: 0.01
+    symbol: IQ-USDT
+    tickSize: 1.0e-05
+  itc_usdt_okex:
+    isLinear: true
+    lotSize: 1.0e-06
+    minOrderSize: 10.0
+    rebate: 0.01
+    symbol: ITC-USDT
+    tickSize: 0.0001
+  jfi_usdt_okex:
+    isLinear: true
+    lotSize: 1.0e-06
+    minOrderSize: 0.01
+    rebate: 0.01
+    symbol: JFI-USDT
+    tickSize: 0.01
+  jst_usdt_okex:
+    isLinear: true
+    lotSize: 1.0e-06
+    minOrderSize: 10.0
+    rebate: 0.01
+    symbol: JST-USDT
+    tickSize: 1.0e-05
+  jst_usdt_okex_swap:
+    contractSize: 100.0
+    isLinear: true
+    lotSize: 1.0
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: JST-USDT-SWAP
+    tickSize: 1.0e-05
+  kan_eth_okex:
+    isLinear: true
+    lotSize: 1.0e-08
+    minOrderSize: 100.0
+    rebate: 0.01
+    symbol: KAN-ETH
+    tickSize: 1.0e-08
+  kan_usdt_okex:
+    isLinear: true
+    lotSize: 1.0e-06
+    minOrderSize: 100.0
+    rebate: 0.01
+    symbol: KAN-USDT
+    tickSize: 1.0e-06
+  kar_usdt_okex:
+    isLinear: true
+    lotSize: 1.0e-06
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: KAR-USDT
+    tickSize: 0.001
+  kcash_usdt_okex:
+    isLinear: true
+    lotSize: 1.0e-06
+    minOrderSize: 100.0
+    rebate: 0.01
+    symbol: KCASH-USDT
+    tickSize: 1.0e-05
+  kda_usdt_okex:
+    isLinear: true
+    lotSize: 1.0e-06
+    minOrderSize: 0.1
+    rebate: 0.01
+    symbol: KDA-USDT
+    tickSize: 0.001
+  kine_usdt_okex:
+    isLinear: true
+    lotSize: 1.0e-06
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: KINE-USDT
+    tickSize: 0.001
+  kishu_usdt_okex:
+    isLinear: true
+    lotSize: 1.0
+    minOrderSize: 100000000.0
+    rebate: 0.01
+    symbol: KISHU-USDT
+    tickSize: 1.0e-12
+  kishu_usdt_okex_swap:
+    contractSize: 1000000000.0
+    isLinear: true
+    lotSize: 1.0
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: KISHU-USDT-SWAP
+    tickSize: 1.0e-11
+  klay_btc_okex:
+    isLinear: true
+    lotSize: 1.0e-08
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: KLAY-BTC
+    tickSize: 1.0e-08
+  klay_usdt_okex:
+    isLinear: true
+    lotSize: 1.0e-06
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: KLAY-USDT
+    tickSize: 0.0001
+  knc_btc_okex:
+    isLinear: true
+    lotSize: 0.001
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: KNC-BTC
+    tickSize: 1.0e-07
+  knc_okex_swap:
+    contractSize: 10.0
+    isLinear: false
+    lotSize: 1.0
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: KNC-USD-SWAP
+    tickSize: 0.0001
+  knc_usdt_okex:
+    isLinear: true
+    lotSize: 1.0e-06
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: KNC-USDT
+    tickSize: 0.0001
+  knc_usdt_okex_swap:
+    contractSize: 1.0
+    isLinear: true
+    lotSize: 1.0
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: KNC-USDT-SWAP
+    tickSize: 0.0001
+  kol_usdt_okex:
+    isLinear: true
+    lotSize: 1.0e-06
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: KOL-USDT
+    tickSize: 1.0e-05
+  kono_usdt_okex:
+    isLinear: true
+    lotSize: 1.0e-06
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: KONO-USDT
+    tickSize: 0.0001
+  kp3r_usdt_okex:
+    isLinear: true
+    lotSize: 1.0e-06
+    minOrderSize: 0.001
+    rebate: 0.01
+    symbol: KP3R-USDT
+    tickSize: 0.01
+  ksm_btc_okex:
+    isLinear: true
+    lotSize: 0.0001
+    minOrderSize: 0.01
+    rebate: 0.01
+    symbol: KSM-BTC
+    tickSize: 1.0e-05
+  ksm_eth_okex:
+    isLinear: true
+    lotSize: 0.0001
+    minOrderSize: 0.01
+    rebate: 0.01
+    symbol: KSM-ETH
+    tickSize: 0.0001
+  ksm_okex_swap:
+    contractSize: 10.0
+    isLinear: false
+    lotSize: 1.0
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: KSM-USD-SWAP
+    tickSize: 0.01
+  ksm_usdt_okex:
+    isLinear: true
+    lotSize: 1.0e-06
+    minOrderSize: 0.01
+    rebate: 0.01
+    symbol: KSM-USDT
+    tickSize: 0.01
+  ksm_usdt_okex_swap:
+    contractSize: 0.1
+    isLinear: true
+    lotSize: 1.0
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: KSM-USDT-SWAP
+    tickSize: 0.01
+  lamb_usdt_okex:
+    isLinear: true
+    lotSize: 1.0e-06
+    minOrderSize: 10.0
+    rebate: 0.01
+    symbol: LAMB-USDT
+    tickSize: 1.0e-05
+  lat_usdt_okex:
+    isLinear: true
+    lotSize: 1.0e-06
+    minOrderSize: 10.0
+    rebate: 0.01
+    symbol: LAT-USDT
+    tickSize: 0.0001
+  lat_usdt_okex_swap:
+    contractSize: 10.0
+    isLinear: true
+    lotSize: 1.0
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: LAT-USDT-SWAP
+    tickSize: 0.0001
+  lba_usdt_okex:
+    isLinear: true
+    lotSize: 1.0e-06
+    minOrderSize: 100.0
+    rebate: 0.01
+    symbol: LBA-USDT
+    tickSize: 1.0e-05
+  leash_usdt_okex:
+    isLinear: true
+    lotSize: 1.0e-06
+    minOrderSize: 0.001
+    rebate: 0.01
+    symbol: LEASH-USDT
+    tickSize: 0.1
+  leo_usdt_okex:
+    isLinear: true
+    lotSize: 1.0e-06
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: LEO-USDT
+    tickSize: 0.001
+  let_usdt_okex:
+    isLinear: true
+    lotSize: 1.0e-08
+    minOrderSize: 100.0
+    rebate: 0.01
+    symbol: LET-USDT
+    tickSize: 1.0e-05
+  link_btc_okex:
+    isLinear: true
+    lotSize: 0.001
+    minOrderSize: 0.1
+    rebate: 0.01
+    symbol: LINK-BTC
+    tickSize: 1.0e-06
+  link_eth_okex:
+    isLinear: true
+    lotSize: 0.001
+    minOrderSize: 0.1
+    rebate: 0.01
+    symbol: LINK-ETH
+    tickSize: 1.0e-05
+  link_okex_bq:
+    contractSize: 10.0
+    isLinear: false
+    lotSize: 1.0
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: LINK-USD-220624
+    tickSize: 0.001
+  link_okex_cq:
+    contractSize: 10.0
+    isLinear: false
+    lotSize: 1.0
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: LINK-USD-220325
+    tickSize: 0.001
+  link_okex_cw:
+    contractSize: 10.0
+    isLinear: false
+    lotSize: 1.0
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: LINK-USD-220128
+    tickSize: 0.001
+  link_okex_nw:
+    contractSize: 10.0
+    isLinear: false
+    lotSize: 1.0
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: LINK-USD-220204
+    tickSize: 0.001
+  link_okex_swap:
+    contractSize: 10.0
+    isLinear: false
+    lotSize: 1.0
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: LINK-USD-SWAP
+    tickSize: 0.001
+  link_usdt_okex:
+    isLinear: true
+    lotSize: 1.0e-06
+    minOrderSize: 0.1
+    rebate: 0.01
+    symbol: LINK-USDT
+    tickSize: 0.001
+  link_usdt_okex_bq:
+    contractSize: 1.0
+    isLinear: true
+    lotSize: 1.0
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: LINK-USDT-220624
+    tickSize: 0.001
+  link_usdt_okex_cq:
+    contractSize: 1.0
+    isLinear: true
+    lotSize: 1.0
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: LINK-USDT-220325
+    tickSize: 0.001
+  link_usdt_okex_cw:
+    contractSize: 1.0
+    isLinear: true
+    lotSize: 1.0
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: LINK-USDT-220128
+    tickSize: 0.001
+  link_usdt_okex_nw:
+    contractSize: 1.0
+    isLinear: true
+    lotSize: 1.0
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: LINK-USDT-220204
+    tickSize: 0.001
+  link_usdt_okex_swap:
+    contractSize: 1.0
+    isLinear: true
+    lotSize: 1.0
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: LINK-USDT-SWAP
+    tickSize: 0.001
+  lith_usdt_okex:
+    isLinear: true
+    lotSize: 1.0e-06
+    minOrderSize: 100.0
+    rebate: 0.01
+    symbol: LITH-USDT
+    tickSize: 1.0e-06
+  lmch_usdt_okex:
+    isLinear: true
+    lotSize: 1.0e-06
+    minOrderSize: 100.0
+    rebate: 0.01
+    symbol: LMCH-USDT
+    tickSize: 1.0e-05
+  lon_eth_okex:
+    isLinear: true
+    lotSize: 1.0e-08
+    minOrderSize: 0.1
+    rebate: 0.01
+    symbol: LON-ETH
+    tickSize: 1.0e-05
+  lon_usdt_okex:
+    isLinear: true
+    lotSize: 1.0e-06
+    minOrderSize: 0.1
+    rebate: 0.01
+    symbol: LON-USDT
+    tickSize: 0.001
+  lon_usdt_okex_swap:
+    contractSize: 1.0
+    isLinear: true
+    lotSize: 1.0
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: LON-USDT-SWAP
+    tickSize: 0.001
+  looks_usdt_okex:
+    isLinear: true
+    lotSize: 1.0e-06
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: LOOKS-USDT
+    tickSize: 0.0001
+  loon_usdt_okex:
+    isLinear: true
+    lotSize: 1.0e-06
+    minOrderSize: 10.0
+    rebate: 0.01
+    symbol: LOON-USDT
+    tickSize: 1.0e-05
+  lpt_usdt_okex:
+    isLinear: true
+    lotSize: 1.0e-06
+    minOrderSize: 0.1
+    rebate: 0.01
+    symbol: LPT-USDT
+    tickSize: 0.001
+  lpt_usdt_okex_swap:
+    contractSize: 0.1
+    isLinear: true
+    lotSize: 1.0
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: LPT-USDT-SWAP
+    tickSize: 0.001
+  lrc_btc_okex:
+    isLinear: true
+    lotSize: 0.001
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: LRC-BTC
+    tickSize: 1.0e-08
+  lrc_usdt_okex:
+    isLinear: true
+    lotSize: 1.0e-06
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: LRC-USDT
+    tickSize: 1.0e-05
+  lrc_usdt_okex_swap:
+    contractSize: 10.0
+    isLinear: true
+    lotSize: 1.0
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: LRC-USDT-SWAP
+    tickSize: 1.0e-05
+  lsk_btc_okex:
+    isLinear: true
+    lotSize: 1.0e-08
+    minOrderSize: 0.1
+    rebate: 0.01
+    symbol: LSK-BTC
+    tickSize: 1.0e-07
+  lsk_usdt_okex:
+    isLinear: true
+    lotSize: 1.0e-08
+    minOrderSize: 0.1
+    rebate: 0.01
+    symbol: LSK-USDT
+    tickSize: 0.001
+  ltc_btc_okex:
+    isLinear: true
+    lotSize: 1.0e-06
+    minOrderSize: 0.01
+    rebate: 0.01
+    symbol: LTC-BTC
+    tickSize: 1.0e-06
+  ltc_eth_okex:
+    isLinear: true
+    lotSize: 1.0e-06
+    minOrderSize: 0.01
+    rebate: 0.01
+    symbol: LTC-ETH
+    tickSize: 0.0001
+  ltc_okb_okex:
+    isLinear: true
+    lotSize: 1.0e-06
+    minOrderSize: 0.01
+    rebate: 0.01
+    symbol: LTC-OKB
+    tickSize: 0.01
+  ltc_okex_bq:
+    contractSize: 10.0
+    isLinear: false
+    lotSize: 1.0
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: LTC-USD-220624
+    tickSize: 0.01
+  ltc_okex_cq:
+    contractSize: 10.0
+    isLinear: false
+    lotSize: 1.0
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: LTC-USD-220325
+    tickSize: 0.01
+  ltc_okex_cw:
+    contractSize: 10.0
+    isLinear: false
+    lotSize: 1.0
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: LTC-USD-220128
+    tickSize: 0.01
+  ltc_okex_nw:
+    contractSize: 10.0
+    isLinear: false
+    lotSize: 1.0
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: LTC-USD-220204
+    tickSize: 0.01
+  ltc_okex_swap:
+    contractSize: 10.0
+    isLinear: false
+    lotSize: 1.0
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: LTC-USD-SWAP
+    tickSize: 0.01
+  ltc_usdc_okex:
+    isLinear: true
+    lotSize: 1.0e-06
+    minOrderSize: 0.01
+    rebate: 0.01
+    symbol: LTC-USDC
+    tickSize: 0.01
+  ltc_usdk_okex:
+    isLinear: true
+    lotSize: 1.0e-06
+    minOrderSize: 0.01
+    rebate: 0.01
+    symbol: LTC-USDK
+    tickSize: 0.01
+  ltc_usdt_okex:
+    isLinear: true
+    lotSize: 1.0e-06
+    minOrderSize: 0.01
+    rebate: 0.01
+    symbol: LTC-USDT
+    tickSize: 0.01
+  ltc_usdt_okex_bq:
+    contractSize: 1.0
+    isLinear: true
+    lotSize: 1.0
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: LTC-USDT-220624
+    tickSize: 0.01
+  ltc_usdt_okex_cq:
+    contractSize: 1.0
+    isLinear: true
+    lotSize: 1.0
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: LTC-USDT-220325
+    tickSize: 0.01
+  ltc_usdt_okex_cw:
+    contractSize: 1.0
+    isLinear: true
+    lotSize: 1.0
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: LTC-USDT-220128
+    tickSize: 0.01
+  ltc_usdt_okex_nw:
+    contractSize: 1.0
+    isLinear: true
+    lotSize: 1.0
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: LTC-USDT-220204
+    tickSize: 0.01
+  ltc_usdt_okex_swap:
+    contractSize: 1.0
+    isLinear: true
+    lotSize: 1.0
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: LTC-USDT-SWAP
+    tickSize: 0.01
+  luna_btc_okex:
+    isLinear: true
+    lotSize: 1.0e-08
+    minOrderSize: 0.1
+    rebate: 0.01
+    symbol: LUNA-BTC
+    tickSize: 1.0e-07
+  luna_usdt_okex:
+    isLinear: true
+    lotSize: 1.0e-06
+    minOrderSize: 0.1
+    rebate: 0.01
+    symbol: LUNA-USDT
+    tickSize: 0.001
+  luna_usdt_okex_swap:
+    contractSize: 0.1
+    isLinear: true
+    lotSize: 1.0
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: LUNA-USDT-SWAP
+    tickSize: 0.001
+  luna_ust_okex:
+    isLinear: true
+    lotSize: 1.0e-06
+    minOrderSize: 0.1
+    rebate: 0.01
+    symbol: LUNA-UST
+    tickSize: 0.001
+  mana_btc_okex:
+    isLinear: true
+    lotSize: 0.01
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: MANA-BTC
+    tickSize: 1.0e-08
+  mana_eth_okex:
+    isLinear: true
+    lotSize: 0.01
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: MANA-ETH
+    tickSize: 1.0e-07
+  mana_okex_swap:
+    contractSize: 10.0
+    isLinear: false
+    lotSize: 1.0
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: MANA-USD-SWAP
+    tickSize: 0.0001
+  mana_usdt_okex:
+    isLinear: true
+    lotSize: 1.0e-06
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: MANA-USDT
+    tickSize: 0.0001
+  mana_usdt_okex_swap:
+    contractSize: 10.0
+    isLinear: true
+    lotSize: 1.0
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: MANA-USDT-SWAP
+    tickSize: 0.0001
+  mask_usdt_okex:
+    isLinear: true
+    lotSize: 1.0e-06
+    minOrderSize: 0.1
+    rebate: 0.01
+    symbol: MASK-USDT
+    tickSize: 0.001
+  mask_usdt_okex_swap:
+    contractSize: 1.0
+    isLinear: true
+    lotSize: 1.0
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: MASK-USDT-SWAP
+    tickSize: 0.001
+  matic_usdt_okex:
+    isLinear: true
+    lotSize: 1.0e-06
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: MATIC-USDT
+    tickSize: 0.0001
+  matic_usdt_okex_swap:
+    contractSize: 10.0
+    isLinear: true
+    lotSize: 1.0
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: MATIC-USDT-SWAP
+    tickSize: 0.0001
+  mco_usdt_okex:
+    isLinear: true
+    lotSize: 1.0e-06
+    minOrderSize: 0.1
+    rebate: 0.01
+    symbol: MCO-USDT
+    tickSize: 0.01
+  mda_usdt_okex:
+    isLinear: true
+    lotSize: 1.0e-06
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: MDA-USDT
+    tickSize: 0.001
+  mdt_usdt_okex:
+    isLinear: true
+    lotSize: 1.0e-06
+    minOrderSize: 10.0
+    rebate: 0.01
+    symbol: MDT-USDT
+    tickSize: 1.0e-05
+  meme_usdt_okex:
+    isLinear: true
+    lotSize: 0.001
+    minOrderSize: 1000.0
+    rebate: 0.01
+    symbol: MEME-USDT
+    tickSize: 1.0e-07
+  mina_usdt_okex:
+    isLinear: true
+    lotSize: 1.0e-06
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: MINA-USDT
+    tickSize: 0.001
+  mina_usdt_okex_swap:
+    contractSize: 1.0
+    isLinear: true
+    lotSize: 1.0
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: MINA-USDT-SWAP
+    tickSize: 0.001
+  mir_usdt_okex:
+    isLinear: true
+    lotSize: 1.0e-06
+    minOrderSize: 0.1
+    rebate: 0.01
+    symbol: MIR-USDT
+    tickSize: 0.001
+  mir_usdt_okex_swap:
+    contractSize: 1.0
+    isLinear: true
+    lotSize: 1.0
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: MIR-USDT-SWAP
+    tickSize: 0.001
+  mith_btc_okex:
+    isLinear: true
+    lotSize: 0.001
+    minOrderSize: 10.0
+    rebate: 0.01
+    symbol: MITH-BTC
+    tickSize: 1.0e-09
+  mith_usdt_okex:
+    isLinear: true
+    lotSize: 1.0e-06
+    minOrderSize: 10.0
+    rebate: 0.01
+    symbol: MITH-USDT
+    tickSize: 1.0e-05
+  mkr_btc_okex:
+    isLinear: true
+    lotSize: 1.0e-06
+    minOrderSize: 0.001
+    rebate: 0.01
+    symbol: MKR-BTC
+    tickSize: 0.0001
+  mkr_eth_okex:
+    isLinear: true
+    lotSize: 1.0e-06
+    minOrderSize: 0.001
+    rebate: 0.01
+    symbol: MKR-ETH
+    tickSize: 0.001
+  mkr_usdt_okex:
+    isLinear: true
+    lotSize: 1.0e-08
+    minOrderSize: 0.001
+    rebate: 0.01
+    symbol: MKR-USDT
+    tickSize: 0.1
+  mkr_usdt_okex_swap:
+    contractSize: 0.01
+    isLinear: true
+    lotSize: 1.0
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: MKR-USDT-SWAP
+    tickSize: 0.1
+  mln_usdt_okex:
+    isLinear: true
+    lotSize: 1.0e-06
+    minOrderSize: 0.01
+    rebate: 0.01
+    symbol: MLN-USDT
+    tickSize: 0.01
+  mof_usdt_okex:
+    isLinear: true
+    lotSize: 0.001
+    minOrderSize: 1000.0
+    rebate: 0.01
+    symbol: MOF-USDT
+    tickSize: 1.0e-07
+  mon_usdt_okex:
+    isLinear: true
+    lotSize: 0.001
+    minOrderSize: 1000.0
+    rebate: 0.01
+    symbol: MON-USDT
+    tickSize: 1.0e-06
+  movr_usdt_okex:
+    isLinear: true
+    lotSize: 1.0e-06
+    minOrderSize: 0.01
+    rebate: 0.01
+    symbol: MOVR-USDT
+    tickSize: 0.01
+  mxc_usdt_okex:
+    isLinear: true
+    lotSize: 1.0e-06
+    minOrderSize: 100.0
+    rebate: 0.01
+    symbol: MXC-USDT
+    tickSize: 1.0e-05
+  mxt_usdt_okex:
+    isLinear: true
+    lotSize: 1.0e-06
+    minOrderSize: 1000.0
+    rebate: 0.01
+    symbol: MXT-USDT
+    tickSize: 1.0e-06
+  nano_btc_okex:
+    isLinear: true
+    lotSize: 0.0001
+    minOrderSize: 0.1
+    rebate: 0.01
+    symbol: NANO-BTC
+    tickSize: 1.0e-07
+  nano_usdt_okex:
+    isLinear: true
+    lotSize: 1.0e-06
+    minOrderSize: 0.1
+    rebate: 0.01
+    symbol: NANO-USDT
+    tickSize: 0.001
+  nas_btc_okex:
+    isLinear: true
+    lotSize: 0.0001
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: NAS-BTC
+    tickSize: 1.0e-08
+  nas_usdt_okex:
+    isLinear: true
+    lotSize: 1.0e-06
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: NAS-USDT
+    tickSize: 0.0001
+  ndn_usdt_okex:
+    isLinear: true
+    lotSize: 1.0e-06
+    minOrderSize: 100.0
+    rebate: 0.01
+    symbol: NDN-USDT
+    tickSize: 1.0e-06
+  near_btc_okex:
+    isLinear: true
+    lotSize: 1.0e-08
+    minOrderSize: 0.5
+    rebate: 0.01
+    symbol: NEAR-BTC
+    tickSize: 1.0e-08
+  near_eth_okex:
+    isLinear: true
+    lotSize: 1.0e-08
+    minOrderSize: 0.5
+    rebate: 0.01
+    symbol: NEAR-ETH
+    tickSize: 1.0e-06
+  near_usdt_okex:
+    isLinear: true
+    lotSize: 1.0e-08
+    minOrderSize: 0.5
+    rebate: 0.01
+    symbol: NEAR-USDT
+    tickSize: 0.0001
+  near_usdt_okex_swap:
+    contractSize: 10.0
+    isLinear: true
+    lotSize: 1.0
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: NEAR-USDT-SWAP
+    tickSize: 0.0001
+  neo_btc_okex:
+    isLinear: true
+    lotSize: 1.0e-05
+    minOrderSize: 0.01
+    rebate: 0.01
+    symbol: NEO-BTC
+    tickSize: 1.0e-06
+  neo_eth_okex:
+    isLinear: true
+    lotSize: 1.0e-05
+    minOrderSize: 0.01
+    rebate: 0.01
+    symbol: NEO-ETH
+    tickSize: 1.0e-05
+  neo_okex_swap:
+    contractSize: 10.0
+    isLinear: false
+    lotSize: 1.0
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: NEO-USD-SWAP
+    tickSize: 0.001
+  neo_usdt_okex:
+    isLinear: true
+    lotSize: 1.0e-06
+    minOrderSize: 0.01
+    rebate: 0.01
+    symbol: NEO-USDT
+    tickSize: 0.001
+  neo_usdt_okex_swap:
+    contractSize: 1.0
+    isLinear: true
+    lotSize: 1.0
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: NEO-USDT-SWAP
+    tickSize: 0.001
+  nft_usdt_okex:
+    isLinear: true
+    lotSize: 1.0
+    minOrderSize: 1000000.0
+    rebate: 0.01
+    symbol: NFT-USDT
+    tickSize: 1.0e-10
+  nft_usdt_okex_swap:
+    contractSize: 1000000.0
+    isLinear: true
+    lotSize: 1.0
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: NFT-USDT-SWAP
+    tickSize: 1.0e-09
+  nmr_usdt_okex:
+    isLinear: true
+    lotSize: 1.0e-06
+    minOrderSize: 0.01
+    rebate: 0.01
+    symbol: NMR-USDT
+    tickSize: 0.01
+  nu_btc_okex:
+    isLinear: true
+    lotSize: 1.0e-08
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: NU-BTC
+    tickSize: 1.0e-08
+  nu_usdt_okex:
+    isLinear: true
+    lotSize: 1.0e-06
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: NU-USDT
+    tickSize: 0.0001
+  nuls_btc_okex:
+    isLinear: true
+    lotSize: 0.0001
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: NULS-BTC
+    tickSize: 1.0e-08
+  nuls_eth_okex:
+    isLinear: true
+    lotSize: 0.0001
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: NULS-ETH
+    tickSize: 1.0e-06
+  nuls_usdt_okex:
+    isLinear: true
+    lotSize: 1.0e-06
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: NULS-USDT
+    tickSize: 0.0001
+  okb_btc_okex:
+    isLinear: true
+    lotSize: 0.0001
+    minOrderSize: 0.1
+    rebate: 0.01
+    symbol: OKB-BTC
+    tickSize: 1.0e-07
+  okb_eth_okex:
+    isLinear: true
+    lotSize: 0.0001
+    minOrderSize: 0.1
+    rebate: 0.01
+    symbol: OKB-ETH
+    tickSize: 1.0e-06
+  okb_usdc_okex:
+    isLinear: true
+    lotSize: 0.0001
+    minOrderSize: 0.1
+    rebate: 0.01
+    symbol: OKB-USDC
+    tickSize: 0.001
+  okb_usdk_okex:
+    isLinear: true
+    lotSize: 0.0001
+    minOrderSize: 0.1
+    rebate: 0.01
+    symbol: OKB-USDK
+    tickSize: 0.001
+  okb_usdt_okex:
+    isLinear: true
+    lotSize: 1.0e-06
+    minOrderSize: 0.1
+    rebate: 0.01
+    symbol: OKB-USDT
+    tickSize: 0.001
+  okt_btc_okex:
+    isLinear: true
+    lotSize: 1.0e-08
+    minOrderSize: 0.01
+    rebate: 0.01
+    symbol: OKT-BTC
+    tickSize: 1.0e-06
+  okt_eth_okex:
+    isLinear: true
+    lotSize: 1.0e-08
+    minOrderSize: 0.01
+    rebate: 0.01
+    symbol: OKT-ETH
+    tickSize: 1.0e-05
+  okt_usdt_okex:
+    isLinear: true
+    lotSize: 1.0e-06
+    minOrderSize: 0.01
+    rebate: 0.01
+    symbol: OKT-USDT
+    tickSize: 0.01
+  om_eth_okex:
+    isLinear: true
+    lotSize: 0.0001
+    minOrderSize: 10.0
+    rebate: 0.01
+    symbol: OM-ETH
+    tickSize: 1.0e-07
+  om_usdt_okex:
+    isLinear: true
+    lotSize: 1.0e-06
+    minOrderSize: 10.0
+    rebate: 0.01
+    symbol: OM-USDT
+    tickSize: 0.0001
+  omg_btc_okex:
+    isLinear: true
+    lotSize: 0.0001
+    minOrderSize: 0.1
+    rebate: 0.01
+    symbol: OMG-BTC
+    tickSize: 1.0e-07
+  omg_usdt_okex:
+    isLinear: true
+    lotSize: 1.0e-06
+    minOrderSize: 0.1
+    rebate: 0.01
+    symbol: OMG-USDT
+    tickSize: 0.0001
+  omg_usdt_okex_swap:
+    contractSize: 1.0
+    isLinear: true
+    lotSize: 1.0
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: OMG-USDT-SWAP
+    tickSize: 0.0001
+  omi_usdt_okex:
+    isLinear: true
+    lotSize: 0.001
+    minOrderSize: 1000.0
+    rebate: 0.01
+    symbol: OMI-USDT
+    tickSize: 1.0e-07
+  one_usdt_okex:
+    isLinear: true
+    lotSize: 1.0e-06
+    minOrderSize: 10.0
+    rebate: 0.01
+    symbol: ONE-USDT
+    tickSize: 1.0e-05
+  ont_btc_okex:
+    isLinear: true
+    lotSize: 0.001
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: ONT-BTC
+    tickSize: 1.0e-07
+  ont_eth_okex:
+    isLinear: true
+    lotSize: 0.001
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: ONT-ETH
+    tickSize: 1.0e-06
+  ont_okex_swap:
+    contractSize: 10.0
+    isLinear: false
+    lotSize: 1.0
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: ONT-USD-SWAP
+    tickSize: 0.0001
+  ont_usdt_okex:
+    isLinear: true
+    lotSize: 1.0e-06
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: ONT-USDT
+    tickSize: 0.0001
+  ont_usdt_okex_swap:
+    contractSize: 10.0
+    isLinear: true
+    lotSize: 1.0
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: ONT-USDT-SWAP
+    tickSize: 0.0001
+  orbs_usdt_okex:
+    isLinear: true
+    lotSize: 1.0e-06
+    minOrderSize: 10.0
+    rebate: 0.01
+    symbol: ORBS-USDT
+    tickSize: 1.0e-05
+  ors_usdt_okex:
+    isLinear: true
+    lotSize: 1.0e-08
+    minOrderSize: 100.0
+    rebate: 0.01
+    symbol: ORS-USDT
+    tickSize: 1.0e-06
+  oxt_usdt_okex:
+    isLinear: true
+    lotSize: 1.0e-06
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: OXT-USDT
+    tickSize: 0.0001
+  pax_btc_okex:
+    isLinear: true
+    lotSize: 0.0001
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: PAX-BTC
+    tickSize: 1.0e-07
+  pax_usdt_okex:
+    isLinear: true
+    lotSize: 1.0e-06
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: PAX-USDT
+    tickSize: 0.0001
+  pay_btc_okex:
+    isLinear: true
+    lotSize: 0.001
+    minOrderSize: 10.0
+    rebate: 0.01
+    symbol: PAY-BTC
+    tickSize: 1.0e-08
+  pay_usdt_okex:
+    isLinear: true
+    lotSize: 1.0e-06
+    minOrderSize: 10.0
+    rebate: 0.01
+    symbol: PAY-USDT
+    tickSize: 0.0001
+  people_usdt_okex:
+    isLinear: true
+    lotSize: 1.0e-06
+    minOrderSize: 10.0
+    rebate: 0.01
+    symbol: PEOPLE-USDT
+    tickSize: 1.0e-06
+  people_usdt_okex_swap:
+    contractSize: 100.0
+    isLinear: true
+    lotSize: 1.0
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: PEOPLE-USDT-SWAP
+    tickSize: 1.0e-05
+  perp_usdt_okex:
+    isLinear: true
+    lotSize: 1.0e-06
+    minOrderSize: 0.1
+    rebate: 0.01
+    symbol: PERP-USDT
+    tickSize: 0.001
+  perp_usdt_okex_swap:
+    contractSize: 1.0
+    isLinear: true
+    lotSize: 1.0
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: PERP-USDT-SWAP
+    tickSize: 0.001
+  pha_eth_okex:
+    isLinear: true
+    lotSize: 1.0e-08
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: PHA-ETH
+    tickSize: 1.0e-07
+  pha_usdt_okex:
+    isLinear: true
+    lotSize: 1.0e-06
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: PHA-USDT
+    tickSize: 0.0001
+  pickle_usdt_okex:
+    isLinear: true
+    lotSize: 1.0e-06
+    minOrderSize: 0.1
+    rebate: 0.01
+    symbol: PICKLE-USDT
+    tickSize: 0.01
+  plg_usdt_okex:
+    isLinear: true
+    lotSize: 1.0e-06
+    minOrderSize: 1000.0
+    rebate: 0.01
+    symbol: PLG-USDT
+    tickSize: 1.0e-06
+  pma_btc_okex:
+    isLinear: true
+    lotSize: 0.0001
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: PMA-BTC
+    tickSize: 1.0e-11
+  pma_usdk_okex:
+    isLinear: true
+    lotSize: 0.0001
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: PMA-USDK
+    tickSize: 1.0e-07
+  pnk_usdt_okex:
+    isLinear: true
+    lotSize: 1.0e-06
+    minOrderSize: 10.0
+    rebate: 0.01
+    symbol: PNK-USDT
+    tickSize: 1.0e-05
+  pols_usdt_okex:
+    isLinear: true
+    lotSize: 1.0e-06
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: POLS-USDT
+    tickSize: 0.001
+  polydoge_usdt_okex:
+    isLinear: true
+    lotSize: 1.0
+    minOrderSize: 100000000.0
+    rebate: 0.01
+    symbol: POLYDOGE-USDT
+    tickSize: 1.0e-12
+  ppt_usdt_okex:
+    isLinear: true
+    lotSize: 1.0e-06
+    minOrderSize: 0.1
+    rebate: 0.01
+    symbol: PPT-USDT
+    tickSize: 0.001
+  props_eth_okex:
+    isLinear: true
+    lotSize: 1.0e-08
+    minOrderSize: 10.0
+    rebate: 0.01
+    symbol: PROPS-ETH
+    tickSize: 1.0e-08
+  props_usdt_okex:
+    isLinear: true
+    lotSize: 1.0e-06
+    minOrderSize: 10.0
+    rebate: 0.01
+    symbol: PROPS-USDT
+    tickSize: 1.0e-05
+  prq_usdt_okex:
+    isLinear: true
+    lotSize: 1.0e-06
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: PRQ-USDT
+    tickSize: 0.001
+  pst_btc_okex:
+    isLinear: true
+    lotSize: 0.001
+    minOrderSize: 10.0
+    rebate: 0.01
+    symbol: PST-BTC
+    tickSize: 1.0e-09
+  pst_usdt_okex:
+    isLinear: true
+    lotSize: 1.0e-06
+    minOrderSize: 10.0
+    rebate: 0.01
+    symbol: PST-USDT
+    tickSize: 1.0e-05
+  qtum_btc_okex:
+    isLinear: true
+    lotSize: 1.0e-05
+    minOrderSize: 0.1
+    rebate: 0.01
+    symbol: QTUM-BTC
+    tickSize: 1.0e-07
+  qtum_eth_okex:
+    isLinear: true
+    lotSize: 1.0e-05
+    minOrderSize: 0.1
+    rebate: 0.01
+    symbol: QTUM-ETH
+    tickSize: 1.0e-05
+  qtum_okex_swap:
+    contractSize: 10.0
+    isLinear: false
+    lotSize: 1.0
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: QTUM-USD-SWAP
+    tickSize: 0.0001
+  qtum_usdt_okex:
+    isLinear: true
+    lotSize: 1.0e-06
+    minOrderSize: 0.1
+    rebate: 0.01
+    symbol: QTUM-USDT
+    tickSize: 0.0001
+  qtum_usdt_okex_swap:
+    contractSize: 1.0
+    isLinear: true
+    lotSize: 1.0
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: QTUM-USDT-SWAP
+    tickSize: 0.0001
+  raca_usdt_okex:
+    isLinear: true
+    lotSize: 0.001
+    minOrderSize: 1000.0
+    rebate: 0.01
+    symbol: RACA-USDT
+    tickSize: 1.0e-07
+  ray_usdt_okex:
+    isLinear: true
+    lotSize: 1.0e-06
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: RAY-USDT
+    tickSize: 0.0001
+  ren_btc_okex:
+    isLinear: true
+    lotSize: 0.0001
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: REN-BTC
+    tickSize: 1.0e-08
+  ren_usdt_okex:
+    isLinear: true
+    lotSize: 1.0e-06
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: REN-USDT
+    tickSize: 1.0e-05
+  ren_usdt_okex_swap:
+    contractSize: 10.0
+    isLinear: true
+    lotSize: 1.0
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: REN-USDT-SWAP
+    tickSize: 1.0e-05
+  rep_eth_okex:
+    isLinear: true
+    lotSize: 0.0001
+    minOrderSize: 0.01
+    rebate: 0.01
+    symbol: REP-ETH
+    tickSize: 1.0e-05
+  rep_usdt_okex:
+    isLinear: true
+    lotSize: 1.0e-06
+    minOrderSize: 0.01
+    rebate: 0.01
+    symbol: REP-USDT
+    tickSize: 0.01
+  revv_usdt_okex:
+    isLinear: true
+    lotSize: 1.0e-06
+    minOrderSize: 10.0
+    rebate: 0.01
+    symbol: REVV-USDT
+    tickSize: 1.0e-05
+  rfuel_eth_okex:
+    isLinear: true
+    lotSize: 0.0001
+    minOrderSize: 5.0
+    rebate: 0.01
+    symbol: RFUEL-ETH
+    tickSize: 1.0e-07
+  rfuel_usdt_okex:
+    isLinear: true
+    lotSize: 1.0e-06
+    minOrderSize: 5.0
+    rebate: 0.01
+    symbol: RFUEL-USDT
+    tickSize: 1.0e-05
+  rio_usdt_okex:
+    isLinear: true
+    lotSize: 1.0e-06
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: RIO-USDT
+    tickSize: 0.0001
+  rnt_usdt_okex:
+    isLinear: true
+    lotSize: 1.0e-06
+    minOrderSize: 100.0
+    rebate: 0.01
+    symbol: RNT-USDT
+    tickSize: 1.0e-06
+  road_usdt_okex:
+    isLinear: true
+    lotSize: 1.0e-06
+    minOrderSize: 100.0
+    rebate: 0.01
+    symbol: ROAD-USDT
+    tickSize: 1.0e-06
+  rsr_btc_okex:
+    isLinear: true
+    lotSize: 0.0001
+    minOrderSize: 10.0
+    rebate: 0.01
+    symbol: RSR-BTC
+    tickSize: 1.0e-09
+  rsr_eth_okex:
+    isLinear: true
+    lotSize: 0.0001
+    minOrderSize: 10.0
+    rebate: 0.01
+    symbol: RSR-ETH
+    tickSize: 1.0e-07
+  rsr_usdt_okex:
+    isLinear: true
+    lotSize: 1.0e-06
+    minOrderSize: 10.0
+    rebate: 0.01
+    symbol: RSR-USDT
+    tickSize: 1.0e-06
+  rsr_usdt_okex_swap:
+    contractSize: 100.0
+    isLinear: true
+    lotSize: 1.0
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: RSR-USDT-SWAP
+    tickSize: 1.0e-06
+  rvn_btc_okex:
+    isLinear: true
+    lotSize: 0.0001
+    minOrderSize: 10.0
+    rebate: 0.01
+    symbol: RVN-BTC
+    tickSize: 1.0e-09
+  rvn_usdt_okex:
+    isLinear: true
+    lotSize: 1.0e-06
+    minOrderSize: 10.0
+    rebate: 0.01
+    symbol: RVN-USDT
+    tickSize: 1.0e-05
+  rvn_usdt_okex_swap:
+    contractSize: 10.0
+    isLinear: true
+    lotSize: 1.0
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: RVN-USDT-SWAP
+    tickSize: 1.0e-05
+  samo_usdt_okex:
+    isLinear: true
+    lotSize: 1.0e-06
+    minOrderSize: 10.0
+    rebate: 0.01
+    symbol: SAMO-USDT
+    tickSize: 1.0e-05
+  sand_okex_swap:
+    contractSize: 10.0
+    isLinear: false
+    lotSize: 1.0
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: SAND-USD-SWAP
+    tickSize: 0.0001
+  sand_usdt_okex:
+    isLinear: true
+    lotSize: 1.0e-06
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: SAND-USDT
+    tickSize: 1.0e-05
+  sand_usdt_okex_swap:
+    contractSize: 10.0
+    isLinear: true
+    lotSize: 1.0
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: SAND-USDT-SWAP
+    tickSize: 1.0e-05
+  sbtc_btc_okex:
+    isLinear: true
+    lotSize: 0.0001
+    minOrderSize: 0.1
+    rebate: 0.01
+    symbol: SBTC-BTC
+    tickSize: 1.0e-08
+  sc_btc_okex:
+    isLinear: true
+    lotSize: 1.0e-08
+    minOrderSize: 100.0
+    rebate: 0.01
+    symbol: SC-BTC
+    tickSize: 1.0e-09
+  sc_usdt_okex:
+    isLinear: true
+    lotSize: 1.0e-06
+    minOrderSize: 100.0
+    rebate: 0.01
+    symbol: SC-USDT
+    tickSize: 1.0e-06
+  sc_usdt_okex_swap:
+    contractSize: 100.0
+    isLinear: true
+    lotSize: 1.0
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: SC-USDT-SWAP
+    tickSize: 1.0e-06
+  sfg_usdt_okex:
+    isLinear: true
+    lotSize: 1.0e-06
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: SFG-USDT
+    tickSize: 0.0001
+  shib_usdt_okex:
+    isLinear: true
+    lotSize: 1.0
+    minOrderSize: 50000.0
+    rebate: 0.01
+    symbol: SHIB-USDT
+    tickSize: 1.0e-08
+  shib_usdt_okex_swap:
+    contractSize: 1000000.0
+    isLinear: true
+    lotSize: 1.0
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: SHIB-USDT-SWAP
+    tickSize: 1.0e-08
+  sis_usdt_okex:
+    isLinear: true
+    lotSize: 1.0e-06
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: SIS-USDT
+    tickSize: 0.0001
+  skl_usdt_okex:
+    isLinear: true
+    lotSize: 1.0e-06
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: SKL-USDT
+    tickSize: 1.0e-05
+  slp_usdt_okex:
+    isLinear: true
+    lotSize: 1.0e-06
+    minOrderSize: 10.0
+    rebate: 0.01
+    symbol: SLP-USDT
+    tickSize: 1.0e-05
+  slp_usdt_okex_swap:
+    contractSize: 10.0
+    isLinear: true
+    lotSize: 1.0
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: SLP-USDT-SWAP
+    tickSize: 1.0e-05
+  snc_btc_okex:
+    isLinear: true
+    lotSize: 0.001
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: SNC-BTC
+    tickSize: 1.0e-08
+  snt_btc_okex:
+    isLinear: true
+    lotSize: 0.01
+    minOrderSize: 10.0
+    rebate: 0.01
+    symbol: SNT-BTC
+    tickSize: 1.0e-09
+  snt_usdt_okex:
+    isLinear: true
+    lotSize: 1.0e-06
+    minOrderSize: 10.0
+    rebate: 0.01
+    symbol: SNT-USDT
+    tickSize: 1.0e-05
+  snx_eth_okex:
+    isLinear: true
+    lotSize: 0.0001
+    minOrderSize: 0.1
+    rebate: 0.01
+    symbol: SNX-ETH
+    tickSize: 1.0e-05
+  snx_usdt_okex:
+    isLinear: true
+    lotSize: 1.0e-06
+    minOrderSize: 0.1
+    rebate: 0.01
+    symbol: SNX-USDT
+    tickSize: 0.001
+  snx_usdt_okex_swap:
+    contractSize: 1.0
+    isLinear: true
+    lotSize: 1.0
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: SNX-USDT-SWAP
+    tickSize: 0.001
+  soc_usdt_okex:
+    isLinear: true
+    lotSize: 1.0e-06
+    minOrderSize: 100.0
+    rebate: 0.01
+    symbol: SOC-USDT
+    tickSize: 1.0e-05
+  sol_btc_okex:
+    isLinear: true
+    lotSize: 0.0001
+    minOrderSize: 0.01
+    rebate: 0.01
+    symbol: SOL-BTC
+    tickSize: 1.0e-07
+  sol_eth_okex:
+    isLinear: true
+    lotSize: 0.0001
+    minOrderSize: 0.01
+    rebate: 0.01
+    symbol: SOL-ETH
+    tickSize: 1.0e-06
+  sol_okex_swap:
+    contractSize: 10.0
+    isLinear: false
+    lotSize: 1.0
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: SOL-USD-SWAP
+    tickSize: 0.001
+  sol_usdt_okex:
+    isLinear: true
+    lotSize: 1.0e-06
+    minOrderSize: 0.01
+    rebate: 0.01
+    symbol: SOL-USDT
+    tickSize: 0.001
+  sol_usdt_okex_swap:
+    contractSize: 1.0
+    isLinear: true
+    lotSize: 1.0
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: SOL-USDT-SWAP
+    tickSize: 0.001
+  sos_usdt_okex:
+    isLinear: true
+    lotSize: 1.0
+    minOrderSize: 1000000.0
+    rebate: 0.01
+    symbol: SOS-USDT
+    tickSize: 1.0e-10
+  sos_usdt_okex_swap:
+    contractSize: 1000000.0
+    isLinear: true
+    lotSize: 1.0
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: SOS-USDT-SWAP
+    tickSize: 1.0e-09
+  spell_usdt_okex:
+    isLinear: true
+    lotSize: 1.0e-06
+    minOrderSize: 100.0
+    rebate: 0.01
+    symbol: SPELL-USDT
+    tickSize: 1.0e-06
+  srm_btc_okex:
+    isLinear: true
+    lotSize: 0.0001
+    minOrderSize: 0.1
+    rebate: 0.01
+    symbol: SRM-BTC
+    tickSize: 1.0e-08
+  srm_usdt_okex:
+    isLinear: true
+    lotSize: 1.0e-06
+    minOrderSize: 0.1
+    rebate: 0.01
+    symbol: SRM-USDT
+    tickSize: 0.0001
+  srm_usdt_okex_swap:
+    contractSize: 1.0
+    isLinear: true
+    lotSize: 1.0
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: SRM-USDT-SWAP
+    tickSize: 0.0001
+  starl_usdt_okex:
+    isLinear: true
+    lotSize: 1.0
+    minOrderSize: 100000.0
+    rebate: 0.01
+    symbol: STARL-USDT
+    tickSize: 1.0e-09
+  starl_usdt_okex_swap:
+    contractSize: 100000.0
+    isLinear: true
+    lotSize: 1.0
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: STARL-USDT-SWAP
+    tickSize: 1.0e-08
+  storj_usdt_okex:
+    isLinear: true
+    lotSize: 1.0e-06
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: STORJ-USDT
+    tickSize: 0.0001
+  storj_usdt_okex_swap:
+    contractSize: 10.0
+    isLinear: true
+    lotSize: 1.0
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: STORJ-USDT-SWAP
+    tickSize: 0.0001
+  strk_usdt_okex:
+    isLinear: true
+    lotSize: 1.0e-06
+    minOrderSize: 0.1
+    rebate: 0.01
+    symbol: STRK-USDT
+    tickSize: 0.01
+  stx_btc_okex:
+    isLinear: true
+    lotSize: 1.0e-08
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: STX-BTC
+    tickSize: 1.0e-08
+  stx_usdt_okex:
+    isLinear: true
+    lotSize: 1.0e-06
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: STX-USDT
+    tickSize: 0.0001
+  sun_usdt_okex:
+    isLinear: true
+    lotSize: 1.0e-06
+    minOrderSize: 100.0
+    rebate: 0.01
+    symbol: SUN-USDT
+    tickSize: 1.0e-05
+  sushi_eth_okex:
+    isLinear: true
+    lotSize: 0.0001
+    minOrderSize: 0.1
+    rebate: 0.01
+    symbol: SUSHI-ETH
+    tickSize: 1.0e-05
+  sushi_okex_swap:
+    contractSize: 10.0
+    isLinear: false
+    lotSize: 1.0
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: SUSHI-USD-SWAP
+    tickSize: 0.0001
+  sushi_usdt_okex:
+    isLinear: true
+    lotSize: 1.0e-06
+    minOrderSize: 0.1
+    rebate: 0.01
+    symbol: SUSHI-USDT
+    tickSize: 0.0001
+  sushi_usdt_okex_swap:
+    contractSize: 1.0
+    isLinear: true
+    lotSize: 1.0
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: SUSHI-USDT-SWAP
+    tickSize: 0.0001
+  swftc_btc_okex:
+    isLinear: true
+    lotSize: 0.1
+    minOrderSize: 100.0
+    rebate: 0.01
+    symbol: SWFTC-BTC
+    tickSize: 1.0e-10
+  swftc_eth_okex:
+    isLinear: true
+    lotSize: 0.1
+    minOrderSize: 100.0
+    rebate: 0.01
+    symbol: SWFTC-ETH
+    tickSize: 1.0e-09
+  swftc_usdt_okex:
+    isLinear: true
+    lotSize: 1.0e-06
+    minOrderSize: 100.0
+    rebate: 0.01
+    symbol: SWFTC-USDT
+    tickSize: 1.0e-06
+  swrv_usdt_okex:
+    isLinear: true
+    lotSize: 1.0e-06
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: SWRV-USDT
+    tickSize: 0.0001
+  swrv_usdt_okex_swap:
+    contractSize: 1.0
+    isLinear: true
+    lotSize: 1.0
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: SWRV-USDT-SWAP
+    tickSize: 0.0001
+  tai_usdt_okex:
+    isLinear: true
+    lotSize: 1.0e-06
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: TAI-USDT
+    tickSize: 0.001
+  tct_usdt_okex:
+    isLinear: true
+    lotSize: 1.0e-06
+    minOrderSize: 10.0
+    rebate: 0.01
+    symbol: TCT-USDT
+    tickSize: 1.0e-05
+  theta_btc_okex:
+    isLinear: true
+    lotSize: 0.01
+    minOrderSize: 0.1
+    rebate: 0.01
+    symbol: THETA-BTC
+    tickSize: 1.0e-07
+  theta_okex_swap:
+    contractSize: 10.0
+    isLinear: false
+    lotSize: 1.0
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: THETA-USD-SWAP
+    tickSize: 0.0001
+  theta_usdt_okex:
+    isLinear: true
+    lotSize: 1.0e-06
+    minOrderSize: 0.1
+    rebate: 0.01
+    symbol: THETA-USDT
+    tickSize: 0.0001
+  theta_usdt_okex_swap:
+    contractSize: 10.0
+    isLinear: true
+    lotSize: 1.0
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: THETA-USDT-SWAP
+    tickSize: 0.0001
+  thg_usdt_okex:
+    isLinear: true
+    lotSize: 1.0e-06
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: THG-USDT
+    tickSize: 0.0001
+  tmtg_usdt_okex:
+    isLinear: true
+    lotSize: 1.0e-06
+    minOrderSize: 100.0
+    rebate: 0.01
+    symbol: TMTG-USDT
+    tickSize: 1.0e-06
+  toncoin_usdt_okex:
+    isLinear: true
+    lotSize: 0.0001
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: TONCOIN-USDT
+    tickSize: 0.0001
+  toncoin_usdt_okex_swap:
+    contractSize: 1.0
+    isLinear: true
+    lotSize: 1.0
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: TONCOIN-USDT-SWAP
+    tickSize: 0.0001
+  topc_usdt_okex:
+    isLinear: true
+    lotSize: 1.0e-06
+    minOrderSize: 100.0
+    rebate: 0.01
+    symbol: TOPC-USDT
+    tickSize: 1.0e-06
+  torn_usdt_okex:
+    isLinear: true
+    lotSize: 1.0e-06
+    minOrderSize: 0.01
+    rebate: 0.01
+    symbol: TORN-USDT
+    tickSize: 0.01
+  torn_usdt_okex_swap:
+    contractSize: 0.01
+    isLinear: true
+    lotSize: 1.0
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: TORN-USDT-SWAP
+    tickSize: 0.01
+  town_usdt_okex:
+    isLinear: true
+    lotSize: 1.0e-06
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: TOWN-USDT
+    tickSize: 1.0e-05
+  tra_usdt_okex:
+    isLinear: true
+    lotSize: 1.0e-06
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: TRA-USDT
+    tickSize: 0.001
+  trade_usdt_okex:
+    isLinear: true
+    lotSize: 1.0e-06
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: TRADE-USDT
+    tickSize: 0.0001
+  trb_usdt_okex:
+    isLinear: true
+    lotSize: 1.0e-06
+    minOrderSize: 0.01
+    rebate: 0.01
+    symbol: TRB-USDT
+    tickSize: 0.01
+  trb_usdt_okex_swap:
+    contractSize: 0.1
+    isLinear: true
+    lotSize: 1.0
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: TRB-USDT-SWAP
+    tickSize: 0.01
+  trio_btc_okex:
+    isLinear: true
+    lotSize: 0.1
+    minOrderSize: 1000.0
+    rebate: 0.01
+    symbol: TRIO-BTC
+    tickSize: 1.0e-10
+  trio_usdt_okex:
+    isLinear: true
+    lotSize: 1.0e-06
+    minOrderSize: 1000.0
+    rebate: 0.01
+    symbol: TRIO-USDT
+    tickSize: 1.0e-06
+  true_btc_okex:
+    isLinear: true
+    lotSize: 0.001
+    minOrderSize: 10.0
+    rebate: 0.01
+    symbol: TRUE-BTC
+    tickSize: 1.0e-08
+  true_usdt_okex:
+    isLinear: true
+    lotSize: 1.0e-06
+    minOrderSize: 10.0
+    rebate: 0.01
+    symbol: TRUE-USDT
+    tickSize: 0.0001
+  trx_btc_okex:
+    isLinear: true
+    lotSize: 0.01
+    minOrderSize: 10.0
+    rebate: 0.01
+    symbol: TRX-BTC
+    tickSize: 1.0e-09
+  trx_eth_okex:
+    isLinear: true
+    lotSize: 0.01
+    minOrderSize: 10.0
+    rebate: 0.01
+    symbol: TRX-ETH
+    tickSize: 1.0e-09
+  trx_okex_bq:
+    contractSize: 10.0
+    isLinear: false
+    lotSize: 1.0
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: TRX-USD-220624
+    tickSize: 1.0e-05
+  trx_okex_cq:
+    contractSize: 10.0
+    isLinear: false
+    lotSize: 1.0
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: TRX-USD-220325
+    tickSize: 1.0e-05
+  trx_okex_cw:
+    contractSize: 10.0
+    isLinear: false
+    lotSize: 1.0
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: TRX-USD-220128
+    tickSize: 1.0e-05
+  trx_okex_nw:
+    contractSize: 10.0
+    isLinear: false
+    lotSize: 1.0
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: TRX-USD-220204
+    tickSize: 1.0e-05
+  trx_okex_swap:
+    contractSize: 10.0
+    isLinear: false
+    lotSize: 1.0
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: TRX-USD-SWAP
+    tickSize: 1.0e-05
+  trx_usdc_okex:
+    isLinear: true
+    lotSize: 0.0001
+    minOrderSize: 10.0
+    rebate: 0.01
+    symbol: TRX-USDC
+    tickSize: 1.0e-05
+  trx_usdk_okex:
+    isLinear: true
+    lotSize: 0.01
+    minOrderSize: 10.0
+    rebate: 0.01
+    symbol: TRX-USDK
+    tickSize: 1.0e-05
+  trx_usdt_okex:
+    isLinear: true
+    lotSize: 1.0e-06
+    minOrderSize: 10.0
+    rebate: 0.01
+    symbol: TRX-USDT
+    tickSize: 1.0e-05
+  trx_usdt_okex_bq:
+    contractSize: 1000.0
+    isLinear: true
+    lotSize: 1.0
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: TRX-USDT-220624
+    tickSize: 1.0e-05
+  trx_usdt_okex_cq:
+    contractSize: 1000.0
+    isLinear: true
+    lotSize: 1.0
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: TRX-USDT-220325
+    tickSize: 1.0e-05
+  trx_usdt_okex_cw:
+    contractSize: 1000.0
+    isLinear: true
+    lotSize: 1.0
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: TRX-USDT-220128
+    tickSize: 1.0e-05
+  trx_usdt_okex_nw:
+    contractSize: 1000.0
+    isLinear: true
+    lotSize: 1.0
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: TRX-USDT-220204
+    tickSize: 1.0e-05
+  trx_usdt_okex_swap:
+    contractSize: 1000.0
+    isLinear: true
+    lotSize: 1.0
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: TRX-USDT-SWAP
+    tickSize: 1.0e-05
+  tup_usdt_okex:
+    isLinear: true
+    lotSize: 1.0e-06
+    minOrderSize: 10.0
+    rebate: 0.01
+    symbol: TUP-USDT
+    tickSize: 1.0e-05
+  tusd_usdt_okex:
+    isLinear: true
+    lotSize: 1.0e-06
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: TUSD-USDT
+    tickSize: 0.0001
+  ubtc_usdt_okex:
+    isLinear: true
+    lotSize: 1.0e-06
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: UBTC-USDT
+    tickSize: 0.001
+  uma_usdt_okex:
+    isLinear: true
+    lotSize: 1.0e-06
+    minOrderSize: 0.1
+    rebate: 0.01
+    symbol: UMA-USDT
+    tickSize: 0.001
+  uma_usdt_okex_swap:
+    contractSize: 0.1
+    isLinear: true
+    lotSize: 1.0
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: UMA-USDT-SWAP
+    tickSize: 0.001
+  uni_btc_okex:
+    isLinear: true
+    lotSize: 1.0e-05
+    minOrderSize: 0.1
+    rebate: 0.01
+    symbol: UNI-BTC
+    tickSize: 1.0e-07
+  uni_eth_okex:
+    isLinear: true
+    lotSize: 1.0e-05
+    minOrderSize: 0.1
+    rebate: 0.01
+    symbol: UNI-ETH
+    tickSize: 1.0e-06
+  uni_okex_swap:
+    contractSize: 10.0
+    isLinear: false
+    lotSize: 1.0
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: UNI-USD-SWAP
+    tickSize: 0.001
+  uni_usdt_okex:
+    isLinear: true
+    lotSize: 1.0e-06
+    minOrderSize: 0.1
+    rebate: 0.01
+    symbol: UNI-USDT
+    tickSize: 0.001
+  uni_usdt_okex_swap:
+    contractSize: 1.0
+    isLinear: true
+    lotSize: 1.0
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: UNI-USDT-SWAP
+    tickSize: 0.001
+  usdc_usdt_okex:
+    isLinear: true
+    lotSize: 1.0e-06
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: USDC-USDT
+    tickSize: 0.0001
+  usdt_usdk_okex:
+    isLinear: true
+    lotSize: 0.0001
+    minOrderSize: 0.1
+    rebate: 0.01
+    symbol: USDT-USDK
+    tickSize: 0.0001
+  ust_usdt_okex:
+    isLinear: true
+    lotSize: 1.0e-06
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: UST-USDT
+    tickSize: 0.0001
+  utk_usdt_okex:
+    isLinear: true
+    lotSize: 1.0e-06
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: UTK-USDT
+    tickSize: 0.0001
+  value_usdt_okex:
+    isLinear: true
+    lotSize: 1.0e-06
+    minOrderSize: 0.1
+    rebate: 0.01
+    symbol: VALUE-USDT
+    tickSize: 0.001
+  velo_usdt_okex:
+    isLinear: true
+    lotSize: 1.0e-06
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: VELO-USDT
+    tickSize: 0.0001
+  vib_btc_okex:
+    isLinear: true
+    lotSize: 0.001
+    minOrderSize: 10.0
+    rebate: 0.01
+    symbol: VIB-BTC
+    tickSize: 1.0e-09
+  vib_usdt_okex:
+    isLinear: true
+    lotSize: 1.0e-06
+    minOrderSize: 10.0
+    rebate: 0.01
+    symbol: VIB-USDT
+    tickSize: 0.0001
+  vite_btc_okex:
+    isLinear: true
+    lotSize: 1.0e-08
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: VITE-BTC
+    tickSize: 1.0e-09
+  vra_usdt_okex:
+    isLinear: true
+    lotSize: 1.0e-06
+    minOrderSize: 100.0
+    rebate: 0.01
+    symbol: VRA-USDT
+    tickSize: 1.0e-06
+  vsys_btc_okex:
+    isLinear: true
+    lotSize: 0.0001
+    minOrderSize: 10.0
+    rebate: 0.01
+    symbol: VSYS-BTC
+    tickSize: 1.0e-09
+  vsys_usdt_okex:
+    isLinear: true
+    lotSize: 1.0e-06
+    minOrderSize: 10.0
+    rebate: 0.01
+    symbol: VSYS-USDT
+    tickSize: 1.0e-05
+  waves_btc_okex:
+    isLinear: true
+    lotSize: 1.0e-08
+    minOrderSize: 0.1
+    rebate: 0.01
+    symbol: WAVES-BTC
+    tickSize: 1.0e-06
+  waves_usdt_okex:
+    isLinear: true
+    lotSize: 1.0e-08
+    minOrderSize: 0.1
+    rebate: 0.01
+    symbol: WAVES-USDT
+    tickSize: 0.001
+  waves_usdt_okex_swap:
+    contractSize: 1.0
+    isLinear: true
+    lotSize: 1.0
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: WAVES-USDT-SWAP
+    tickSize: 0.001
+  wbtc_btc_okex:
+    isLinear: true
+    lotSize: 0.0001
+    minOrderSize: 1.0e-05
+    rebate: 0.01
+    symbol: WBTC-BTC
+    tickSize: 0.0001
+  wbtc_eth_okex:
+    isLinear: true
+    lotSize: 0.0001
+    minOrderSize: 1.0e-05
+    rebate: 0.01
+    symbol: WBTC-ETH
+    tickSize: 0.01
+  wbtc_usdt_okex:
+    isLinear: true
+    lotSize: 1.0e-06
+    minOrderSize: 1.0e-05
+    rebate: 0.01
+    symbol: WBTC-USDT
+    tickSize: 0.1
+  wgrt_usdt_okex:
+    isLinear: true
+    lotSize: 1.0e-06
+    minOrderSize: 500.0
+    rebate: 0.01
+    symbol: WGRT-USDT
+    tickSize: 1.0e-06
+  win_usdt_okex:
+    isLinear: true
+    lotSize: 1.0
+    minOrderSize: 10000.0
+    rebate: 0.01
+    symbol: WIN-USDT
+    tickSize: 1.0e-08
+  wing_usdt_okex:
+    isLinear: true
+    lotSize: 1.0e-06
+    minOrderSize: 0.01
+    rebate: 0.01
+    symbol: WING-USDT
+    tickSize: 0.001
+  wncg_usdt_okex:
+    isLinear: true
+    lotSize: 1.0e-06
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: WNCG-USDT
+    tickSize: 0.0001
+  wncg_usdt_okex_swap:
+    contractSize: 1.0
+    isLinear: true
+    lotSize: 1.0
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: WNCG-USDT-SWAP
+    tickSize: 0.0001
+  wnxm_usdt_okex:
+    isLinear: true
+    lotSize: 1.0e-06
+    minOrderSize: 0.01
+    rebate: 0.01
+    symbol: WNXM-USDT
+    tickSize: 0.01
+  wnxm_usdt_okex_swap:
+    contractSize: 0.1
+    isLinear: true
+    lotSize: 1.0
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: WNXM-USDT-SWAP
+    tickSize: 0.01
+  woo_usdt_okex:
+    isLinear: true
+    lotSize: 1.0e-06
+    minOrderSize: 10.0
+    rebate: 0.01
+    symbol: WOO-USDT
+    tickSize: 1.0e-05
+  wsb_usdt_okex:
+    isLinear: true
+    lotSize: 1.0e-06
+    minOrderSize: 100.0
+    rebate: 0.01
+    symbol: WSB-USDT
+    tickSize: 1.0e-06
+  wtc_btc_okex:
+    isLinear: true
+    lotSize: 0.0001
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: WTC-BTC
+    tickSize: 1.0e-08
+  wtc_usdt_okex:
+    isLinear: true
+    lotSize: 1.0e-06
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: WTC-USDT
+    tickSize: 0.001
+  wxt_btc_okex:
+    isLinear: true
+    lotSize: 0.0001
+    minOrderSize: 100.0
+    rebate: 0.01
+    symbol: WXT-BTC
+    tickSize: 1.0e-09
+  wxt_usdt_okex:
+    isLinear: true
+    lotSize: 1.0e-06
+    minOrderSize: 100.0
+    rebate: 0.01
+    symbol: WXT-USDT
+    tickSize: 1.0e-06
+  xch_btc_okex:
+    isLinear: true
+    lotSize: 1.0e-08
+    minOrderSize: 0.01
+    rebate: 0.01
+    symbol: XCH-BTC
+    tickSize: 1.0e-06
+  xch_usdt_okex:
+    isLinear: true
+    lotSize: 1.0e-06
+    minOrderSize: 0.01
+    rebate: 0.01
+    symbol: XCH-USDT
+    tickSize: 0.01
+  xch_usdt_okex_swap:
+    contractSize: 0.01
+    isLinear: true
+    lotSize: 1.0
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: XCH-USDT-SWAP
+    tickSize: 0.01
+  xec_usdt_okex:
+    isLinear: true
+    lotSize: 0.1
+    minOrderSize: 10000.0
+    rebate: 0.01
+    symbol: XEC-USDT
+    tickSize: 1.0e-08
+  xem_btc_okex:
+    isLinear: true
+    lotSize: 0.001
+    minOrderSize: 10.0
+    rebate: 0.01
+    symbol: XEM-BTC
+    tickSize: 1.0e-08
+  xem_eth_okex:
+    isLinear: true
+    lotSize: 0.001
+    minOrderSize: 10.0
+    rebate: 0.01
+    symbol: XEM-ETH
+    tickSize: 1.0e-07
+  xem_usdt_okex:
+    isLinear: true
+    lotSize: 1.0e-06
+    minOrderSize: 10.0
+    rebate: 0.01
+    symbol: XEM-USDT
+    tickSize: 0.0001
+  xem_usdt_okex_swap:
+    contractSize: 10.0
+    isLinear: true
+    lotSize: 1.0
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: XEM-USDT-SWAP
+    tickSize: 0.0001
+  xlm_btc_okex:
+    isLinear: true
+    lotSize: 0.001
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: XLM-BTC
+    tickSize: 1.0e-08
+  xlm_eth_okex:
+    isLinear: true
+    lotSize: 0.001
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: XLM-ETH
+    tickSize: 1.0e-07
+  xlm_okex_swap:
+    contractSize: 10.0
+    isLinear: false
+    lotSize: 1.0
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: XLM-USD-SWAP
+    tickSize: 1.0e-05
+  xlm_usdt_okex:
+    isLinear: true
+    lotSize: 1.0e-06
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: XLM-USDT
+    tickSize: 1.0e-05
+  xlm_usdt_okex_swap:
+    contractSize: 100.0
+    isLinear: true
+    lotSize: 1.0
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: XLM-USDT-SWAP
+    tickSize: 1.0e-05
+  xmr_btc_okex:
+    isLinear: true
+    lotSize: 1.0e-06
+    minOrderSize: 0.01
+    rebate: 0.01
+    symbol: XMR-BTC
+    tickSize: 1.0e-06
+  xmr_eth_okex:
+    isLinear: true
+    lotSize: 1.0e-06
+    minOrderSize: 0.01
+    rebate: 0.01
+    symbol: XMR-ETH
+    tickSize: 1.0e-05
+  xmr_okex_swap:
+    contractSize: 10.0
+    isLinear: false
+    lotSize: 1.0
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: XMR-USD-SWAP
+    tickSize: 0.01
+  xmr_usdt_okex:
+    isLinear: true
+    lotSize: 1.0e-06
+    minOrderSize: 0.01
+    rebate: 0.01
+    symbol: XMR-USDT
+    tickSize: 0.01
+  xmr_usdt_okex_swap:
+    contractSize: 0.1
+    isLinear: true
+    lotSize: 1.0
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: XMR-USDT-SWAP
+    tickSize: 0.01
+  xpo_usdt_okex:
+    isLinear: true
+    lotSize: 1.0e-06
+    minOrderSize: 1000.0
+    rebate: 0.01
+    symbol: XPO-USDT
+    tickSize: 1.0e-06
+  xpr_usdt_okex:
+    isLinear: true
+    lotSize: 1.0e-06
+    minOrderSize: 100.0
+    rebate: 0.01
+    symbol: XPR-USDT
+    tickSize: 1.0e-05
+  xrp_btc_okex:
+    isLinear: true
+    lotSize: 0.001
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: XRP-BTC
+    tickSize: 1.0e-08
+  xrp_eth_okex:
+    isLinear: true
+    lotSize: 0.001
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: XRP-ETH
+    tickSize: 1.0e-06
+  xrp_okb_okex:
+    isLinear: true
+    lotSize: 1.0e-06
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: XRP-OKB
+    tickSize: 0.0001
+  xrp_okex_bq:
+    contractSize: 10.0
+    isLinear: false
+    lotSize: 1.0
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: XRP-USD-220624
+    tickSize: 1.0e-05
+  xrp_okex_cq:
+    contractSize: 10.0
+    isLinear: false
+    lotSize: 1.0
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: XRP-USD-220325
+    tickSize: 1.0e-05
+  xrp_okex_cw:
+    contractSize: 10.0
+    isLinear: false
+    lotSize: 1.0
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: XRP-USD-220128
+    tickSize: 1.0e-05
+  xrp_okex_nw:
+    contractSize: 10.0
+    isLinear: false
+    lotSize: 1.0
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: XRP-USD-220204
+    tickSize: 1.0e-05
+  xrp_okex_swap:
+    contractSize: 10.0
+    isLinear: false
+    lotSize: 1.0
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: XRP-USD-SWAP
+    tickSize: 1.0e-05
+  xrp_usdc_okex:
+    isLinear: true
+    lotSize: 0.0001
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: XRP-USDC
+    tickSize: 0.0001
+  xrp_usdk_okex:
+    isLinear: true
+    lotSize: 0.001
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: XRP-USDK
+    tickSize: 0.0001
+  xrp_usdt_okex:
+    isLinear: true
+    lotSize: 1.0e-06
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: XRP-USDT
+    tickSize: 1.0e-05
+  xrp_usdt_okex_bq:
+    contractSize: 100.0
+    isLinear: true
+    lotSize: 1.0
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: XRP-USDT-220624
+    tickSize: 1.0e-05
+  xrp_usdt_okex_cq:
+    contractSize: 100.0
+    isLinear: true
+    lotSize: 1.0
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: XRP-USDT-220325
+    tickSize: 1.0e-05
+  xrp_usdt_okex_cw:
+    contractSize: 100.0
+    isLinear: true
+    lotSize: 1.0
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: XRP-USDT-220128
+    tickSize: 1.0e-05
+  xrp_usdt_okex_nw:
+    contractSize: 100.0
+    isLinear: true
+    lotSize: 1.0
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: XRP-USDT-220204
+    tickSize: 1.0e-05
+  xrp_usdt_okex_swap:
+    contractSize: 100.0
+    isLinear: true
+    lotSize: 1.0
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: XRP-USDT-SWAP
+    tickSize: 1.0e-05
+  xsr_usdt_okex:
+    isLinear: true
+    lotSize: 1.0e-06
+    minOrderSize: 1000.0
+    rebate: 0.01
+    symbol: XSR-USDT
+    tickSize: 1.0e-06
+  xtz_btc_okex:
+    isLinear: true
+    lotSize: 0.0001
+    minOrderSize: 0.1
+    rebate: 0.01
+    symbol: XTZ-BTC
+    tickSize: 1.0e-08
+  xtz_okex_swap:
+    contractSize: 10.0
+    isLinear: false
+    lotSize: 1.0
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: XTZ-USD-SWAP
+    tickSize: 0.0001
+  xtz_usdt_okex:
+    isLinear: true
+    lotSize: 1.0e-06
+    minOrderSize: 0.1
+    rebate: 0.01
+    symbol: XTZ-USDT
+    tickSize: 0.0001
+  xtz_usdt_okex_swap:
+    contractSize: 1.0
+    isLinear: true
+    lotSize: 1.0
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: XTZ-USDT-SWAP
+    tickSize: 0.0001
+  xuc_usdt_okex:
+    isLinear: true
+    lotSize: 1.0e-06
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: XUC-USDT
+    tickSize: 0.0001
+  yee_usdt_okex:
+    isLinear: true
+    lotSize: 1.0e-06
+    minOrderSize: 1000.0
+    rebate: 0.01
+    symbol: YEE-USDT
+    tickSize: 1.0e-06
+  yfi_btc_okex:
+    isLinear: true
+    lotSize: 0.0001
+    minOrderSize: 1.0e-05
+    rebate: 0.01
+    symbol: YFI-BTC
+    tickSize: 0.001
+  yfi_eth_okex:
+    isLinear: true
+    lotSize: 0.0001
+    minOrderSize: 1.0e-05
+    rebate: 0.01
+    symbol: YFI-ETH
+    tickSize: 0.1
+  yfi_okex_swap:
+    contractSize: 10.0
+    isLinear: false
+    lotSize: 1.0
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: YFI-USD-SWAP
+    tickSize: 1.0
+  yfi_usdt_okex:
+    isLinear: true
+    lotSize: 1.0e-06
+    minOrderSize: 0.0001
+    rebate: 0.01
+    symbol: YFI-USDT
+    tickSize: 1.0
+  yfi_usdt_okex_swap:
+    contractSize: 0.0001
+    isLinear: true
+    lotSize: 1.0
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: YFI-USDT-SWAP
+    tickSize: 1.0
+  yfii_okex_swap:
+    contractSize: 10.0
+    isLinear: false
+    lotSize: 1.0
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: YFII-USD-SWAP
+    tickSize: 0.1
+  yfii_usdt_okex:
+    isLinear: true
+    lotSize: 1.0e-06
+    minOrderSize: 0.001
+    rebate: 0.01
+    symbol: YFII-USDT
+    tickSize: 0.1
+  yfii_usdt_okex_swap:
+    contractSize: 0.001
+    isLinear: true
+    lotSize: 1.0
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: YFII-USDT-SWAP
+    tickSize: 0.1
+  ygg_usdt_okex:
+    isLinear: true
+    lotSize: 1.0e-06
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: YGG-USDT
+    tickSize: 0.0001
+  ygg_usdt_okex_swap:
+    contractSize: 1.0
+    isLinear: true
+    lotSize: 1.0
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: YGG-USDT-SWAP
+    tickSize: 0.0001
+  you_btc_okex:
+    isLinear: true
+    lotSize: 1.0e-08
+    minOrderSize: 100.0
+    rebate: 0.01
+    symbol: YOU-BTC
+    tickSize: 1.0e-09
+  you_usdt_okex:
+    isLinear: true
+    lotSize: 1.0e-06
+    minOrderSize: 100.0
+    rebate: 0.01
+    symbol: YOU-USDT
+    tickSize: 1.0e-06
+  yoyo_usdt_okex:
+    isLinear: true
+    lotSize: 1.0e-06
+    minOrderSize: 100.0
+    rebate: 0.01
+    symbol: YOYO-USDT
+    tickSize: 1.0e-05
+  zec_btc_okex:
+    isLinear: true
+    lotSize: 1.0e-06
+    minOrderSize: 0.01
+    rebate: 0.01
+    symbol: ZEC-BTC
+    tickSize: 1.0e-06
+  zec_eth_okex:
+    isLinear: true
+    lotSize: 1.0e-06
+    minOrderSize: 0.01
+    rebate: 0.01
+    symbol: ZEC-ETH
+    tickSize: 0.0001
+  zec_okex_swap:
+    contractSize: 10.0
+    isLinear: false
+    lotSize: 1.0
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: ZEC-USD-SWAP
+    tickSize: 0.01
+  zec_usdt_okex:
+    isLinear: true
+    lotSize: 1.0e-06
+    minOrderSize: 0.01
+    rebate: 0.01
+    symbol: ZEC-USDT
+    tickSize: 0.01
+  zec_usdt_okex_swap:
+    contractSize: 0.1
+    isLinear: true
+    lotSize: 1.0
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: ZEC-USDT-SWAP
+    tickSize: 0.01
+  zen_btc_okex:
+    isLinear: true
+    lotSize: 1.0e-05
+    minOrderSize: 0.01
+    rebate: 0.01
+    symbol: ZEN-BTC
+    tickSize: 1.0e-06
+  zen_usdt_okex:
+    isLinear: true
+    lotSize: 1.0e-06
+    minOrderSize: 0.01
+    rebate: 0.01
+    symbol: ZEN-USDT
+    tickSize: 0.01
+  zen_usdt_okex_swap:
+    contractSize: 1.0
+    isLinear: true
+    lotSize: 1.0
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: ZEN-USDT-SWAP
+    tickSize: 0.001
+  zil_btc_okex:
+    isLinear: true
+    lotSize: 0.001
+    minOrderSize: 10.0
+    rebate: 0.01
+    symbol: ZIL-BTC
+    tickSize: 1.0e-09
+  zil_eth_okex:
+    isLinear: true
+    lotSize: 0.001
+    minOrderSize: 10.0
+    rebate: 0.01
+    symbol: ZIL-ETH
+    tickSize: 1.0e-07
+  zil_usdt_okex:
+    isLinear: true
+    lotSize: 1.0e-06
+    minOrderSize: 10.0
+    rebate: 0.01
+    symbol: ZIL-USDT
+    tickSize: 1.0e-05
+  zil_usdt_okex_swap:
+    contractSize: 100.0
+    isLinear: true
+    lotSize: 1.0
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: ZIL-USDT-SWAP
+    tickSize: 1.0e-05
+  zks_usdt_okex:
+    isLinear: true
+    lotSize: 1.0e-06
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: ZKS-USDT
+    tickSize: 0.0001
+  zrx_btc_okex:
+    isLinear: true
+    lotSize: 0.001
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: ZRX-BTC
+    tickSize: 1.0e-08
+  zrx_eth_okex:
+    isLinear: true
+    lotSize: 0.001
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: ZRX-ETH
+    tickSize: 1.0e-06
+  zrx_usdt_okex:
+    isLinear: true
+    lotSize: 1.0e-06
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: ZRX-USDT
+    tickSize: 0.0001
+  zrx_usdt_okex_swap:
+    contractSize: 10.0
+    isLinear: true
+    lotSize: 1.0
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: ZRX-USDT-SWAP
+    tickSize: 0.0001
+  zyro_usdt_okex:
+    isLinear: true
+    lotSize: 1.0e-06
+    minOrderSize: 100.0
+    rebate: 0.01
+    symbol: ZYRO-USDT
+    tickSize: 1.0e-05
+

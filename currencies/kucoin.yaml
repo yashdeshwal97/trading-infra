@@ -1,0 +1,749 @@
+KUCOIN:
+  1inch_usdt_kucoin:
+    contractSize: 1.0
+    isLinear: true
+    lotSize: 1.0
+    minOrderSize: 1.0
+    rebate: 0.015
+    settlementCurrency: USDT
+    symbol: 1INCHUSDTM
+    tickSize: 0.001
+  aave_usdt_kucoin:
+    contractSize: 0.01
+    isLinear: true
+    lotSize: 1.0
+    minOrderSize: 1.0
+    rebate: 0.015
+    settlementCurrency: USDT
+    symbol: AAVEUSDTM
+    tickSize: 0.01
+  ada_usdt_kucoin:
+    contractSize: 10.0
+    isLinear: true
+    lotSize: 1.0
+    minOrderSize: 1.0
+    rebate: 0.015
+    settlementCurrency: USDT
+    symbol: ADAUSDTM
+    tickSize: 1.0e-05
+  algo_usdt_kucoin:
+    contractSize: 1.0
+    isLinear: true
+    lotSize: 1.0
+    minOrderSize: 1.0
+    rebate: 0.015
+    settlementCurrency: USDT
+    symbol: ALGOUSDTM
+    tickSize: 0.001
+  alice_usdt_kucoin:
+    contractSize: 0.1
+    isLinear: true
+    lotSize: 1.0
+    minOrderSize: 1.0
+    rebate: 0.015
+    settlementCurrency: USDT
+    symbol: ALICEUSDTM
+    tickSize: 0.001
+  atom_usdt_kucoin:
+    contractSize: 0.1
+    isLinear: true
+    lotSize: 1.0
+    minOrderSize: 1.0
+    rebate: 0.015
+    settlementCurrency: USDT
+    symbol: ATOMUSDTM
+    tickSize: 0.001
+  avax_usdt_kucoin:
+    contractSize: 0.1
+    isLinear: true
+    lotSize: 1.0
+    minOrderSize: 1.0
+    rebate: 0.015
+    settlementCurrency: USDT
+    symbol: AVAXUSDTM
+    tickSize: 0.01
+  axs_usdt_kucoin:
+    contractSize: 0.1
+    isLinear: true
+    lotSize: 1.0
+    minOrderSize: 1.0
+    rebate: 0.015
+    settlementCurrency: USDT
+    symbol: AXSUSDTM
+    tickSize: 0.001
+  band_usdt_kucoin:
+    contractSize: 0.1
+    isLinear: true
+    lotSize: 1.0
+    minOrderSize: 1.0
+    rebate: 0.015
+    settlementCurrency: USDT
+    symbol: BANDUSDTM
+    tickSize: 0.001
+  bat_usdt_kucoin:
+    contractSize: 1.0
+    isLinear: true
+    lotSize: 1.0
+    minOrderSize: 1.0
+    rebate: 0.015
+    settlementCurrency: USDT
+    symbol: BATUSDTM
+    tickSize: 0.0001
+  bch_usdt_kucoin:
+    contractSize: 0.01
+    isLinear: true
+    lotSize: 1.0
+    minOrderSize: 1.0
+    rebate: 0.015
+    settlementCurrency: USDT
+    symbol: BCHUSDTM
+    tickSize: 0.05
+  bnb_usdt_kucoin:
+    contractSize: 0.01
+    isLinear: true
+    lotSize: 1.0
+    minOrderSize: 1.0
+    rebate: 0.015
+    settlementCurrency: USDT
+    symbol: BNBUSDTM
+    tickSize: 0.01
+  bsv_usdt_kucoin:
+    contractSize: 0.01
+    isLinear: true
+    lotSize: 1.0
+    minOrderSize: 1.0
+    rebate: 0.015
+    settlementCurrency: USDT
+    symbol: BSVUSDTM
+    tickSize: 0.05
+  btt_usdt_kucoin:
+    contractSize: 1000.0
+    isLinear: true
+    lotSize: 1.0
+    minOrderSize: 1.0
+    rebate: 0.015
+    settlementCurrency: USDT
+    symbol: BTTUSDTM
+    tickSize: 1.0e-06
+  c98_usdt_kucoin:
+    contractSize: 1.0
+    isLinear: true
+    lotSize: 1.0
+    minOrderSize: 1.0
+    rebate: 0.015
+    settlementCurrency: USDT
+    symbol: C98USDTM
+    tickSize: 0.0001
+  chr_usdt_kucoin:
+    contractSize: 1.0
+    isLinear: true
+    lotSize: 1.0
+    minOrderSize: 1.0
+    rebate: 0.015
+    settlementCurrency: USDT
+    symbol: CHRUSDTM
+    tickSize: 0.0001
+  chz_usdt_kucoin:
+    contractSize: 1.0
+    isLinear: true
+    lotSize: 1.0
+    minOrderSize: 1.0
+    rebate: 0.015
+    settlementCurrency: USDT
+    symbol: CHZUSDTM
+    tickSize: 0.0001
+  comp_usdt_kucoin:
+    contractSize: 0.01
+    isLinear: true
+    lotSize: 1.0
+    minOrderSize: 1.0
+    rebate: 0.015
+    settlementCurrency: USDT
+    symbol: COMPUSDTM
+    tickSize: 0.01
+  crv_usdt_kucoin:
+    contractSize: 1.0
+    isLinear: true
+    lotSize: 1.0
+    minOrderSize: 1.0
+    rebate: 0.015
+    settlementCurrency: USDT
+    symbol: CRVUSDTM
+    tickSize: 0.001
+  dash_usdt_kucoin:
+    contractSize: 0.01
+    isLinear: true
+    lotSize: 1.0
+    minOrderSize: 1.0
+    rebate: 0.015
+    settlementCurrency: USDT
+    symbol: DASHUSDTM
+    tickSize: 0.01
+  dent_usdt_kucoin:
+    contractSize: 100.0
+    isLinear: true
+    lotSize: 1.0
+    minOrderSize: 1.0
+    rebate: 0.015
+    settlementCurrency: USDT
+    symbol: DENTUSDTM
+    tickSize: 1.0e-06
+  dgb_usdt_kucoin:
+    contractSize: 10.0
+    isLinear: true
+    lotSize: 1.0
+    minOrderSize: 1.0
+    rebate: 0.015
+    settlementCurrency: USDT
+    symbol: DGBUSDTM
+    tickSize: 1.0e-05
+  doge_usdt_kucoin:
+    contractSize: 100.0
+    isLinear: true
+    lotSize: 1.0
+    minOrderSize: 1.0
+    rebate: 0.015
+    settlementCurrency: USDT
+    symbol: DOGEUSDTM
+    tickSize: 1.0e-05
+  dot_usd_kucoin:
+    contractSize: 1.0
+    isLinear: false
+    lotSize: 1.0
+    minOrderSize: 1.0
+    rebate: 0.015
+    settlementCurrency: DOT
+    symbol: DOTUSDM
+    tickSize: 0.001
+  dot_usdt_kucoin:
+    contractSize: 1.0
+    isLinear: true
+    lotSize: 1.0
+    minOrderSize: 1.0
+    rebate: 0.015
+    settlementCurrency: USDT
+    symbol: DOTUSDTM
+    tickSize: 0.001
+  dydx_usdt_kucoin:
+    contractSize: 0.1
+    isLinear: true
+    lotSize: 1.0
+    minOrderSize: 1.0
+    rebate: 0.015
+    settlementCurrency: USDT
+    symbol: DYDXUSDTM
+    tickSize: 0.001
+  egld_usdt_kucoin:
+    contractSize: 0.01
+    isLinear: true
+    lotSize: 1.0
+    minOrderSize: 1.0
+    rebate: 0.015
+    settlementCurrency: USDT
+    symbol: EGLDUSDTM
+    tickSize: 0.01
+  enj_usdt_kucoin:
+    contractSize: 1.0
+    isLinear: true
+    lotSize: 1.0
+    minOrderSize: 1.0
+    rebate: 0.015
+    settlementCurrency: USDT
+    symbol: ENJUSDTM
+    tickSize: 0.001
+  eos_usdt_kucoin:
+    contractSize: 1.0
+    isLinear: true
+    lotSize: 1.0
+    minOrderSize: 1.0
+    rebate: 0.015
+    settlementCurrency: USDT
+    symbol: EOSUSDTM
+    tickSize: 0.001
+  etc_usdt_kucoin:
+    contractSize: 0.1
+    isLinear: true
+    lotSize: 1.0
+    minOrderSize: 1.0
+    rebate: 0.015
+    settlementCurrency: USDT
+    symbol: ETCUSDTM
+    tickSize: 0.001
+  eth_usd_kucoin:
+    contractSize: 1.0
+    isLinear: false
+    lotSize: 1.0
+    minOrderSize: 1.0
+    rebate: 0.015
+    settlementCurrency: ETH
+    symbol: ETHUSDM
+    tickSize: 0.05
+  eth_usdt_kucoin:
+    contractSize: 0.01
+    isLinear: true
+    lotSize: 1.0
+    minOrderSize: 1.0
+    rebate: 0.015
+    settlementCurrency: USDT
+    symbol: ETHUSDTM
+    tickSize: 0.05
+  fil_usdt_kucoin:
+    contractSize: 0.1
+    isLinear: true
+    lotSize: 1.0
+    minOrderSize: 1.0
+    rebate: 0.015
+    settlementCurrency: USDT
+    symbol: FILUSDTM
+    tickSize: 0.01
+  flow_usdt_kucoin:
+    contractSize: 0.1
+    isLinear: true
+    lotSize: 1.0
+    minOrderSize: 1.0
+    rebate: 0.015
+    settlementCurrency: USDT
+    symbol: FLOWUSDTM
+    tickSize: 0.0001
+  ftm_usdt_kucoin:
+    contractSize: 1.0
+    isLinear: true
+    lotSize: 1.0
+    minOrderSize: 1.0
+    rebate: 0.015
+    settlementCurrency: USDT
+    symbol: FTMUSDTM
+    tickSize: 0.0001
+  gala_usdt_kucoin:
+    contractSize: 1.0
+    isLinear: true
+    lotSize: 1.0
+    minOrderSize: 1.0
+    rebate: 0.015
+    settlementCurrency: USDT
+    symbol: GALAUSDTM
+    tickSize: 1.0e-05
+  grt_usdt_kucoin:
+    contractSize: 1.0
+    isLinear: true
+    lotSize: 1.0
+    minOrderSize: 1.0
+    rebate: 0.015
+    settlementCurrency: USDT
+    symbol: GRTUSDTM
+    tickSize: 1.0e-05
+  hbar_usdt_kucoin:
+    contractSize: 10.0
+    isLinear: true
+    lotSize: 1.0
+    minOrderSize: 1.0
+    rebate: 0.015
+    settlementCurrency: USDT
+    symbol: HBARUSDTM
+    tickSize: 1.0e-05
+  icp_usdt_kucoin:
+    contractSize: 0.01
+    isLinear: true
+    lotSize: 1.0
+    minOrderSize: 1.0
+    rebate: 0.015
+    settlementCurrency: USDT
+    symbol: ICPUSDTM
+    tickSize: 0.1
+  iost_usdt_kucoin:
+    contractSize: 100.0
+    isLinear: true
+    lotSize: 1.0
+    minOrderSize: 1.0
+    rebate: 0.015
+    settlementCurrency: USDT
+    symbol: IOSTUSDTM
+    tickSize: 1.0e-05
+  iotx_usdt_kucoin:
+    contractSize: 10.0
+    isLinear: true
+    lotSize: 1.0
+    minOrderSize: 1.0
+    rebate: 0.015
+    settlementCurrency: USDT
+    symbol: IOTXUSDTM
+    tickSize: 1.0e-05
+  keep_usdt_kucoin:
+    contractSize: 1.0
+    isLinear: true
+    lotSize: 1.0
+    minOrderSize: 1.0
+    rebate: 0.015
+    settlementCurrency: USDT
+    symbol: KEEPUSDTM
+    tickSize: 1.0e-05
+  ksm_usdt_kucoin:
+    contractSize: 0.01
+    isLinear: true
+    lotSize: 1.0
+    minOrderSize: 1.0
+    rebate: 0.015
+    settlementCurrency: USDT
+    symbol: KSMUSDTM
+    tickSize: 0.001
+  link_usdt_kucoin:
+    contractSize: 0.1
+    isLinear: true
+    lotSize: 1.0
+    minOrderSize: 1.0
+    rebate: 0.015
+    settlementCurrency: USDT
+    symbol: LINKUSDTM
+    tickSize: 0.001
+  lrc_usdt_kucoin:
+    contractSize: 1.0
+    isLinear: true
+    lotSize: 1.0
+    minOrderSize: 1.0
+    rebate: 0.015
+    settlementCurrency: USDT
+    symbol: LRCUSDTM
+    tickSize: 0.0001
+  ltc_usdt_kucoin:
+    contractSize: 0.1
+    isLinear: true
+    lotSize: 1.0
+    minOrderSize: 1.0
+    rebate: 0.015
+    settlementCurrency: USDT
+    symbol: LTCUSDTM
+    tickSize: 0.01
+  luna_usdt_kucoin:
+    contractSize: 1.0
+    isLinear: true
+    lotSize: 1.0
+    minOrderSize: 1.0
+    rebate: 0.015
+    settlementCurrency: USDT
+    symbol: LUNAUSDTM
+    tickSize: 0.001
+  mana_usdt_kucoin:
+    contractSize: 1.0
+    isLinear: true
+    lotSize: 1.0
+    minOrderSize: 1.0
+    rebate: 0.015
+    settlementCurrency: USDT
+    symbol: MANAUSDTM
+    tickSize: 0.001
+  matic_usdt_kucoin:
+    contractSize: 10.0
+    isLinear: true
+    lotSize: 1.0
+    minOrderSize: 1.0
+    rebate: 0.015
+    settlementCurrency: USDT
+    symbol: MATICUSDTM
+    tickSize: 0.0001
+  mir_usdt_kucoin:
+    contractSize: 0.1
+    isLinear: true
+    lotSize: 1.0
+    minOrderSize: 1.0
+    rebate: 0.015
+    settlementCurrency: USDT
+    symbol: MIRUSDTM
+    tickSize: 0.001
+  mkr_usdt_kucoin:
+    contractSize: 0.001
+    isLinear: true
+    lotSize: 1.0
+    minOrderSize: 1.0
+    rebate: 0.015
+    settlementCurrency: USDT
+    symbol: MKRUSDTM
+    tickSize: 0.1
+  near_usdt_kucoin:
+    contractSize: 0.1
+    isLinear: true
+    lotSize: 1.0
+    minOrderSize: 1.0
+    rebate: 0.015
+    settlementCurrency: USDT
+    symbol: NEARUSDTM
+    tickSize: 0.001
+  neo_usdt_kucoin:
+    contractSize: 0.1
+    isLinear: true
+    lotSize: 1.0
+    minOrderSize: 1.0
+    rebate: 0.015
+    settlementCurrency: USDT
+    symbol: NEOUSDTM
+    tickSize: 0.01
+  ocean_usdt_kucoin:
+    contractSize: 1.0
+    isLinear: true
+    lotSize: 1.0
+    minOrderSize: 1.0
+    rebate: 0.015
+    settlementCurrency: USDT
+    symbol: OCEANUSDTM
+    tickSize: 0.001
+  one_usdt_kucoin:
+    contractSize: 10.0
+    isLinear: true
+    lotSize: 1.0
+    minOrderSize: 1.0
+    rebate: 0.015
+    settlementCurrency: USDT
+    symbol: ONEUSDTM
+    tickSize: 1.0e-05
+  ont_usdt_kucoin:
+    contractSize: 1.0
+    isLinear: true
+    lotSize: 1.0
+    minOrderSize: 1.0
+    rebate: 0.015
+    settlementCurrency: USDT
+    symbol: ONTUSDTM
+    tickSize: 0.0001
+  qtum_usdt_kucoin:
+    contractSize: 0.1
+    isLinear: true
+    lotSize: 1.0
+    minOrderSize: 1.0
+    rebate: 0.015
+    settlementCurrency: USDT
+    symbol: QTUMUSDTM
+    tickSize: 0.001
+  rndr_usdt_kucoin:
+    contractSize: 1.0
+    isLinear: true
+    lotSize: 1.0
+    minOrderSize: 1.0
+    rebate: 0.015
+    settlementCurrency: USDT
+    symbol: RNDRUSDTM
+    tickSize: 0.0001
+  rvn_usdt_kucoin:
+    contractSize: 10.0
+    isLinear: true
+    lotSize: 1.0
+    minOrderSize: 1.0
+    rebate: 0.015
+    settlementCurrency: USDT
+    symbol: RVNUSDTM
+    tickSize: 1.0e-05
+  sand_usdt_kucoin:
+    contractSize: 1.0
+    isLinear: true
+    lotSize: 1.0
+    minOrderSize: 1.0
+    rebate: 0.015
+    settlementCurrency: USDT
+    symbol: SANDUSDTM
+    tickSize: 1.0e-05
+  shib_usdt_kucoin:
+    contractSize: 100000.0
+    isLinear: true
+    lotSize: 1.0
+    minOrderSize: 1.0
+    rebate: 0.015
+    settlementCurrency: USDT
+    symbol: SHIBUSDTM
+    tickSize: 1.0e-08
+  snx_usdt_kucoin:
+    contractSize: 0.1
+    isLinear: true
+    lotSize: 1.0
+    minOrderSize: 1.0
+    rebate: 0.015
+    settlementCurrency: USDT
+    symbol: SNXUSDTM
+    tickSize: 0.001
+  sol_usdt_kucoin:
+    contractSize: 0.1
+    isLinear: true
+    lotSize: 1.0
+    minOrderSize: 1.0
+    rebate: 0.015
+    settlementCurrency: USDT
+    symbol: SOLUSDTM
+    tickSize: 0.001
+  sushi_usdt_kucoin:
+    contractSize: 1.0
+    isLinear: true
+    lotSize: 1.0
+    minOrderSize: 1.0
+    rebate: 0.015
+    settlementCurrency: USDT
+    symbol: SUSHIUSDTM
+    tickSize: 0.001
+  sxp_usdt_kucoin:
+    contractSize: 1.0
+    isLinear: true
+    lotSize: 1.0
+    minOrderSize: 1.0
+    rebate: 0.015
+    settlementCurrency: USDT
+    symbol: SXPUSDTM
+    tickSize: 0.001
+  theta_usdt_kucoin:
+    contractSize: 0.1
+    isLinear: true
+    lotSize: 1.0
+    minOrderSize: 1.0
+    rebate: 0.015
+    settlementCurrency: USDT
+    symbol: THETAUSDTM
+    tickSize: 0.001
+  tlm_usdt_kucoin:
+    contractSize: 1.0
+    isLinear: true
+    lotSize: 1.0
+    minOrderSize: 1.0
+    rebate: 0.015
+    settlementCurrency: USDT
+    symbol: TLMUSDTM
+    tickSize: 1.0e-05
+  trx_usdt_kucoin:
+    contractSize: 100.0
+    isLinear: true
+    lotSize: 1.0
+    minOrderSize: 1.0
+    rebate: 0.015
+    settlementCurrency: USDT
+    symbol: TRXUSDTM
+    tickSize: 1.0e-05
+  uni_usdt_kucoin:
+    contractSize: 1.0
+    isLinear: true
+    lotSize: 1.0
+    minOrderSize: 1.0
+    rebate: 0.015
+    settlementCurrency: USDT
+    symbol: UNIUSDTM
+    tickSize: 0.001
+  vet_usdt_kucoin:
+    contractSize: 100.0
+    isLinear: true
+    lotSize: 1.0
+    minOrderSize: 1.0
+    rebate: 0.015
+    settlementCurrency: USDT
+    symbol: VETUSDTM
+    tickSize: 1.0e-05
+  vra_usdt_kucoin:
+    contractSize: 10.0
+    isLinear: true
+    lotSize: 1.0
+    minOrderSize: 1.0
+    rebate: 0.015
+    settlementCurrency: USDT
+    symbol: VRAUSDTM
+    tickSize: 1.0e-06
+  waves_usdt_kucoin:
+    contractSize: 0.1
+    isLinear: true
+    lotSize: 1.0
+    minOrderSize: 1.0
+    rebate: 0.015
+    settlementCurrency: USDT
+    symbol: WAVESUSDTM
+    tickSize: 0.001
+  xbt_usd_kucoin:
+    contractSize: 1.0
+    isLinear: false
+    lotSize: 1.0
+    minOrderSize: 1.0
+    rebate: 0.015
+    settlementCurrency: XBT
+    symbol: XBTUSDM
+    tickSize: 1.0
+  xbt_usdt_kucoin:
+    contractSize: 0.001
+    isLinear: true
+    lotSize: 1.0
+    minOrderSize: 1.0
+    rebate: 0.015
+    settlementCurrency: USDT
+    symbol: XBTUSDTM
+    tickSize: 1.0
+  xem_usdt_kucoin:
+    contractSize: 1.0
+    isLinear: true
+    lotSize: 1.0
+    minOrderSize: 1.0
+    rebate: 0.015
+    settlementCurrency: USDT
+    symbol: XEMUSDTM
+    tickSize: 0.0001
+  xlm_usdt_kucoin:
+    contractSize: 10.0
+    isLinear: true
+    lotSize: 1.0
+    minOrderSize: 1.0
+    rebate: 0.015
+    settlementCurrency: USDT
+    symbol: XLMUSDTM
+    tickSize: 1.0e-05
+  xmr_usdt_kucoin:
+    contractSize: 0.01
+    isLinear: true
+    lotSize: 1.0
+    minOrderSize: 1.0
+    rebate: 0.015
+    settlementCurrency: USDT
+    symbol: XMRUSDTM
+    tickSize: 0.01
+  xrp_usd_kucoin:
+    contractSize: 1.0
+    isLinear: false
+    lotSize: 1.0
+    minOrderSize: 1.0
+    rebate: 0.015
+    settlementCurrency: XRP
+    symbol: XRPUSDM
+    tickSize: 0.0001
+  xrp_usdt_kucoin:
+    contractSize: 10.0
+    isLinear: true
+    lotSize: 1.0
+    minOrderSize: 1.0
+    rebate: 0.015
+    settlementCurrency: USDT
+    symbol: XRPUSDTM
+    tickSize: 0.0001
+  xtz_usdt_kucoin:
+    contractSize: 1.0
+    isLinear: true
+    lotSize: 1.0
+    minOrderSize: 1.0
+    rebate: 0.015
+    settlementCurrency: USDT
+    symbol: XTZUSDTM
+    tickSize: 0.001
+  yfi_usdt_kucoin:
+    contractSize: 0.0001
+    isLinear: true
+    lotSize: 1.0
+    minOrderSize: 1.0
+    rebate: 0.015
+    settlementCurrency: USDT
+    symbol: YFIUSDTM
+    tickSize: 1.0
+  ygg_usdt_kucoin:
+    contractSize: 0.1
+    isLinear: true
+    lotSize: 1.0
+    minOrderSize: 1.0
+    rebate: 0.015
+    settlementCurrency: USDT
+    symbol: YGGUSDTM
+    tickSize: 0.0001
+  zec_usdt_kucoin:
+    contractSize: 0.01
+    isLinear: true
+    lotSize: 1.0
+    minOrderSize: 1.0
+    rebate: 0.015
+    settlementCurrency: USDT
+    symbol: ZECUSDTM
+    tickSize: 0.01
+

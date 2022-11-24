@@ -1,0 +1,8 @@
+BITMAX:
+  rune_usdt_bitmax:
+    symbol: "RUNE/USDT"
+    tickSize: 0.000001
+    minOrderSize: 1
+    lotSize: 1
+    contractSize: 1
+

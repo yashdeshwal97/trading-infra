@@ -1,0 +1,42 @@
+FBINANCE:
+  btc_fb:
+    symbol: "BTCUSDT"
+    tickSize: 0.01
+    minOrderSize: 0.001
+    lotSize: 0.001
+    contractSize: 1
+
+  eth_fb:
+    symbol: "ETHUSDT"
+    tickSize: 0.01
+    minOrderSize: 0.001
+    lotSize: 0.001
+    contractSize: 1
+
+  bch_fb:
+    symbol: "BCHUSDT"
+    tickSize: 0.01
+    minOrderSize: 0.001
+    lotSize: 0.001
+    contractSize: 1
+
+  xrp_fb:
+    symbol: "XRPUSDT"
+    tickSize: 0.0001
+    minOrderSize: 0.1
+    lotSize: 0.1
+    contractSize: 1
+
+  eos_fb:
+    symbol: "EOSUSDT"
+    tickSize: 0.001
+    minOrderSize: 0.1
+    lotSize: 0.1
+    contractSize: 1
+
+  ltc_fb:
+    symbol: "LTCUSDT"
+    tickSize: 0.01
+    minOrderSize: 0.1
+    lotSize: 0.1
+    contractSize: 1

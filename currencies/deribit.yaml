@@ -1,0 +1,16 @@
+DERIBIT:
+  btc_perpetual:
+    contractSize: 10.0
+    lotSize: 1.0
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: BTC-PERPETUAL
+    tickSize: 0.5
+  eth_perpetual:
+    contractSize: 1
+    lotSize: 1.0
+    minOrderSize: 1.0
+    rebate: 0.01
+    symbol: ETH-PERPETUAL
+    tickSize: 0.05
+
