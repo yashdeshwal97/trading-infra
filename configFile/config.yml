@@ -2,8 +2,8 @@ exchanges:
   auth:
     ftx:
       exchangeName: FTX
-      apiKey: "eUiOSuFzzsJ8BkJApWQw41XHVLBVD5r4xVwNwx3E"
-      secret: "4IPyKCfZ6QZiOezSKpedSJW7zQvDzC-6mTxINaAP"
+      apiKey: ""
+      secret: ""
       enabled: True
       count: 2
       intervalSeconds: 0.2
